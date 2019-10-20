@@ -1,25 +1,10 @@
 configuration:
-  project_inactive_months: 6
-  project_dead_months: 12
-  project_new_months: 6
-  min_sourcerank: 10
   min_stars: 150
-  require_license: True
-  require_pypi: False
   require_github: True
-  require_npm: False
-  require_conda: False
   allowed_licenses: [ "Apache-2.0", "MIT", "BSD-3-Clause", "BSD-2-Clause", "ISC", "MPL-2.0"]
   markdown_header_file: "header.md"
   markdown_footer_file: "footer.md"
-  markdown_output_file: "README.md"
   projects_history_folder: "history"
-  generate_badges: False
-  generate_install_hints: True
-  generate_toc: True
-  generate_link_shortcuts: False
-  generate_legend: True
-  sort_by: "sourcerank"
 
 categories:
 - category: "ml-frameworks"
@@ -30,7 +15,7 @@ categories:
   subtitle: "General-purpose and task-specific data visualization libraries."
 - category: "nlp"
   title: "Text Data & NLP"
-  subtitle: "Libraries for parsing, manipulating, and processing plain texts."
+  subtitle: "Libraries for parsing, manipulating, and processing plain texts. ... Sequence Analysis"
 - category: "image"
   title: "Image Data"
   subtitle: "Libraries and tools for computer vision and image manipulation."
@@ -38,9 +23,10 @@ categories:
   title: "Graph Data"
 - category: "audio"
   title: "Audio Data"
+  subtitle: "Speech Recognition, ..."
 - category: "geospatial-data"
   title: "Geospatial Data"
-  subtitle: "Spatial Analysis"
+  subtitle: "Spatial Analysis, Geometry"
 - category: "time-series-data"
   title: "Time Series Data"
   subtitle: "Sequential Data..."
@@ -59,9 +45,6 @@ categories:
   title: "Reinforcement Learning"
 - category: "recommender-systems"
   title: "Recommender Systems"
-- category: "jupyter"
-  title: "Jupyter Ecosystem"
-  subtitle: "Extensions, widgets, tools related to Jupyter."
 - category: "distributed-ml"
   title: "Distributed Machine Learning"
 - category: "privacy-ml"
@@ -76,7 +59,7 @@ categories:
   title: "Model Serialisation & Deployment"
 - category: "interpretability"
   title: "Model Interpretability"
-  subtitle: "Visualize, explain, understand, and interpret machine learning models."
+  subtitle: "Visualize, explain, evaluate, and interpret machine learning models."
 - category: "nn-search"
   title: "Vector Similarity Search (ANN)"
   subtitle: "Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)."
@@ -555,10 +538,6 @@ projects:
   pypi_id: kafka-python
   github_id: dpkp/kafka-python
   category: db-clients
-- name: tinydb
-  pypi_id: tinydb
-  github_id: msiemens/tinydb
-  category: db-clients
 - name: PyMySQL
   pypi_id: PyMySQL
   github_id: PyMySQL/PyMySQL
@@ -700,10 +679,13 @@ projects:
 - name: Plotly
   pypi_id: plotly
   github_id: plotly/plotly.py
+  npm_id: plotlywidget
   category: data-viz
 - name: HoloViews
   pypi_id: holoviews
   github_id: pyviz/holoviews
+  npm_id: "@pyviz/jupyterlab_pyviz"
+  labels: ["jupyter"]
   category: data-viz
 - name: Chartify
   pypi_id: chartify
@@ -724,6 +706,7 @@ projects:
 - name: bqplot
   pypi_id: bqplot
   github_id: bloomberg/bqplot
+  npm_id: bqplot
   category: data-viz
 - name: hvPlot
   pypi_id: hvplot
@@ -777,10 +760,13 @@ projects:
 - name: VisPy
   pypi_id: vispy
   github_id: vispy/vispy
+  npm_id: vispy
+  labels: ["jupyter"]
   category: data-viz
 - name: ipyvolume
   pypi_id: ipyvolume
   github_id: maartenbreddels/ipyvolume
+  npm_id: ipyvolume
   labels: ["jupyter"]
   category: data-viz
 - name: PyVista
@@ -796,6 +782,29 @@ projects:
 - name: pythreejs
   pypi_id: pythreejs
   github_id: jupyter-widgets/pythreejs
+  npm_id: jupyter-threejs
+  labels: ["jupyter"]
+  category: data-viz
+- name: itkwidgets
+  pypi_id: itkwidgets
+  github_id: InsightSoftwareConsortium/itkwidgets
+  npm_id: itkwidgets
+  labels: ["jupyter"]
+  category: data-viz
+- name: facets-overview
+  pypi_id: facets-overview
+  github_id: pair-code/facets
+  labels: ["jupyter"]
+  category: data-viz
+- name: pivottablejs
+  pypi_id: pivottablejs
+  github_id: nicolaskruchten/jupyter_pivottablejs
+  labels: ["jupyter"]
+  category: data-viz
+- name: Perspective
+  pypi_id: perspective-python
+  github_id: finos/perspective
+  npm_id: "@finos/perspective-jupyterlab"
   labels: ["jupyter"]
   category: data-viz
 # Model Interpretability
@@ -882,125 +891,10 @@ projects:
   pypi_id: skater
   github_id: oracle/Skater
   category: interpretability
-# Jupyter Ecosystem
-- name: facets-overview
-  pypi_id: facets-overview
-  github_id: pair-code/facets
-  labels: ["jupyter"]
-  category: jupyter
-- name: ipysheet
-  pypi_id: ipysheet
-  github_id: QuantStack/ipysheet
-  labels: ["jupyter"]
-  category: jupyter
-- name: ipyexperiments
-  pypi_id: ipyexperiments
-  github_id: stas00/ipyexperiments
-  labels: ["jupyter"]
-  category: jupyter
-- name: papermill
-  pypi_id: papermill
-  github_id: nteract/papermill
-  labels: ["jupyter"]
-  category: jupyter
-- name: qgrid
-  pypi_id: qgrid
-  github_id: quantopian/qgrid
-  labels: ["jupyter"]
-  category: jupyter
-- name: pivottablejs
-  pypi_id: pivottablejs
-  github_id: nicolaskruchten/jupyter_pivottablejs
-  labels: ["jupyter"]
-  category: jupyter
-- name: ipython-sql
-  pypi_id: ipython-sql
-  github_id: catherinedevlin/ipython-sql
-  labels: ["jupyter"]
-  category: jupyter
-- name: jupyter-tensorboard
-  pypi_id: jupyter-tensorboard
-  github_id: lspvic/jupyter_tensorboard
-  labels: ["jupyter"]
-  category: jupyter
-- name: nbdime
-  pypi_id: nbdime
-  github_id: jupyter/nbdime
-  labels: ["jupyter"]
-  category: jupyter
-- name: remote_ikernel
-  pypi_id: remote_ikernel
-  labels: ["jupyter"]
-  category: jupyter
-- name: nbresuse
-  pypi_id: nbresuse
-  github_id: yuvipanda/nbresuse
-  labels: ["jupyter"]
-  category: jupyter
-- name: jupyter-matplotlib
-  pypi_id: ipympl
-  github_id: matplotlib/jupyter-matplotlib
-  labels: ["jupyter"]
-  category: jupyter
-- name: nbinteract
-  pypi_id: nbinteract
-  github_id: SamLau95/nbinteract
-  labels: ["jupyter"]
-  category: jupyter # dashboarding
-- name: jupytext
-  pypi_id: jupytext
-  github_id: mwouts/jupytext
-  labels: ["jupyter"]
-  category: jupyter
-- name: ipywidgets
-  pypi_id: ipywidgets
-  github_id: jupyter-widgets/ipywidgets
-  labels: ["jupyter"]
-  category: jupyter
-- name: Voila
-  pypi_id: voila
-  github_id: voila-dashboards/voila
-  labels: ["jupyter"]
-  category: jupyter
-- name: jupyter-kernel-gateway
-  pypi_id: jupyter-kernel-gateway
-  github_id: jupyter/kernel_gateway
-  labels: ["jupyter"]
-  category: jupyter
-- name: jupyter-server-proxy
-  pypi_id: jupyter-server-proxy
-  github_id: jupyterhub/jupyter-server-proxy
-  labels: ["jupyter"]
-  category: jupyter
-- name: jupyter_contrib_nbextensions
-  pypi_id: jupyter_contrib_nbextensions
-  github_id: ipython-contrib/jupyter_contrib_nbextensions
-  labels: ["jupyter"]
-  category: jupyter
-- name: jupyter_nbextensions_configurator
-  pypi_id: jupyter_nbextensions_configurator
-  github_id: jupyter-contrib/jupyter_nbextensions_configurator
-  labels: ["jupyter"]
-  category: jupyter
-- name: PixieDust
-  pypi_id: pixiedust
-  github_id: pixiedust/pixiedust
-  labels: ["jupyter"]
-  category: jupyter
-- name: treon
-  pypi_id: treon
-  github_id: ReviewNB/treon
-  labels: ["jupyter"]
-  category: jupyter
-- name: watermark
-  pypi_id: watermark
-  github_id: rasbt/watermark
-  labels: ["jupyter"]
-  category: jupyter
-- name: Visual UI
-  github_id: asvcode/Vision_UI
-  labels: ["jupyter"]
-  category: jupyter
+- name: XAI
+  pypi_id: xai
+  github_id: EthicalML/xai
+  category: interpretability
 # ML Platforms and IDEs
 - name: Jupyter
   pypi_id: jupyterhub
@@ -1100,6 +994,10 @@ projects:
   github_id: shenweichen/GraphEmbedding
   labels: ["sklearn"]
   category: graph
+- name: igraph
+  github_id: igraph/python-igraph
+  pypi_id: python-igraph
+  category: graph
 # Geospatial Data
 - name: GeoPandas
   pypi_id: geopandas
@@ -1128,11 +1026,12 @@ projects:
 - name: ipyleaflet
   pypi_id: ipyleaflet
   github_id: jupyter-widgets/ipyleaflet
-  labels: ["jupyter"]
+  npm_id: jupyter-leaflet
   category: geospatial-data # visualization?
 - name: gmaps
   pypi_id: gmaps
   github_id: pbugnion/gmaps
+  npm_id: jupyter-gmaps
   labels: ["jupyter"]
   category: geospatial-data # visualization?
 # Hyperparameter Optimization
@@ -1464,7 +1363,7 @@ projects:
   pypi_id: xlrd
   github_id: python-excel/xlrd
   category: data-handling
-- name: blaze
+- name: Blaze
   pypi_id: blaze
   github_id: blaze/blaze
   category: data-handling
@@ -1506,6 +1405,10 @@ projects:
 - name: PyTables
   pypi_id: tables
   github_id: PyTables/PyTables
+  category: data-handling
+- name: TinyDB
+  pypi_id: tinydb
+  github_id: msiemens/tinydb
   category: data-handling
 # Medical Data
 - name: DLTK
@@ -1905,6 +1808,11 @@ projects:
   github_id: NVIDIA/apex
   labels: ["pytorch"]
   category: gpu-utilities
+- name: ipyexperiments
+  pypi_id: ipyexperiments
+  github_id: stas00/ipyexperiments
+  labels: ["jupyter"]
+  category: gpu-utilities
 # Data Collection & Extraction
 - name: beautifulsoup4
   pypi_id: beautifulsoup4
@@ -1974,6 +1882,10 @@ projects:
 - name: PDFMiner
   pypi_id: pdfminer
   github_id: euske/pdfminer
+  category: data-collection
+- name: xmltodict
+  pypi_id: xmltodict
+  github_id: martinblech/xmltodict
   category: data-collection
 # Probabilistic Methods
 - name: pomegranate
@@ -2174,3 +2086,6 @@ projects:
 - name: apricot
   pypi_id: apricot-select
   github_id: jmschrei/apricot
+- name: zipline
+  pypi_id: zipline
+  github_id: quantopian/zipline
