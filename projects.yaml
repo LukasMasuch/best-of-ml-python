@@ -493,6 +493,11 @@ projects:
   github_id: Hironsan/anago
   labels: ["keras"]
   category: nlp
+- name: NeMo
+  pypi_id: nemo-toolkit
+  github_id: NVIDIA/NeMo
+  labels: ["pytorch"]
+  category: nlp
 # Database Clients
 - name: SuperSQLite
   pypi_id: supersqlite
@@ -670,6 +675,11 @@ projects:
 - name: imutils
   github_id: jrosebr1/imutils
   pypi_id: imutils
+  category: image
+- name: InsightFace
+  github_id: deepinsight/insightface
+  pypi_id: insightface
+  labels: ["mxnet"]
   category: image
 # Data Visualization
 - name: Bokeh
@@ -1302,6 +1312,10 @@ projects:
 - name: DeepMind Lab
   github_id: deepmind/lab
   category: reinforcement-learning
+- name: TensorTrade
+  github_id: notadamking/tensortrade
+  pypi_id: tensortrade
+  category: reinforcement-learning
 # Dashboard & Webapp Builders
 - name: Panel
   pypi_id: panel
@@ -1700,27 +1714,13 @@ projects:
   pypi_id: onnx
   github_id: onnx/onnx
   category: model-serialisation
-- name: onnxruntime
-  pypi_id: onnxruntime
-  github_id: microsoft/onnxruntime
-  category: model-serialisation
 - name: mmdnn
   pypi_id: mmdnn
   github_id: Microsoft/MMdnn
   category: model-serialisation
-- name: Clipper
-  github_id: ucbrise/clipper
-  category: model-serialisation
-- name: BentoML
-  pypi_id: bentoml
-  github_id: bentoml/bentoml
-  category: model-serialisation
 - name: model-optimization
   pypi_id: tensorflow-model-optimization
   github_id: tensorflow/model-optimization
-  category: model-serialisation
-- name: Seldon
-  github_id: SeldonIO/seldon-core
   category: model-serialisation
 - name: sklearn-porter
   pypi_id: sklearn-porter
@@ -2089,3 +2089,6 @@ projects:
 - name: zipline
   pypi_id: zipline
   github_id: quantopian/zipline
+- name: Glow
+  pypi_id: glow.py
+  github_id: projectglow/glow
