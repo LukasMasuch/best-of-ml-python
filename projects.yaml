@@ -27,6 +27,8 @@ categories:
 - category: "geospatial-data"
   title: "Geospatial Data"
   subtitle: "Spatial Analysis, Geometry"
+- category: "financial-data"
+  title: "Financial Data"
 - category: "time-series-data"
   title: "Time Series Data"
   subtitle: "Sequential Data..."
@@ -38,6 +40,10 @@ categories:
 - category: "data-collection"
   title: "Data Collection & Extraction"
   subtitle: "Data collection & extraction and web crawling libraries and tools."
+- category: "data-pipelines"
+  title: "Data Pipelines & Streaming"
+- category: "distributed-ml"
+  title: "Distributed Machine Learning"
 - category: "hyperopt"
   title: "Hyperparameter Optimization & AutoML"
   subtitle: "Hyperparameter optimization, AutoML and Neural Architecture Search libraries and tools."
@@ -45,36 +51,38 @@ categories:
   title: "Reinforcement Learning"
 - category: "recommender-systems"
   title: "Recommender Systems"
-- category: "distributed-ml"
-  title: "Distributed Machine Learning"
 - category: "privacy-ml"
   title: "Privacy Machine Learning"
-- category: "db-clients"
-  title: "Database Clients"
-  subtitle: "Libraries for connecting and operating databases."
 - category: "ml-workflow"
   title: "Workflow & Experiment Tracking"
   subtitle: "Organize, track, and visualize machine learning experiments."
 - category: "model-serialisation"
-  title: "Model Serialisation & Deployment"
+  title: "Model Serialisation & Conversion"
 - category: "interpretability"
   title: "Model Interpretability"
-  subtitle: "Visualize, explain, evaluate, and interpret machine learning models."
+  subtitle: "Visualize, explain, debug, evaluate, and interpret machine learning models."
 - category: "nn-search"
   title: "Vector Similarity Search (ANN)"
   subtitle: "Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)."
-- category: "ml-platforms"
-  title: "ML Platforms & IDEs"
 - category: "gpu-utilities"
   title: "GPU Utilities"
+- category: "tensorflow-utils"
+  title: "Tensorflow Utilities"
+- category: "pytorch-utils"
+  title: "Pytorch Utilities"
 - category: "probabilistics"
   title: "Probabilistic Methods"
   subtitle: "bayesian-methods..."
 - category: "adversarial"
   title: "Adversarial Robustness"
   subtitle: "Security..."
+- category: "db-clients"
+  title: "Database Clients"
+  subtitle: "Libraries for connecting and operating databases."
 - category: "dashboard-builders"
   title: "Dashboard & Webapp Builders"
+- category: "system-monitoring"
+  title: "System Monitoring & Profiling"
 
 labels:
 - label: "tensorflow"
@@ -199,7 +207,9 @@ projects:
 - name: PySpark
   pypi_id: pyspark
   github_id: apache/spark
+  helm_id: stable/spark
   labels: ["spark"]
+  description: "Apache Spark Python API."
   category: ml-frameworks
 - name: ktrain
   pypi_id: ktrain
@@ -269,6 +279,16 @@ projects:
   category: ml-frameworks
 - name: StarSpace
   github_id: facebookresearch/StarSpace
+  # TODO: Add package manager
+  category: ml-frameworks
+- name: NuPIC
+  pypi_id: nupic
+  github_id: numenta/nupic
+  category: ml-frameworks
+- name: MindsDB
+  pypi_id: mindsdb
+  github_id: mindsdb/mindsdb
+  labels: ["pytorch"]
   category: ml-frameworks
 # NLP 
 - name: spaCy
@@ -355,9 +375,16 @@ projects:
   github_id: allenai/allennlp
   labels: ["pytorch"]
   category: nlp
+- name: DELTA
+  github_id: didi/delta
+  dockerhub_id: zh794390558/delta
+  labels: ["tensorflow"]
+  # TODO: Add package manager
+  category: nlp
 - name: ParlAI
   github_id: facebookresearch/ParlAI
   labels: ["pytorch"]
+  # TODO: Add package manager
   category: nlp
 - name: pytorch-nlp
   pypi_id: pytorch-nlp
@@ -472,6 +499,7 @@ projects:
   category: nlp
 - name: Translate
   github_id: pytorch/translate
+  pypi_id: pytorch-translate
   labels: ["pytorch"]
   category: nlp
 - name: TransferNLP
@@ -498,7 +526,21 @@ projects:
   github_id: NVIDIA/NeMo
   labels: ["pytorch"]
   category: nlp
+- name: MatchZoo
+  pypi_id: matchzoo
+  github_id: NTMC-Community/MatchZoo
+  labels: ["keras"]
+  category: nlp
+- name: Texar
+  pypi_id: texar
+  github_id: asyml/texar
+  labels: ["tensorflow"]
+  category: nlp
 # Database Clients
+- name: mongo-connector
+  pypi_id: mongo-connector
+  github_id: yougov/mongo-connector
+  category: db-clients
 - name: SuperSQLite
   pypi_id: supersqlite
   github_id: plasticityai/supersqlite
@@ -587,7 +629,16 @@ projects:
   pypi_id: SQLAlchemy
   github_id: sqlalchemy/sqlalchemy
   category: db-clients
+- name: AWS Data Wrangler
+  pypi_id: awswrangler
+  github_id: awslabs/aws-data-wrangler
+  category: db-clients
 # Image Processing
+- name: Face Alignment
+  github_id: 1adrianb/face-alignment
+  pypi_id: face-alignment
+  labels: ["pytorch"]
+  category: image
 - name: torchvision
   github_id: pytorch/vision
   pypi_id: torchvision
@@ -613,7 +664,7 @@ projects:
   pypi_id: Augmentor
   github_id: mdbloice/Augmentor
   category: image
-- name: opencv-python
+- name: opencv-python # TODO: use main opencv repo?
   pypi_id: opencv-python
   github_id: skvark/opencv-python
   category: image
@@ -624,6 +675,12 @@ projects:
 - name: Pillow
   pypi_id: Pillow
   github_id: python-pillow/Pillow
+  license: PIL
+  category: image
+- name: Pillow-SIMD
+  pypi_id: pillow-simd
+  github_id: uploadcare/pillow-simd
+  license: PIL
   category: image
 - name: GluonCV
   pypi_id: gluoncv
@@ -634,6 +691,7 @@ projects:
   github_id: facebookresearch/pythia
   labels: ["pytorch"]
   license: BSD-3-Clause
+  # TODO: Add package manager
   category: image
 - name: Image Deduplicator
   github_id: idealo/imagededup
@@ -648,6 +706,7 @@ projects:
 - name: detectron2
   github_id: facebookresearch/detectron2
   labels: ["pytorch"]
+  # TODO: Add package manager
   category: image
 - name: tensorflow-graphics
   pypi_id: tensorflow-graphics
@@ -657,6 +716,7 @@ projects:
 - name: MMDetection
   github_id: open-mmlab/mmdetection
   labels: ["pytorch"]
+  # TODO: Add package manager
   category: image
 - name: Albumentations
   github_id: albu/albumentations
@@ -680,6 +740,17 @@ projects:
   github_id: deepinsight/insightface
   pypi_id: insightface
   labels: ["mxnet"]
+  category: image
+- name: Luminoth
+  github_id: tryolabs/luminoth
+  pypi_id: luminoth
+  labels: ["tensorflow"]
+  category: image
+- name: Image Super-Resolution
+  github_id: idealo/image-super-resolution
+  pypi_id: ISR
+  dockerhub_id: idealo/image-super-resolution-gpu
+  labels: ["tensorflow"]
   category: image
 # Data Visualization
 - name: Bokeh
@@ -717,6 +788,7 @@ projects:
   pypi_id: bqplot
   github_id: bloomberg/bqplot
   npm_id: bqplot
+  labels: ["jupyter"]
   category: data-viz
 - name: hvPlot
   pypi_id: hvplot
@@ -726,21 +798,19 @@ projects:
   pypi_id: cufflinks
   github_id: santosjorge/cufflinks 
   category: data-viz
-- name: Visdom
-  pypi_id: visdom
-  github_id: facebookresearch/visdom
-  category: data-viz
 - name: datashader
   pypi_id: datashader
   github_id: pyviz/datashader
   category: data-viz
-- name: vega
-  pypi_id: vega
-  github_id: vega/ipyvega
-  category: data-viz
 - name: pdvega
   pypi_id: pdvega
   github_id: altair-viz/pdvega
+  category: data-viz
+- name: vega
+  pypi_id: vega
+  github_id: vega/ipyvega
+  conda_id: conda-forge/vega
+  labels: ["jupyter"]
   category: data-viz
 - name: missingno
   pypi_id: missingno
@@ -771,12 +841,7 @@ projects:
   pypi_id: vispy
   github_id: vispy/vispy
   npm_id: vispy
-  labels: ["jupyter"]
-  category: data-viz
-- name: ipyvolume
-  pypi_id: ipyvolume
-  github_id: maartenbreddels/ipyvolume
-  npm_id: ipyvolume
+  description: "High-performance interactive 2D/3D data visualization library."
   labels: ["jupyter"]
   category: data-viz
 - name: PyVista
@@ -795,12 +860,6 @@ projects:
   npm_id: jupyter-threejs
   labels: ["jupyter"]
   category: data-viz
-- name: itkwidgets
-  pypi_id: itkwidgets
-  github_id: InsightSoftwareConsortium/itkwidgets
-  npm_id: itkwidgets
-  labels: ["jupyter"]
-  category: data-viz
 - name: facets-overview
   pypi_id: facets-overview
   github_id: pair-code/facets
@@ -816,6 +875,21 @@ projects:
   github_id: finos/perspective
   npm_id: "@finos/perspective-jupyterlab"
   labels: ["jupyter"]
+  category: data-viz
+- name: pyecharts
+  pypi_id: pyecharts
+  github_id: pyecharts/pyecharts
+  docs_url: https://github.com/pyecharts/pyecharts/blob/master/README.en.md
+  labels: ["jupyter"]
+  category: data-viz
+- name: PyWaffle
+  pypi_id: pywaffle
+  github_id: gyli/PyWaffle
+  category: data-viz
+- name: openTSNE
+  pypi_id: opentsne
+  github_id: pavlin-policar/openTSNE
+  conda_id: conda-forge/opentsne
   category: data-viz
 # Model Interpretability
 - name: yellowbrick
@@ -905,34 +979,15 @@ projects:
   pypi_id: xai
   github_id: EthicalML/xai
   category: interpretability
-# ML Platforms and IDEs
-- name: Jupyter
-  pypi_id: jupyterhub
-  github_id: jupyter/jupyter
-  labels: ["jupyter"]
-  category: ml-platforms
-- name: JupyterHub
-  pypi_id: jupyter
-  github_id: jupyterhub/jupyterhub
-  labels: ["jupyter"]
-  category: ml-platforms
-- name: JupyterLab
-  pypi_id: jupyterlab
-  github_id: jupyterlab/jupyterlab
-  labels: ["jupyter"]
-  category: ml-platforms
-- name: ML Workspace
-  github_id: ml-tooling/ml-workspace
-  dockerhub_id: mltooling/ml-workspace
-  labels: ["jupyter"]
-  category: ml-platforms
-- name: Kubeflow
-  github_id: kubeflow/kubeflow
-  category: ml-platforms
-- name: Polyaxon
-  github_id: polyaxon/polyaxon
-  category: ml-platforms
+- name: keras-vis
+  pypi_id: keras-vis
+  github_id: raghakot/keras-vis
+  category: interpretability
 # Graph Processing
+- name: GraphVite
+  github_id: DeepGraphLearning/graphvite
+  conda_id: milagraph/graphvite
+  category: graph
 - name: networkx
   pypi_id: networkx
   github_id: networkx/networkx
@@ -956,7 +1011,7 @@ projects:
   github_id: rusty1s/pytorch_geometric
   labels: ["pytorch"]
   category: graph
-- name: torchbiggraph
+- name: PyTorch-BigGraph
   pypi_id: torchbiggraph
   github_id: facebookresearch/PyTorch-BigGraph
   labels: ["pytorch"]
@@ -972,11 +1027,13 @@ projects:
   category: graph
 - name: OpenKE
   github_id: thunlp/OpenKE
+  # TODO: Add package manager
   category: graph
 - name: GraphSAGE
   github_id: williamleif/GraphSAGE
   license: MIT
   labels: ["tensorflow"]
+  # TODO: Add package manager
   category: graph
 - name: StellarGraph
   pypi_id: stellargraph
@@ -994,6 +1051,7 @@ projects:
 - name: OpenNE
   github_id: thunlp/OpenNE
   labels: ["tensorflow"]
+  # TODO: Add package manager
   category: graph
 - name: Spektral
   pypi_id: spektral
@@ -1003,12 +1061,37 @@ projects:
 - name: GraphEmbedding
   github_id: shenweichen/GraphEmbedding
   labels: ["sklearn"]
+  # TODO: Add package manager
   category: graph
 - name: igraph
   github_id: igraph/python-igraph
   pypi_id: python-igraph
   category: graph
+- name: DeepGraph
+  pypi_id: deepgraph
+  conda_id: conda-forge/deepgraph
+  github_id: deepgraph/deepgraph
+  category: graph
+- name: Euler
+  pypi_id: euler-gl
+  github_id: alibaba/euler
+  labels: ["tensorflow"]
+  category: graph
 # Geospatial Data
+- name: Sentinelsat
+  pypi_id: sentinelsat
+  github_id: sentinelsat/sentinelsat
+  category: geospatial-data
+- name: EarthPy
+  pypi_id: earthpy
+  conda_id: conda-forge/earthpy
+  github_id: earthlab/earthpy
+  category: geospatial-data
+- name: pyproj
+  pypi_id: pyproj
+  github_id: pyproj4/pyproj
+  license: MIT
+  category: geospatial-data
 - name: GeoPandas
   pypi_id: geopandas
   github_id: geopandas/geopandas
@@ -1033,17 +1116,117 @@ projects:
   pypi_id: geoplotlib
   github_id: andrea-cuttone/geoplotlib
   category: geospatial-data
+- name: ArcGIS API
+  pypi_id: arcgis
+  github_id: Esri/arcgis-python-api
+  dockerhub_id: esridocker/arcgis-api-python-notebook
+  category: geospatial-data
+- name: Rasterio
+  pypi_id: rasterio
+  github_id: mapbox/rasterio
+  category: geospatial-data
+- name: Cartopy
+  pypi_id: Cartopy
+  github_id: mapbox/rasterio
+  category: geospatial-data
+- name: Fiona
+  pypi_id: fiona
+  github_id: Toblerity/Fiona
+  category: geospatial-data
+- name: Satpy
+  pypi_id: satpy
+  github_id: pytroll/satpy
+  category: geospatial-data
+- name: Geocoder
+  pypi_id: geocoder
+  github_id: DenisCarriere/geocoder
+  snap_id: geocoder
+  category: geospatial-data
+- name: Mapbox GL
+  github_id: mapbox/mapboxgl-jupyter
+  pypi_id: mapboxgl
+  labels: ["jupyter"]
+  category: geospatial-data
 - name: ipyleaflet
   pypi_id: ipyleaflet
   github_id: jupyter-widgets/ipyleaflet
   npm_id: jupyter-leaflet
-  category: geospatial-data # visualization?
+  labels: ["jupyter"]
+  category: geospatial-data
 - name: gmaps
   pypi_id: gmaps
   github_id: pbugnion/gmaps
   npm_id: jupyter-gmaps
+  license: BSD-3-Clause
   labels: ["jupyter"]
-  category: geospatial-data # visualization?
+  category: geospatial-data
+- name: pymap3d
+  github_id: scivision/pymap3d
+  pypi_id: pymap3d
+  category: geospatial-data
+# Financial Data
+- name: Backtesting.py
+  pypi_id: backtesting
+  github_id: kernc/backtesting.py
+  category: financial-data
+- name: empyrical
+  pypi_id: empyrical
+  github_id: quantopian/empyrical
+  category: financial-data
+- name: pyfolio
+  pypi_id: pyfolio
+  github_id: quantopian/pyfolio
+  category: financial-data
+- name: Alphalens
+  pypi_id: alphalens
+  github_id: quantopian/alphalens
+  category: financial-data
+- name: zipline
+  pypi_id: zipline
+  github_id: quantopian/zipline
+  category: financial-data
+- name: ffn
+  pypi_id: ffn
+  github_id: pmorissette/ffn
+  category: financial-data
+- name: bt
+  pypi_id: bt
+  github_id: pmorissette/bt
+  category: financial-data
+- name: backtrader
+  pypi_id: backtrader
+  github_id: backtrader/backtrader
+  category: financial-data
+- name: Crypto Signals
+  github_id: CryptoSignal/crypto-signal
+  dockerhub_id: shadowreaver/crypto-signal
+  # TODO: Add package manager
+  category: financial-data
+- name: Enigma Catalyst
+  github_id: enigmampc/catalyst
+  pypi_id: enigma-catalyst
+  category: financial-data
+- name: IB-insync
+  github_id: erdewit/ib_insync
+  pypi_id: ib_insync
+  category: financial-data
+- name: finmarketpy
+  github_id: cuemacro/finmarketpy
+  pypi_id: finmarketpy
+  category: financial-data
+- name: PyAlgoTrade
+  github_id: gbeced/pyalgotrade
+  pypi_id: pyalgotrade
+  license: Apache-2.0
+  category: financial-data
+- name: FinTA
+  github_id: peerchemist/finta
+  pypi_id: finta
+  category: financial-data
+- name: arch
+  github_id: bashtage/arch
+  pypi_id: arch
+  category: financial-data
 # Hyperparameter Optimization
 - name: Hyperopt
   pypi_id: hyperopt
@@ -1077,6 +1260,7 @@ projects:
   category: hyperopt
 - name: Devol
   github_id: joeddav/devol
+  # TODO: Add package manager
   category: hyperopt
 - name: TPOT
   pypi_id: tpot
@@ -1151,7 +1335,8 @@ projects:
   category: hyperopt
 - name: featuretools
   pypi_id: featuretools
-  github_id: featuretools/featuretools
+  conda_id: conda-forge/featuretools
+  github_id: FeatureLabs/featuretools
   category: hyperopt
 - name: MLBox
   pypi_id: mlbox
@@ -1176,11 +1361,39 @@ projects:
   category: hyperopt
 - name: ENAS
   github_id: carpedm20/ENAS-pytorch
+  # TODO: Add package manager
+  category: hyperopt
+- name: AlphaPy
+  pypi_id: alphapy
+  github_id: ScottfreeLLC/AlphaPy
+  category: hyperopt
+- name: GPyOpt
+  pypi_id: gpyopt
+  github_id: SheffieldML/GPyOpt
   category: hyperopt
 # ML Workflow Tools
+- name: DVC
+  github_id: iterative/dvc
+  brew_id: dvc
+  conda_id: conda-forge/dvc
+  apt_id: dvc
+  yum_id: dvc
+  category: ml-workflow
+- name: Studio.ml
+  pypi_id: studioml
+  github_id: studioml/studio
+  category: ml-workflow
+- name: TRAINS
+  pypi_id: trains
+  github_id: allegroai/trains
+  category: ml-workflow
 - name: sacred
   pypi_id: sacred
   github_id: IDSIA/sacred
+  category: ml-workflow
+- name: datmo
+  pypi_id: datmo
+  github_id: datmo/datmo
   category: ml-workflow
 - name: mlflow
   pypi_id: mlflow
@@ -1243,6 +1456,15 @@ projects:
   github_id: EducationalTestingService/skll
   labels: ["sklearn"]
   category: ml-workflow
+- name: AzureML SDK
+  pypi_id: azureml-sdk
+  github_id: Azure/MachineLearningNotebooks
+  category: ml-workflow
+- name: ModelChimp
+  pypi_id: modelchimp
+  github_id: ModelChimp/modelchimp
+  dockerhub_id: modelchimp/modelchimp-server
+  category: ml-workflow
 # Reinforcement Learning
 - name: TensorForce
   pypi_id: tensorforce
@@ -1291,6 +1513,7 @@ projects:
   github_id: facebookresearch/ReAgent
   license: BSD-3-Clause
   labels: ["pytorch"]
+  # TODO: Add package manager
   category: reinforcement-learning
 - name: garage
   github_id: rlworkgroup/garage
@@ -1317,6 +1540,15 @@ projects:
   pypi_id: tensortrade
   category: reinforcement-learning
 # Dashboard & Webapp Builders
+- name: Grafanalib
+  pypi_id: grafanalib
+  github_id: weaveworks/grafanalib
+  category: dashboard-builders
+- name: Flexx
+  pypi_id: flexx
+  github_id: flexxui/flexx
+  conda_id: conda-forge/flexx
+  category: dashboard-builders
 - name: Panel
   pypi_id: panel
   github_id: pyviz/panel
@@ -1324,6 +1556,10 @@ projects:
 - name: Streamlit
   pypi_id: streamlit
   github_id: streamlit/streamlit
+  category: dashboard-builders
+- name: Scripted Forms
+  pypi_id: scriptedforms
+  github_id: SimonBiggs/scriptedforms
   category: dashboard-builders
 - name: Dash
   pypi_id: dash
@@ -1360,6 +1596,7 @@ projects:
   pypi_id: sklearn-pandas
   github_id: scikit-learn-contrib/sklearn-pandas
   labels: ["sklearn"]
+  license: Zlib
   category: data-handling
 - name: pandasql
   pypi_id: pandasql
@@ -1464,6 +1701,7 @@ projects:
 - name: Medical Detection Toolkit
   github_id: pfjaeger/medicaldetectiontoolkit
   labels: ["pytorch"]
+  # TODO: add package manager
   category: medical-data
 - name: NIPYPE
   pypi_id: nipype
@@ -1471,6 +1709,8 @@ projects:
   category: medical-data
 - name: MedicalNet
   github_id: Tencent/MedicalNet
+  # TODO: 
+  license: MIT
   category: medical-data
 - name: NIPY
   pypi_id: nipy
@@ -1485,10 +1725,26 @@ projects:
   pypi_id: lifelines
   github_id: CamDavidsonPilon/lifelines
   category: medical-data
+- name: Glow
+  pypi_id: glow.py
+  github_id: projectglow/glow
+  category: medical-data
+- name: DeepVariant
+  github_id: google/deepvariant
+  conda_id: bioconda/deepvariant
+  labels: ["tensorflow"]
+  category: medical-data
 # Distributed Machine Learning
+- name: BytePS
+  github_id: bytedance/byteps
+  dockerhub_id: bytepsimage/byteps_server
+  license: Apache-2.0
+  # TODO: add package manager
+  category: distributed-ml
 - name: dask
   pypi_id: dask
   github_id: dask/dask
+  helm_id: stable/dask
   category: distributed-ml
 - name: Ray
   pypi_id: ray
@@ -1505,6 +1761,7 @@ projects:
 - name: horovod
   pypi_id: horovod
   github_id: horovod/horovod
+  helm_id: stable/horovod
   category: distributed-ml
 - name: LazyCluster
   pypi_id: lazycluster
@@ -1513,6 +1770,7 @@ projects:
 - name: ipyparallel
   pypi_id: ipyparallel
   github_id: ipython/ipyparallel
+  labels: ["jupyter"]
   category: distributed-ml
 - name: Modin
   pypi_id: modin
@@ -1526,7 +1784,7 @@ projects:
 - name: sk-dist
   pypi_id: sk-dist
   github_id: Ibotta/sk-dist
-  labels: ["sklearn"]
+  labels: ["sklearn", "spark"]
   category: distributed-ml
 - name: Mesh
   pypi_id: mesh-tensorflow
@@ -1541,10 +1799,21 @@ projects:
 - name: Apache Singa
   dockerhub_id: apache/singa
   github_id: apache/incubator-singa
+  conda_id:  nusdbsystem/singa
   category: distributed-ml
 - name: DEAP
   pypi_id: deap
   github_id: deap/deap
+  category: distributed-ml
+- name: TensorFrames
+  pypi_id: tensorframes
+  github_id: databricks/tensorframes
+  labels: ["tensorflow", "spark"]
+  category: distributed-ml
+- name: MMLSpark
+  github_id: Azure/mmlspark
+  labels: ["spark"]
+  # TODO: add package manager
   category: distributed-ml
 # Time Series Data
 - name: Prophet
@@ -1604,6 +1873,7 @@ projects:
 - name: NMSLIB
   pypi_id: nmslib
   github_id: nmslib/nmslib
+  license: Apache-2.0
   category: nn-search
 - name: Faiss
   pypi_id: faiss
@@ -1626,6 +1896,15 @@ projects:
   github_id: lmcinnes/pynndescent
   category: nn-search
 # Recommendation Systems
+- name: TensorFlow Ranking
+  pypi_id: tensorflow_ranking
+  github_id: tensorflow/ranking
+  labels: ["tensorflow"]
+  category: recommender-systems
+- name: OpenRec
+  pypi_id: openrec
+  github_id: ylongqi/openrec
+  category: recommender-systems
 - name: scikit-surprise
   pypi_id: scikit-surprise
   github_id: NicolasHug/Surprise
@@ -1645,6 +1924,7 @@ projects:
   category: recommender-systems
 - name: Spotlight
   github_id: maciejkula/spotlight
+  conda_id: maciejkula/spotlight
   labels: ["pytorch"]
   category: recommender-systems
 - name: Case Recommender
@@ -1683,6 +1963,7 @@ projects:
   category: audio
 - name: pyAudioAnalysis
   github_id: tyiannak/pyAudioAnalysis
+  pypi_id: pyAudioAnalysis
   category: audio
 - name: SpeechRecognition
   pypi_id: SpeechRecognition
@@ -1709,6 +1990,10 @@ projects:
   pypi_id: PyDejavu
   github_id: worldveil/dejavu
   category: audio
+- name: Porcupine
+  pypi_id: pvporcupine
+  github_id: Picovoice/Porcupine
+  category: audio
 # Model Serialisation & Deployment
 - name: onnx
   pypi_id: onnx
@@ -1731,6 +2016,10 @@ projects:
   pypi_id: coremltools
   github_id: apple/coremltools
   category: model-serialisation
+- name: pytorch2keras
+  pypi_id: pytorch2keras
+  github_id: nerox8664/pytorch2keras
+  category: model-serialisation
 # Privacy Machine Learning
 - name: PySyft
   pypi_id: syft
@@ -1739,6 +2028,7 @@ projects:
   category: privacy-ml
 - name: TensorFlow Privacy
   github_id: tensorflow/privacy
+  pypi_id: tensorflow-privacy
   labels: ["tensorflow"]
   category: privacy-ml
 - name: TFEncrypted
@@ -1748,6 +2038,7 @@ projects:
   category: privacy-ml
 - name: CrypTen
   github_id: facebookresearch/CrypTen
+  # TODO: add package manager
   labels: ["pytorch"]
   category: privacy-ml
 # GPU Utilities
@@ -1770,6 +2061,7 @@ projects:
 - name: CuPy
   github_id: cupy/cupy
   pypi_id: cupy
+  dockerhub_id: cupy/cupy
   category: gpu-utilities
 - name: py3nvml
   github_id: fbcotter/py3nvml
@@ -1780,12 +2072,8 @@ projects:
   pypi_id: scikit-cuda
   category: gpu-utilities
 - name: PyCUDA
-  github_id: inducer/pycuda .  
+  github_id: inducer/pycuda 
   pypi_id: pycuda
-  category: gpu-utilities
-- name: gpustat
-  github_id: wookayin/gpustat
-  pypi_id: gpustat
   category: gpu-utilities
 - name: GPUtil
   github_id: anderskm/gputil
@@ -1806,12 +2094,17 @@ projects:
   category: gpu-utilities
 - name: Apex
   github_id: NVIDIA/apex
+  conda_id: conda-forge/nvidia-apex
   labels: ["pytorch"]
   category: gpu-utilities
 - name: ipyexperiments
   pypi_id: ipyexperiments
   github_id: stas00/ipyexperiments
   labels: ["jupyter"]
+  category: gpu-utilities
+- name: DALI
+  github_id: NVIDIA/DALI
+  license: Apache-2.0
   category: gpu-utilities
 # Data Collection & Extraction
 - name: beautifulsoup4
@@ -1837,6 +2130,7 @@ projects:
   pypi_id: openpyxl
   homepage: https://openpyxl.readthedocs.io
   docs_url: https://openpyxl.readthedocs.io
+  bitbucket_id: openpyxl/openpyxl
   category: data-collection
 - name: newspaper3k
   pypi_id: newspaper3k
@@ -1849,6 +2143,7 @@ projects:
 - name: lazynlp
   github_id: chiphuyen/lazynlp
   license: MIT
+  # TODO: add package manager
   category: data-collection
 - name: Google Images Download
   github_id: hardikvasa/google-images-download
@@ -1887,7 +2182,108 @@ projects:
   pypi_id: xmltodict
   github_id: martinblech/xmltodict
   category: data-collection
+# Data Pipelines & Streaming
+- name: Great Expectations
+  pypi_id: great_expectations
+  github_id: great-expectations/great_expectations
+  category: data-pipelines
+- name: pysparkling
+  pypi_id: pysparkling
+  github_id: svenkreiss/pysparkling
+  category: data-pipelines
+- name: streamparse
+  pypi_id: streamparse
+  github_id: Parsely/streamparse
+  category: data-pipelines
+- name: mrjob
+  pypi_id: mrjob
+  github_id: Yelp/mrjob
+  license: Apache-2.0
+  category: data-pipelines
+- name: TFX
+  github_id: tensorflow/tfx
+  pypi_id: tfx
+  labels: ["tensorflow"]
+  category: data-pipelines
+- name: Pypeline
+  pypi_id: pypeln
+  github_id: cgarciae/pypeln
+  category: data-pipelines
+- name: Botflow
+  pypi_id: botflow
+  github_id: kkyon/botflow
+  category: data-pipelines
+- name: BatchFlow
+  pypi_id: batchflow
+  github_id: analysiscenter/batchflow
+  category: data-pipelines
+- name: Prefect
+  pypi_id: prefect
+  github_id: PrefectHQ/prefect
+  conda_id: conda-forge/prefect
+  category: data-pipelines
+- name: luigi
+  github_id: spotify/luigi
+  pypi_id: luigi
+  helm_id: stable/luigi
+  conda_id: luigi
+  category: data-pipelines
+- name: Databolt Flow
+  pypi_id: d6tflow
+  github_id: d6t/d6tflow
+  category: data-pipelines
+- name: dbt
+  github_id: fishtown-analytics/dbt
+  pypi_id: dbt
+  brew_id: dbt
+  category: data-pipelines
+- name: PyFunctional
+  github_id: EntilZha/PyFunctional
+  pypi_id: pyfunctional
+  category: data-pipelines
+- name: Data Integration
+  github_id: mara/data-integration
+  pypi_id: data-integration
+  category: data-pipelines
+- name: pdpipe
+  github_id: shaypal5/pdpipe
+  pypi_id: pdpipe
+  category: data-pipelines
+- name: riko
+  github_id: nerevu/riko
+  pypi_id: riko
+  category: data-pipelines
+- name: Dagster
+  github_id: dagster-io/dagster
+  pypi_id: dagster
+  category: data-pipelines
+- name: Kedro
+  github_id: quantumblacklabs/kedro
+  pypi_id: kedro
+  category: data-pipelines
+- name: Airflow
+  github_id: apache/airflow
+  helm_id: stable/airflow
+  pypi_id: apache-airflow
+  dockerhub_id: apache/airflow
+  conda_id: conda-forge/airflow
+  description: "Platform to programmatically author, schedule, and monitor workflows."
+  category: data-pipelines
+- name: Beam
+  github_id: apache/beam
+  pypi_id: apache-beam
+  description: "Unified programming model to define and execute data processing pipelines, including ETL, batch and stream processing."
+  category: data-pipelines
+- name: faust
+  github_id: robinhood/faust
+  pypi_id: faust
+  category: data-pipelines
 # Probabilistic Methods
+- name: Funsor
+  pypi_id: funsor
+  github_id: pyro-ppl/funsor
+  labels: ["pytorch"]
+  category: probabilistics
 - name: pomegranate
   pypi_id: pomegranate
   github_id: jmschrei/pomegranate
@@ -1950,6 +2346,7 @@ projects:
 - name: advertorch
   pypi_id: advertorch
   github_id: BorealisAI/advertorch
+  license: GPL-3.0
   labels: ["pytorch"]
   category: adversarial
 - name: CleverHans
@@ -1965,19 +2362,90 @@ projects:
   pypi_id: Adversary
   github_id: airbnb/artificial-adversary
   category: adversarial
+# Pytorch Utilities
+- name: AdaBound
+  pypi_id: adabound
+  github_id: Luolc/AdaBound
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: torch-scatter
+  pypi_id: torch-scatter
+  github_id: rusty1s/pytorch_scatter
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: Higher
+  github_id: facebookresearch/higher
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: PyTorch Sparse
+  pypi_id: torch-sparse
+  github_id: rusty1s/pytorch_sparse
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: SRU
+  pypi_id: sru
+  github_id: asappresearch/sru
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: Torchmeta
+  pypi_id: torchmeta
+  github_id: tristandeleu/pytorch-meta
+  labels: ["pytorch"]
+  category: pytorch-utils
+# Tensorflow Utilities
+- name: tensor2tensor
+  pypi_id: tensor2tensor
+  github_id: tensorflow/tensor2tensor
+  labels: ["tensorflow"]
+  category: tensorflow-utils
+- name: tensorflow-hub
+  pypi_id: tensorflow-hub
+  github_id: tensorflow/hub
+  labels: ["tensorflow"]
+  category: tensorflow-utils
+- name: Neural Structured Learning
+  pypi_id: neural-structured-learning
+  github_id: tensorflow/neural-structured-learning
+  labels: ["tensorflow"]
+  category: tensorflow-utils
+- name: TensorNets
+  pypi_id: tensornets
+  github_id: taehoonlee/tensornets
+  labels: ["tensorflow"]
+  category: tensorflow-utils
+# System Monitoring & Profiling
+- name: gpustat
+  github_id: wookayin/gpustat
+  pypi_id: gpustat
+  category: system-monitoring
+- name: StackImpact
+  pypi_id: stackimpact
+  github_id: stackimpact/stackimpact-python
+  category: system-monitoring
+- name: memory-profiler
+  pypi_id: memory_profiler
+  github_id: pythonprofilers/memory_profiler
+  category: system-monitoring
+- name: psutil
+  pypi_id: psutil
+  github_id: giampaolo/psutil
+  conda_id: conda-forge/psutil
+  category: system-monitoring
+- name: Diamond
+  pypi_id: diamond
+  github_id: python-diamond/Diamond
+  category: system-monitoring
+- name: Profiling
+  pypi_id: profiling
+  github_id: what-studio/profiling
+  category: system-monitoring
 # Others
 - name: statsmodels
   pypi_id: statsmodels
   github_id: statsmodels/statsmodels
-- name: memory_profiler
-  pypi_id: memory_profiler
-  github_id: pythonprofilers/memory_profiler
 - name: numexpr
   pypi_id: numexpr
   github_id: pydata/numexpr
-- name: psutil
-  pypi_id: psutil
-  github_id: giampaolo/psutil
 - name: tensorly
   pypi_id: tensorly
   github_id: tensorly/tensorly
@@ -2000,25 +2468,6 @@ projects:
   pypi_id: scikit-multilearn
   github_id: scikit-multilearn/scikit-multilearn
   labels: ["sklearn"]
-- name: tensor2tensor
-  pypi_id: tensor2tensor
-  github_id: tensorflow/tensor2tensor
-  labels: ["tensorflow"]
-- name: tensorflow-hub
-  pypi_id: tensorflow-hub
-  github_id: tensorflow/hub
-  labels: ["tensorflow"]
-- name: AdaBound
-  pypi_id: adabound
-  github_id: Luolc/AdaBound
-  labels: ["pytorch"]
-- name: torch-scatter
-  pypi_id: torch-scatter
-  github_id: rusty1s/pytorch_scatter
-  labels: ["pytorch"]
-- name: Higher
-  github_id: facebookresearch/higher
-  labels: ["pytorch"]
 - name: vecstack
   pypi_id: vecstack
   github_id: vecxoz/vecstack
@@ -2052,43 +2501,25 @@ projects:
   pypi_id: astroML
   github_id: astroML/astroML
   labels: ["sklearn"]
-- name: NuPIC
-  pypi_id: nupic
-  github_id: numenta/nupic
 - name: Mars
   pypi_id: pymars
   github_id: mars-project/mars
 - name: PySwarms
   pypi_id: pyswarms
   github_id: ljvmiranda921/pyswarms
-- name: Torchmeta
-  pypi_id: torchmeta
-  github_id: tristandeleu/pytorch-meta
-  labels: ["pytorch"]
-- name: MindsDB
-  pypi_id: mindsdb
-  github_id: mindsdb/mindsdb
-  labels: ["pytorch"]
 - name: modAL
   pypi_id: modAL
   github_id: modAL-python/modAL
   labels: ["sklearn"]
-- name: Alphalens
-  pypi_id: alphalens
-  github_id: quantopian/alphalens
-- name: Neural Structured Learning
-  pypi_id: neural-structured-learning
-  github_id: tensorflow/neural-structured-learning
-  labels: ["tensorflow"]
 - name: Bounter
   pypi_id: bounter
   github_id: RaRe-Technologies/bounter
 - name: apricot
   pypi_id: apricot-select
   github_id: jmschrei/apricot
-- name: zipline
-  pypi_id: zipline
-  github_id: quantopian/zipline
-- name: Glow
-  pypi_id: glow.py
-  github_id: projectglow/glow
+- name: DeepChem
+  pypi_id: deepchem
+  github_id: deepchem/deepchem
+  labels: ["tensorflow"]
+- name: StreamAlert
+  github_id: airbnb/streamalert
