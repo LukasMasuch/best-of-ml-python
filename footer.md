@@ -20,4 +20,6 @@
 
 ---
 
+<a href="#"><img align="right" src="http://hits.dwyl.io/ml-tooling/ml-workspace.svg" alt="Hit Counter"></a>
+
 Created and maintained with ❤️ by developers from SAP in Berlin.
