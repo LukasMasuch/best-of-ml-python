@@ -605,9 +605,10 @@ projects:
   pypi_id: filedepot
   github_id: amol-/depot
   category: db-clients
-- name: prometheus_client
+- name: Prometheus Client
   pypi_id: prometheus_client
   github_id: prometheus/client_python
+  conda_id: conda-forge/prometheus_client
   category: db-clients
 - name: cloudant
   pypi_id: cloudant
@@ -632,6 +633,11 @@ projects:
 - name: AWS Data Wrangler
   pypi_id: awswrangler
   github_id: awslabs/aws-data-wrangler
+  category: db-clients
+- name: psycopg2
+  pypi_id: psycopg2
+  conda_id: psycopg2
+  github_id: psycopg/psycopg2
   category: db-clients
 # Image Processing
 - name: Face Alignment
@@ -751,6 +757,10 @@ projects:
   pypi_id: ISR
   dockerhub_id: idealo/image-super-resolution-gpu
   labels: ["tensorflow"]
+  category: image
+- name: pycls
+  github_id: facebookresearch/pycls
+  labels: ["pytorch"]
   category: image
 # Data Visualization
 - name: Bokeh
@@ -1386,6 +1396,7 @@ projects:
 - name: TRAINS
   pypi_id: trains
   github_id: allegroai/trains
+  dockerhub_id: allegroai/trains
   category: ml-workflow
 - name: sacred
   pypi_id: sacred
@@ -1735,6 +1746,11 @@ projects:
   labels: ["tensorflow"]
   category: medical-data
 # Distributed Machine Learning
+- name: BigDL
+  github_id: intel-analytics/BigDL
+  pypi_id: bigdl
+  maven_id: com.intel.analytics.bigdl:bigdl-SPARK_2.4
+  category: distributed-ml
 - name: BytePS
   github_id: bytedance/byteps
   dockerhub_id: bytepsimage/byteps_server
@@ -2277,6 +2293,10 @@ projects:
 - name: faust
   github_id: robinhood/faust
   pypi_id: faust
+  category: data-pipelines
+- name: Celery
+  github_id: celery/celery
+  pypi_id: celery
   category: data-pipelines
 # Probabilistic Methods
 - name: Funsor
