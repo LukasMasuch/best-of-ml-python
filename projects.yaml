@@ -536,6 +536,18 @@ projects:
   github_id: asyml/texar
   labels: ["tensorflow"]
   category: nlp
+- name: PyTextRank
+  pypi_id: pytextrank
+  github_id: DerwenAI/pytextrank
+  category: nlp
+- name: pySBD
+  pypi_id: pysbd
+  github_id: nipunsadvilkar/pySBD
+  category: nlp
+- name: Headliner
+  pypi_id: headliner
+  github_id: as-ideas/headliner
+  category: nlp
 # Database Clients
 - name: mongo-connector
   pypi_id: mongo-connector
@@ -638,6 +650,35 @@ projects:
   pypi_id: psycopg2
   conda_id: psycopg2
   github_id: psycopg/psycopg2
+  category: db-clients
+- name: Records
+  pypi_id: records
+  github_id: kennethreitz/records
+  conda_id: conda-forge/records
+  category: db-clients
+- name: HappyBase
+  pypi_id: happybase
+  github_id: wbolster/happybase
+  conda_id: conda-forge/happybase
+  category: db-clients
+- name: Cassandra Driver
+  pypi_id: cassandra-driver
+  github_id: datastax/python-driver
+  conda_id: conda-forge/cassandra-driver
+  category: db-clients
+- name: mysqlclient
+  pypi_id: mysqlclient
+  github_id: PyMySQL/mysqlclient-python
+  conda_id: conda-forge/mysqlclient
+  category: db-clients
+- name: Motor
+  pypi_id: motor
+  github_id: mongodb/motor
+  category: db-clients
+- name: Pony
+  pypi_id: pony
+  github_id: ponyorm/pony
+  conda_id: conda-forge/pony
   category: db-clients
 # Image Processing
 - name: Face Alignment
@@ -760,6 +801,10 @@ projects:
   category: image
 - name: pycls
   github_id: facebookresearch/pycls
+  labels: ["pytorch"]
+  category: image
+- name: PySlowFast
+  github_id: facebookresearch/SlowFast
   labels: ["pytorch"]
   category: image
 # Data Visualization
@@ -1381,6 +1426,10 @@ projects:
   pypi_id: gpyopt
   github_id: SheffieldML/GPyOpt
   category: hyperopt
+- name: Hypermax
+  pypi_id: hypermax
+  github_id: electricbrainio/hypermax
+  category: hyperopt
 # ML Workflow Tools
 - name: DVC
   github_id: iterative/dvc
@@ -1672,6 +1721,10 @@ projects:
   pypi_id: tinydb
   github_id: msiemens/tinydb
   category: data-handling
+- name: pickleDB
+  pypi_id: pickledb
+  github_id: patx/pickledb
+  category: data-handling
 # Medical Data
 - name: DLTK
   pypi_id: dltk
@@ -1744,6 +1797,11 @@ projects:
   github_id: google/deepvariant
   conda_id: bioconda/deepvariant
   labels: ["tensorflow"]
+  category: medical-data
+- name: Hail
+  github_id: hail-is/hail
+  pypi_id: hail
+  labels: ["spark"]
   category: medical-data
 # Distributed Machine Learning
 - name: BigDL
@@ -1911,6 +1969,10 @@ projects:
   pypi_id: pynndescent
   github_id: lmcinnes/pynndescent
   category: nn-search
+- name: NearPy
+  pypi_id: NearPy
+  github_id: pixelogik/NearPy
+  category: nn-search
 # Recommendation Systems
 - name: TensorFlow Ranking
   pypi_id: tensorflow_ranking
@@ -2009,6 +2071,11 @@ projects:
 - name: Porcupine
   pypi_id: pvporcupine
   github_id: Picovoice/Porcupine
+  category: audio
+- name: spleeter
+  pypi_id: spleeter
+  github_id: deezer/spleeter
+  labels: ["tensorflow"]
   category: audio
 # Model Serialisation & Deployment
 - name: onnx
@@ -2198,6 +2265,12 @@ projects:
   pypi_id: xmltodict
   github_id: martinblech/xmltodict
   category: data-collection
+- name: Singer
+  pypi_id: singer-python
+  github_id: singer-io/getting-started
+  license: AGPL-3.0
+  show: True
+  category: data-collection
 # Data Pipelines & Streaming
 - name: Great Expectations
   pypi_id: great_expectations
@@ -2297,6 +2370,10 @@ projects:
 - name: Celery
   github_id: celery/celery
   pypi_id: celery
+  category: data-pipelines
+- name: bonobo
+  github_id: python-bonobo/bonobo
+  pypi_id: bonobo
   category: data-pipelines
 # Probabilistic Methods
 - name: Funsor
@@ -2410,6 +2487,11 @@ projects:
 - name: Torchmeta
   pypi_id: torchmeta
   github_id: tristandeleu/pytorch-meta
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: EfficientNets
+  pypi_id: geffnet
+  github_id: rwightman/gen-efficientnet-pytorch
   labels: ["pytorch"]
   category: pytorch-utils
 # Tensorflow Utilities
@@ -2543,3 +2625,10 @@ projects:
   labels: ["tensorflow"]
 - name: StreamAlert
   github_id: airbnb/streamalert
+- name: cleanlab
+  pypi_id: cleanlab
+  github_id: cgnorthcutt/cleanlab
+- name: dabl
+  pypi_id: dabl
+  github_id: amueller/dabl
+  labels: ["sklearn"]
