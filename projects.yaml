@@ -946,6 +946,10 @@ projects:
   github_id: pavlin-policar/openTSNE
   conda_id: conda-forge/opentsne
   category: data-viz
+- name: nptsne
+  pypi_id: nptsne
+  github_id: biovault/nptsne
+  category: data-viz
 # Model Interpretability
 - name: yellowbrick
   pypi_id: yellowbrick
@@ -2492,6 +2496,11 @@ projects:
 - name: EfficientNets
   pypi_id: geffnet
   github_id: rwightman/gen-efficientnet-pytorch
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: pytorch-summary
+  github_id: sksq96/pytorch-summary
+  pypi_id: torchsummary
   labels: ["pytorch"]
   category: pytorch-utils
 # Tensorflow Utilities
