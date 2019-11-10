@@ -2193,6 +2193,10 @@ projects:
   github_id: NVIDIA/DALI
   license: Apache-2.0
   category: gpu-utilities
+- name: BlazingSQL
+  github_id: BlazingDB/pyBlazing
+  conda_id: blazingsql/blazingsql-protocol
+  category: gpu-utilities
 # Data Collection & Extraction
 - name: beautifulsoup4
   pypi_id: beautifulsoup4
@@ -2273,7 +2277,6 @@ projects:
   pypi_id: singer-python
   github_id: singer-io/getting-started
   license: AGPL-3.0
-  show: True
   category: data-collection
 # Data Pipelines & Streaming
 - name: Great Expectations
@@ -2378,6 +2381,10 @@ projects:
 - name: bonobo
   github_id: python-bonobo/bonobo
   pypi_id: bonobo
+  category: data-pipelines
+- name: petl
+  github_id: petl-developers/petl
+  pypi_id: petl
   category: data-pipelines
 # Probabilistic Methods
 - name: Funsor
@@ -2641,3 +2648,7 @@ projects:
   pypi_id: dabl
   github_id: amueller/dabl
   labels: ["sklearn"]
+- name: creme
+  pypi_id: creme
+  github_id: creme-ml/creme
+  license: BSD-3-Clause
