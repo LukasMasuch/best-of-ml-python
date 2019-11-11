@@ -881,6 +881,7 @@ projects:
   category: data-viz
 - name: pandas-profiling
   pypi_id: pandas-profiling
+  conda_id: conda-forge/pandas-profiling
   github_id: pandas-profiling/pandas-profiling
   labels: ["jupyter"]
   category: data-viz
@@ -2505,11 +2506,6 @@ projects:
   github_id: rwightman/gen-efficientnet-pytorch
   labels: ["pytorch"]
   category: pytorch-utils
-- name: pytorch-summary
-  github_id: sksq96/pytorch-summary
-  pypi_id: torchsummary
-  labels: ["pytorch"]
-  category: pytorch-utils
 # Tensorflow Utilities
 - name: tensor2tensor
   pypi_id: tensor2tensor
@@ -2529,6 +2525,11 @@ projects:
 - name: TensorNets
   pypi_id: tensornets
   github_id: taehoonlee/tensornets
+  labels: ["tensorflow"]
+  category: tensorflow-utils
+- name: TensorFlow Transform
+  pypi_id: tensorflow-transform
+  github_id: tensorflow/transform
   labels: ["tensorflow"]
   category: tensorflow-utils
 # System Monitoring & Profiling
