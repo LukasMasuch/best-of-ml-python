@@ -15,7 +15,7 @@ categories:
   subtitle: "General-purpose and task-specific data visualization libraries."
 - category: "nlp"
   title: "Text Data & NLP"
-  subtitle: "Libraries for parsing, manipulating, and processing plain texts. ... Sequence Analysis"
+  subtitle: "Libraries for processing, cleaning, manipulating, and analyzing text data as well as libraries for NLP tasks such as language detection, fuzzy matching, classification, seq2seq learning, conversational AI, keyword extraction, and translation."
 - category: "image"
   title: "Image Data"
   subtitle: "Libraries for image & video processing, manipulation, and augmentation as well as libraries for computer vision tasks such as facial recognition, object detection, character recognition, and classification."
@@ -39,33 +39,37 @@ categories:
   subtitle: "Libraries for processing and analyzing medical data such as MRIs, EEGs, genomic data, and other medical imaging formats."
 - category: "data-containers"
   title: "Data Containers & Structures"
-  subtitle: "Libraries pandas extensions data structures, Data containers and libraries & tools for data loading."
+  subtitle: "General-purpose data containers & structures as well as utilities & extensions for pandas."
 - category: "data-loading"
   title: "Data Loading & Extraction"
   subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
 - category: "web-scraping"
   title: "Web Scraping & Crawling"
-  subtitle: "Libraries for..."
+  subtitle: "Libraries for web scraping, crawling, downloading, and mining as well as libraries."
 - category: "data-pipelines"
   title: "Data Pipelines & Streaming"
   subtitle: "Libraries for data batch- and stream-processing, workflow automation, job scheduling, and other data pipeline tasks."
 - category: "distributed-ml"
   title: "Distributed Machine Learning"
-  subtitle: "Libraries "
+  subtitle: "Libraries that provide capabilities to distribute and parallelize machine learning tasks across large-scale compute infrastructure."
 - category: "hyperopt"
   title: "Hyperparameter Optimization & AutoML"
   subtitle: "Libraries for hyperparameter optimization, automl and neural architecture search."
 - category: "reinforcement-learning"
   title: "Reinforcement Learning"
+  subtitle: "Libraries for building and evaluating reinforcement learning & agent-based systems."
 - category: "recommender-systems"
   title: "Recommender Systems"
+  subtitle: "Libraries for building and evaluating recommendation systems."
 - category: "privacy-ml"
   title: "Privacy Machine Learning"
-- category: "ml-workflow"
+  subtitle: "Libraries for encrypted and privacy-preserving machine learning using methods like federated learning & differential privacy."
+- category: "ml-experiments"
   title: "Workflow & Experiment Tracking"
   subtitle: "Libraries to organize, track, and visualize machine learning experiments."
 - category: "model-serialisation"
-  title: "Model Serialisation & Conversion"
+  title: "Model Serialization & Conversion"
+  subtitle: "Libraries to serialize models to files, convert between a variety of model formats, and optimize models for deployment."
 - category: "interpretability"
   title: "Model Interpretability"
   subtitle: "Libraries to visualize, explain, debug, evaluate, and interpret machine learning models."
@@ -74,21 +78,22 @@ categories:
   subtitle: "Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)."
 - category: "probabilistics"
   title: "Probabilistic Methods"
-  subtitle: "bayesian-methods..."
+  subtitle: "Libraries providing capabilities for probabilistic programming/reasoning, bayesian inference, and gaussian processes."
 - category: "adversarial"
   title: "Adversarial Robustness"
-  subtitle: "Security..."
+  subtitle: "Libraries for testing the robustness of machine learning models against attacks with adversarial/malicious examples."
 - category: "gpu-utilities"
   title: "GPU Utilities"
+  subtitle: "Libraries that require and make use of CUDA/GPU system capabilities to optimize data handling and machine learning tasks."
 - category: "tensorflow-utils"
   title: "Tensorflow Utilities"
+  subtitle: "Libraries that extend TensorFlow with general-purpose capabilities."
 - category: "pytorch-utils"
   title: "Pytorch Utilities"
+  subtitle: "Libraries that extend Pytorch with general-purpose capabilities."
 - category: "db-clients"
   title: "Database Clients"
-  subtitle: "Libraries for connecting and operating databases."
-- category: "dashboard-builders"
-  title: "Dashboard & Webapp Builders"
+  subtitle: "Libraries for connecting to, operating, and querying databases."
 - category: "system-monitoring"
   title: "System Monitoring & Profiling"
   subtitle: "Libraries to monitor, collect, and visualize system metrics (e.g., memory, CPU, GPU)." 
@@ -298,6 +303,11 @@ projects:
   pypi_id: mindsdb
   github_id: mindsdb/mindsdb
   labels: ["pytorch"]
+  category: ml-frameworks
+- name: StatsModels
+  pypi_id: statsmodels
+  conda_id: statsmodels
+  github_id: statsmodels/statsmodels
   category: ml-frameworks
 # NLP 
 - name: spaCy
@@ -690,6 +700,11 @@ projects:
   github_id: ponyorm/pony
   conda_id: conda-forge/pony
   category: db-clients
+- name: Ibis
+  pypi_id: ibis-framework
+  github_id: ibis-project/ibis
+  conda_id: conda-forge/ibis-framework
+  category: db-clients # data containers or pipeline?
 # Image Processing
 - name: Face Alignment
   github_id: 1adrianb/face-alignment
@@ -818,6 +833,11 @@ projects:
 - name: PySlowFast
   github_id: facebookresearch/SlowFast
   labels: ["pytorch"]
+  category: image
+- name: tesserocr
+  github_id: sirfz/tesserocr
+  pypi_id: tesserocr
+  conda_id: conda-forge/tesserocr
   category: image
 # Data Visualization
 - name: Bokeh
@@ -1299,6 +1319,15 @@ projects:
   github_id: bashtage/arch
   pypi_id: arch
   category: financial-data
+- name: Alpha Vantage
+  github_id: RomelTorres/alpha_vantage
+  pypi_id: alpha_vantage
+  category: financial-data
+- name: yfinance
+  github_id: ranaroussi/yfinance
+  pypi_id: yfinance
+  conda_id: ranaroussi/yfinance
+  category: financial-data
 # Hyperparameter Optimization
 - name: Hyperopt
   pypi_id: hyperopt
@@ -1454,94 +1483,94 @@ projects:
   conda_id: conda-forge/dvc
   apt_id: dvc
   yum_id: dvc
-  category: ml-workflow
+  category: ml-experiments
 - name: Studio.ml
   pypi_id: studioml
   github_id: studioml/studio
-  category: ml-workflow
+  category: ml-experiments
 - name: TRAINS
   pypi_id: trains
   github_id: allegroai/trains
   dockerhub_id: allegroai/trains
-  category: ml-workflow
+  category: ml-experiments
 - name: sacred
   pypi_id: sacred
   github_id: IDSIA/sacred
-  category: ml-workflow
+  category: ml-experiments
 - name: datmo
   pypi_id: datmo
   github_id: datmo/datmo
-  category: ml-workflow
+  category: ml-experiments
 - name: mlflow
   pypi_id: mlflow
   github_id: mlflow/mlflow
-  category: ml-workflow
+  category: ml-experiments
 - name: knockknock
   pypi_id: knockknock
   github_id: huggingface/knockknock
-  category: ml-workflow
+  category: ml-experiments
 - name: kaggle
   pypi_id: kaggle
   github_id: Kaggle/kaggle-api
-  category: ml-workflow
+  category: ml-experiments
 - name: steppy
   pypi_id: steppy
   github_id: neptune-ml/steppy
-  category: ml-workflow
+  category: ml-experiments
 - name: Guild AI
   pypi_id: guildai
   github_id: guildai/guildai
-  category: ml-workflow
+  category: ml-experiments
 - name: TensorWatch
   pypi_id: tensorwatch
   github_id: microsoft/tensorwatch
-  category: ml-workflow
+  category: ml-experiments
 - name: TensorBoard Logger
   pypi_id: tensorboard_logger
   github_id: TeamHG-Memex/tensorboard_logger
-  category: ml-workflow
+  category: ml-experiments
 - name: VisualDL
   pypi_id: visualdl
   github_id: PaddlePaddle/VisualDL
-  category: ml-workflow
+  category: ml-experiments
 - name: Tensorboard
   pypi_id: tensorboard
   github_id: tensorflow/tensorboard
-  category: ml-workflow
   labels: ["tensorflow"]
+  category: ml-experiments
 - name: tensorboardX
   pypi_id: tensorboardX
   github_id: lanpa/tensorboardX
-  category: ml-workflow
+  category: ml-experiments
 - name: Catalyst
   pypi_id: catalyst
   github_id: catalyst-team/catalyst
   labels: ["pytorch"]
-  category: ml-workflow
+  category: ml-experiments
 - name: TNT
   pypi_id: tnt
   github_id: pytorch/tnt
   labels: ["pytorch"]
-  category: ml-workflow
+  category: ml-experiments
 - name: MXBoard
   pypi_id: mxboard
   github_id: awslabs/mxboard
   labels: ["mxnet"]
-  category: ml-workflow
+  category: ml-experiments
 - name: SKLL
   pypi_id: skll
   github_id: EducationalTestingService/skll
   labels: ["sklearn"]
-  category: ml-workflow
+  category: ml-experiments
 - name: AzureML SDK
   pypi_id: azureml-sdk
   github_id: Azure/MachineLearningNotebooks
-  category: ml-workflow
+  category: ml-experiments
 - name: ModelChimp
   pypi_id: modelchimp
   github_id: ModelChimp/modelchimp
   dockerhub_id: modelchimp/modelchimp-server
-  category: ml-workflow
+  category: ml-experiments
 # Reinforcement Learning
 - name: TensorForce
   pypi_id: tensorforce
@@ -1616,33 +1645,7 @@ projects:
   github_id: notadamking/tensortrade
   pypi_id: tensortrade
   category: reinforcement-learning
-# Dashboard & Webapp Builders
-- name: Grafanalib
-  pypi_id: grafanalib
-  github_id: weaveworks/grafanalib
-  category: dashboard-builders
-- name: Flexx
-  pypi_id: flexx
-  github_id: flexxui/flexx
-  conda_id: conda-forge/flexx
-  category: dashboard-builders
-- name: Panel
-  pypi_id: panel
-  github_id: pyviz/panel
-  category: dashboard-builders
-- name: Streamlit
-  pypi_id: streamlit
-  github_id: streamlit/streamlit
-  category: dashboard-builders
-- name: Scripted Forms
-  pypi_id: scriptedforms
-  github_id: SimonBiggs/scriptedforms
-  category: dashboard-builders
-- name: Dash
-  pypi_id: dash
-  github_id: plotly/dash
-  category: dashboard-builders
-# Data Handling
+# Data Containers and Structures
 - name: pandas
   pypi_id: pandas
   conda_id: pandas
@@ -1694,6 +1697,7 @@ projects:
 - name: Koalas
   pypi_id: koalas
   github_id: databricks/koalas
+  conda_id: conda-forge/koalas
   labels: ["spark"]
   category: data-containers
 - name: Bottleneck
@@ -1715,6 +1719,38 @@ projects:
 - name: Bounter
   pypi_id: bounter
   github_id: RaRe-Technologies/bounter
+  category: data-containers
+- name: StaticFrame
+  pypi_id: bounter
+  github_id: InvestmentSystems/static-frame
+  pypi_id: static-frame
+  conda_id: conda-forge/static-frame
+  license: MIT
+  category: data-containers
+- name: Modin
+  pypi_id: modin
+  github_id: modin-project/modin
+  category: data-containers
+- name: Arctic
+  pypi_id: arctic
+  github_id: man-group/arctic
+  description: "Arctic is a high performance datastore for numeric data."
+  category: data-containers
+- name: numexpr
+  pypi_id: numexpr
+  github_id: pydata/numexpr
+  category: data-containers
+- name: Pandaral·lel
+  pypi_id: pandarallel
+  github_id: nalepae/pandarallel
+  category: data-containers
+- name: Pandas Summary
+  pypi_id: pandas-summary
+  github_id: mouradmourafiq/pandas-summary
+  category: data-containers
+- name: fletcher
+  pypi_id: fletcher
+  github_id: xhochy/fletcher
   category: data-containers
 # Medical Data
 - name: DLTK
@@ -1837,10 +1873,6 @@ projects:
   github_id: ipython/ipyparallel
   labels: ["jupyter"]
   category: distributed-ml
-- name: Modin
-  pypi_id: modin
-  github_id: modin-project/modin
-  category: distributed-ml
 - name: TensorFlowOnSpark
   pypi_id: tensorflowonspark
   github_id: yahoo/TensorFlowOnSpark
@@ -1859,7 +1891,7 @@ projects:
 - name: Elephas
   pypi_id: elephas
   github_id: maxpumperla/elephas
-  labels: ["keras"]
+  labels: ["keras", "spark"]
   category: distributed-ml
 - name: Apache Singa
   dockerhub_id: apache/singa
@@ -2148,10 +2180,6 @@ projects:
 - name: PyCUDA
   github_id: inducer/pycuda 
   pypi_id: pycuda
-  category: gpu-utilities
-- name: GPUtil
-  github_id: anderskm/gputil
-  pypi_id: gputil
   category: gpu-utilities
 - name: nvidia-ml-py3
   github_id: nicolargo/nvidia-ml-py3
@@ -2583,6 +2611,10 @@ projects:
   github_id: wookayin/gpustat
   pypi_id: gpustat
   category: system-monitoring
+- name: GPUtil
+  github_id: anderskm/gputil
+  pypi_id: gputil
+  category: system-monitoring
 - name: StackImpact
   pypi_id: stackimpact
   github_id: stackimpact/stackimpact-python
@@ -2605,12 +2637,6 @@ projects:
   github_id: what-studio/profiling
   category: system-monitoring
 # Others
-- name: statsmodels
-  pypi_id: statsmodels
-  github_id: statsmodels/statsmodels
-- name: numexpr
-  pypi_id: numexpr
-  github_id: pydata/numexpr
 - name: tensorly
   pypi_id: tensorly
   github_id: tensorly/tensorly
@@ -2700,3 +2726,14 @@ projects:
   pypi_id: category_encoders
   github_id: scikit-learn-contrib/categorical-encoding
   labels: ["sklearn"]
+- name: Prince
+  pypi_id: prince
+  github_id: MaxHalford/prince
+  labels: ["sklearn"]
+- name: BioPandas
+  pypi_id: biopandas
+  conda_id: conda-forge/biopandas
+  github_id: rasbt/biopandas
+- name: Streamlit
+  pypi_id: streamlit
+  github_id: streamlit/streamlit
