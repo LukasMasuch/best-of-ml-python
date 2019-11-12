@@ -18,35 +18,43 @@ categories:
   subtitle: "Libraries for parsing, manipulating, and processing plain texts. ... Sequence Analysis"
 - category: "image"
   title: "Image Data"
-  subtitle: "Libraries and tools for computer vision and image manipulation."
+  subtitle: "Libraries for image & video processing, manipulation, and augmentation as well as libraries for computer vision tasks such as facial recognition, object detection, character recognition, and classification."
 - category: "graph"
   title: "Graph Data"
+  subtitle: "Libraries for graph processing, clustering, embedding, and machine learning tasks."
 - category: "audio"
   title: "Audio Data"
-  subtitle: "Speech Recognition, ..."
+  subtitle: "Libraries for audio analysis, manipulation, transformation, and extraction, as well as speech recognition and music generation tasks."
 - category: "geospatial-data"
   title: "Geospatial Data"
-  subtitle: "Spatial Analysis, Geometry"
+  subtitle: "Libraries to load, process, analyze, and write geographic data as well as libraries for spatial analysis, map visualization, and geocoding."
 - category: "financial-data"
   title: "Financial Data"
+  subtitle: "Libraries for algorithmic stock/crypto trading, risk analytics, backtesting, technical analysis, and other tasks on financial data."
 - category: "time-series-data"
   title: "Time Series Data"
-  subtitle: "Sequential Data..."
+  subtitle: "Libraries for forecasting, anomaly detection, feature extraction, and machine learning on time-series and sequential data."
 - category: "medical-data"
   title: "Medical Data"
-- category: "data-handling"
-  title: "Data Handling"
-  subtitle: "Data containers and libraries & tools for data loading."
-- category: "data-collection"
-  title: "Data Collection & Extraction"
-  subtitle: "Data collection & extraction and web crawling libraries and tools."
+  subtitle: "Libraries for processing and analyzing medical data such as MRIs, EEGs, genomic data, and other medical imaging formats."
+- category: "data-containers"
+  title: "Data Containers & Structures"
+  subtitle: "Libraries pandas extensions data structures, Data containers and libraries & tools for data loading."
+- category: "data-loading"
+  title: "Data Loading & Extraction"
+  subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
+- category: "web-scraping"
+  title: "Web Scraping & Crawling"
+  subtitle: "Libraries for..."
 - category: "data-pipelines"
   title: "Data Pipelines & Streaming"
+  subtitle: "Libraries for data batch- and stream-processing, workflow automation, job scheduling, and other data pipeline tasks."
 - category: "distributed-ml"
   title: "Distributed Machine Learning"
+  subtitle: "Libraries "
 - category: "hyperopt"
   title: "Hyperparameter Optimization & AutoML"
-  subtitle: "Hyperparameter optimization, AutoML and Neural Architecture Search libraries and tools."
+  subtitle: "Libraries for hyperparameter optimization, automl and neural architecture search."
 - category: "reinforcement-learning"
   title: "Reinforcement Learning"
 - category: "recommender-systems"
@@ -55,27 +63,27 @@ categories:
   title: "Privacy Machine Learning"
 - category: "ml-workflow"
   title: "Workflow & Experiment Tracking"
-  subtitle: "Organize, track, and visualize machine learning experiments."
+  subtitle: "Libraries to organize, track, and visualize machine learning experiments."
 - category: "model-serialisation"
   title: "Model Serialisation & Conversion"
 - category: "interpretability"
   title: "Model Interpretability"
-  subtitle: "Visualize, explain, debug, evaluate, and interpret machine learning models."
+  subtitle: "Libraries to visualize, explain, debug, evaluate, and interpret machine learning models."
 - category: "nn-search"
   title: "Vector Similarity Search (ANN)"
   subtitle: "Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)."
-- category: "gpu-utilities"
-  title: "GPU Utilities"
-- category: "tensorflow-utils"
-  title: "Tensorflow Utilities"
-- category: "pytorch-utils"
-  title: "Pytorch Utilities"
 - category: "probabilistics"
   title: "Probabilistic Methods"
   subtitle: "bayesian-methods..."
 - category: "adversarial"
   title: "Adversarial Robustness"
   subtitle: "Security..."
+- category: "gpu-utilities"
+  title: "GPU Utilities"
+- category: "tensorflow-utils"
+  title: "Tensorflow Utilities"
+- category: "pytorch-utils"
+  title: "Pytorch Utilities"
 - category: "db-clients"
   title: "Database Clients"
   subtitle: "Libraries for connecting and operating databases."
@@ -83,6 +91,7 @@ categories:
   title: "Dashboard & Webapp Builders"
 - category: "system-monitoring"
   title: "System Monitoring & Profiling"
+  subtitle: "Libraries to monitor, collect, and visualize system metrics (e.g., memory, CPU, GPU)." 
 
 labels:
 - label: "tensorflow"
@@ -431,6 +440,7 @@ projects:
 - name: GluonNLP
   pypi_id: gluonnlp
   github_id: dmlc/gluon-nlp
+  description: "Toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your Natural Language Processing (NLP) research."
   labels: ["mxnet"]
   category: nlp
 - name: Sockeye
@@ -515,7 +525,7 @@ projects:
 - name: textpipe
   pypi_id: textpipe
   github_id: textpipe/textpipe
-  category: nlp
+  category: nlp # data-collection
 - name: anaGo
   pypi_id: anago
   github_id: Hironsan/anago
@@ -778,6 +788,8 @@ projects:
 - name: Tesseract
   github_id: madmaze/pytesseract
   pypi_id: pytesseract
+  conda_id: conda-forge/pytesseract
+  description: "Python-tesseract is an optical character recognition (OCR) tool for python."
   category: image
 - name: imutils
   github_id: jrosebr1/imutils
@@ -1631,105 +1643,79 @@ projects:
   github_id: plotly/dash
   category: dashboard-builders
 # Data Handling
-- name: Intake
-  pypi_id: intake
-  github_id: intake/intake
-  category: data-handling
 - name: pandas
   pypi_id: pandas
   conda_id: pandas
   github_id: pandas-dev/pandas
-  category: data-handling
+  category: data-containers
 - name: numpy
   pypi_id: numpy
   conda_id: numpy
   github_id: numpy/numpy
-  category: data-handling
+  category: data-containers
 - name: Arrow
   pypi_id: pyarrow
   github_id: apache/arrow
-  category: data-handling
+  category: data-containers
 - name: xarray
   pypi_id: xarray
   github_id: pydata/xarray
-  category: data-handling
-- name: smart-open
-  pypi_id: smart-open
-  github_id: RaRe-Technologies/smart_open
-  category: data-handling
+  category: data-containers
 - name: sklearn-pandas
   pypi_id: sklearn-pandas
   github_id: scikit-learn-contrib/sklearn-pandas
   labels: ["sklearn"]
   license: Zlib
-  category: data-handling
+  category: data-containers
 - name: pandasql
   pypi_id: pandasql
   github_id: yhat/pandasql
-  category: data-handling
-- name: csvkit
-  pypi_id: csvkit
-  github_id: wireservice/csvkit
-  category: data-handling
+  category: data-containers
 - name: swifter
   pypi_id: swifter
   github_id: jmcarpenter2/swifter
-  category: data-handling
-- name: xlrd
-  pypi_id: xlrd
-  github_id: python-excel/xlrd
-  category: data-handling
+  category: data-containers
 - name: Blaze
   pypi_id: blaze
   github_id: blaze/blaze
-  category: data-handling
+  category: data-containers
 - name: h5py
   pypi_id: h5py
   github_id: h5py/h5py
-  category: data-handling
-- name: category_encoders
-  pypi_id: category_encoders
-  github_id: scikit-learn-contrib/categorical-encoding
-  labels: ["sklearn"]
-  category: data-handling
+  category: data-containers
 - name: datasketch
   pypi_id: datasketch
   github_id: ekzhu/datasketch
-  category: data-handling
+  category: data-containers
 - name: datatable
   pypi_id: datatable
   github_id: h2oai/datatable
-  category: data-handling
+  category: data-containers
 - name: Koalas
   pypi_id: koalas
   github_id: databricks/koalas
   labels: ["spark"]
-  category: data-handling
+  category: data-containers
 - name: Bottleneck
   pypi_id: Bottleneck
   github_id: pydata/bottleneck
-  category: data-handling
-- name: Optimus
-  pypi_id: optimuspyspark
-  github_id: ironmussa/Optimus
-  labels: ["spark"]
-  category: data-handling
-- name: Tablib
-  pypi_id: tablib
-  github_id: jazzband/tablib
-  category: data-handling
+  category: data-containers
 - name: PyTables
   pypi_id: tables
   github_id: PyTables/PyTables
-  category: data-handling
+  category: data-containers
 - name: TinyDB
   pypi_id: tinydb
   github_id: msiemens/tinydb
-  category: data-handling
+  category: data-containers
 - name: pickleDB
   pypi_id: pickledb
   github_id: patx/pickledb
-  category: data-handling
+  category: data-containers
+- name: Bounter
+  pypi_id: bounter
+  github_id: RaRe-Technologies/bounter
+  category: data-containers
 # Medical Data
 - name: DLTK
   pypi_id: dltk
@@ -2198,87 +2184,137 @@ projects:
   github_id: BlazingDB/pyBlazing
   conda_id: blazingsql/blazingsql-protocol
   category: gpu-utilities
-# Data Collection & Extraction
+# Web Scraping & Crawling
 - name: beautifulsoup4
+  # Add github repo
   pypi_id: beautifulsoup4
-  category: data-collection
+  show: True
+  category: web-scraping
 - name: soupsieve
   pypi_id: soupsieve
   github_id: facelessuser/soupsieve
-  category: data-collection
+  category: web-scraping
 - name: Photon
   pypi_id: photon
   github_id: s0md3v/Photon
-  category: data-collection
+  category: web-scraping
+- name: Pattern
+  pypi_id: pattern
+  github_id: clips/pattern
+  category: web-scraping
+- name: lazynlp
+  github_id: chiphuyen/lazynlp
+  license: MIT
+  # TODO: add package manager
+  category: web-scraping
+- name: micawber
+  pypi_id: micawber
+  github_id: coleifer/micawber
+  category: web-scraping
+- name: Google Images Download
+  github_id: hardikvasa/google-images-download
+  pypi_id: google_images_download
+  category: web-scraping
+- name: Requests-HTML
+  pypi_id: requests-html
+  github_id: psf/requests-html
+  category: web-scraping
+- name: Scrapy
+  pypi_id: scrapy
+  github_id: scrapy/scrapy
+  category: web-scraping
+- name: newspaper3k
+  pypi_id: newspaper3k
+  github_id: codelucas/newspaper
+  category: web-scraping
+- name: youtube-dl
+  github_id: ytdl-org/youtube-dl
+  pypi_id: youtube_dl
+  brew_id: youtube-dl
+  category: web-scraping
+- name: You-Get
+  github_id: soimort/you-get
+  pypi_id: you-get
+  brew_id: you-get
+  category: web-scraping
+- name: MechanicalSoup
+  github_id: MechanicalSoup/MechanicalSoup
+  pypi_id: MechanicalSoup
+  category: web-scraping
+- name: Grab
+  github_id: lorien/grab
+  pypi_id: grab
+  category: web-scraping
+- name: gazpacho
+  github_id: maxhumber/gazpacho
+  pypi_id: gazpacho
+  category: web-scraping
+- name: Transistor
+  github_id: bomquote/transistor
+  pypi_id: transistor
+  category: web-scraping
+# Data Loading & Extraction
+- name: Tablib
+  pypi_id: tablib
+  github_id: jazzband/tablib
+  category: data-loading
+- name: Intake
+  pypi_id: intake
+  github_id: intake/intake
+  category: data-loading
+- name: csvkit
+  pypi_id: csvkit
+  github_id: wireservice/csvkit
+  category: data-loading
 - name: Camelot
   pypi_id: camelot-py
   github_id: atlanhq/camelot
-  category: data-collection
+  category: data-loading
 - name: snorkel
   pypi_id: snorkel
   github_id: snorkel-team/snorkel
-  category: data-collection
+  category: data-loading
 - name: OpenPyXL
   pypi_id: openpyxl
   homepage: https://openpyxl.readthedocs.io
   docs_url: https://openpyxl.readthedocs.io
   bitbucket_id: openpyxl/openpyxl
-  category: data-collection
-- name: newspaper3k
-  pypi_id: newspaper3k
-  github_id: codelucas/newspaper
-  category: data-collection
-- name: Scrapy
-  pypi_id: scrapy
-  github_id: scrapy/scrapy
-  category: data-collection
-- name: lazynlp
-  github_id: chiphuyen/lazynlp
-  license: MIT
-  # TODO: add package manager
-  category: data-collection
-- name: Google Images Download
-  github_id: hardikvasa/google-images-download
-  pypi_id: google_images_download
-  category: data-collection
+  category: data-loading
+- name: smart-open
+  pypi_id: smart-open
+  github_id: RaRe-Technologies/smart_open
+  category: data-loading
 - name: pandas-datareader
   pypi_id: pandas-datareader
   github_id: pydata/pandas-datareader
-  category: data-collection
-- name: Requests-HTML
-  pypi_id: requests-html
-  github_id: psf/requests-html
-  category: data-collection
+  category: data-loading
 - name: tensorflow-datasets
   pypi_id: tensorflow-datasets
   github_id: tensorflow/datasets
   labels: ["tensorflow"]
-  category: data-collection
-- name: Pattern
-  pypi_id: pattern
-  github_id: clips/pattern
-  category: data-collection
+  category: data-loading
 - name: textract
   pypi_id: textract
   github_id: deanmalmgren/textract
-  category: data-collection
-- name: micawber
-  pypi_id: micawber
-  github_id: coleifer/micawber
-  category: data-collection
+  category: data-loading
 - name: PDFMiner
   pypi_id: pdfminer
   github_id: euske/pdfminer
-  category: data-collection
+  category: data-loading
 - name: xmltodict
   pypi_id: xmltodict
   github_id: martinblech/xmltodict
-  category: data-collection
+  category: data-loading
 - name: Singer
   pypi_id: singer-python
   github_id: singer-io/getting-started
+  description: "Standard for moving data between databases, web APIs, files, queues, and just about anything else you can think of."
   license: AGPL-3.0
-  category: data-collection
+  category: data-loading
+- name: xlrd
+  pypi_id: xlrd
+  github_id: python-excel/xlrd
+  category: data-loading
 # Data Pipelines & Streaming
 - name: Great Expectations
   pypi_id: great_expectations
@@ -2378,6 +2414,7 @@ projects:
 - name: Celery
   github_id: celery/celery
   pypi_id: celery
+  description: "Asynchronous task queue/job queue based on distributed message passing."
   category: data-pipelines
 - name: bonobo
   github_id: python-bonobo/bonobo
@@ -2386,6 +2423,15 @@ projects:
 - name: petl
   github_id: petl-developers/petl
   pypi_id: petl
+  category: data-pipelines
+- name: TaskTiger
+  github_id: closeio/tasktiger
+  pypi_id: tasktiger
+  category: data-pipelines
+- name: Optimus
+  pypi_id: optimuspyspark
+  github_id: ironmussa/Optimus
+  labels: ["spark"]
   category: data-pipelines
 # Probabilistic Methods
 - name: Funsor
@@ -2579,10 +2625,6 @@ projects:
   pypi_id: sklearn-contrib-lightning
   github_id: scikit-learn-contrib/lightning
   labels: ["sklearn"]
-- name: imbalanced-learn
-  pypi_id: imbalanced-learn
-  github_id: scikit-learn-contrib/imbalanced-learn
-  labels: ["sklearn"]
 - name: scikit-multilearn
   pypi_id: scikit-multilearn
   github_id: scikit-multilearn/scikit-multilearn
@@ -2630,9 +2672,6 @@ projects:
   pypi_id: modAL
   github_id: modAL-python/modAL
   labels: ["sklearn"]
-- name: Bounter
-  pypi_id: bounter
-  github_id: RaRe-Technologies/bounter
 - name: apricot
   pypi_id: apricot-select
   github_id: jmschrei/apricot
@@ -2653,3 +2692,11 @@ projects:
   pypi_id: creme
   github_id: creme-ml/creme
   license: BSD-3-Clause
+- name: imbalanced-learn
+  pypi_id: imbalanced-learn
+  github_id: scikit-learn-contrib/imbalanced-learn
+  labels: ["sklearn"]
+- name: category_encoders
+  pypi_id: category_encoders
+  github_id: scikit-learn-contrib/categorical-encoding
+  labels: ["sklearn"]
