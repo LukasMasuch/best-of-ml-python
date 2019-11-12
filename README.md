@@ -60,7 +60,7 @@ _General-purpose machine learning and deep learning frameworks._
 
 <details><summary><b><a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></b> (🥇43 ·  ⭐ 140K) - An Open Source Machine Learning Framework for Everyone. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/tensorflow/tensorflow)** (👨‍💻 2.8K · 🔀 78K · 📦 56K · 📋 21K - 14% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/tensorflow/tensorflow)** (👨‍💻 2.8K · 🔀 78K · 📦 56K · 📋 22K - 14% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/tensorflow/tensorflow
@@ -83,7 +83,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/scikit-learn/scikit-learn
 	```
-- **[PyPi](https://pypi.org/project/scikit-learn)** (📥 8.4M / month · 📦 35K · ⏱️ 24.05.2019):
+- **[PyPi](https://pypi.org/project/scikit-learn)** (📥 8.5M / month · 📦 35K · ⏱️ 24.05.2019):
 
 	```
 	pip install scikit-learn
@@ -96,12 +96,12 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥇38 ·  ⭐ 34K) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/pytorch/pytorch)** (👨‍💻 1.7K · 🔀 8.3K · 📋 12K - 37% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/pytorch/pytorch)** (👨‍💻 1.7K · 🔀 8.3K · 📋 12K - 37% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/pytorch/pytorch
 	```
-- **[PyPi](https://pypi.org/project/torch)** (📥 770K / month · 📦 5.3K · ⏱️ 22.10.2019):
+- **[PyPi](https://pypi.org/project/torch)** (📥 780K / month · 📦 5.3K · ⏱️ 22.10.2019):
 
 	```
 	pip install torch
@@ -114,7 +114,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/keras-team/keras
 	```
-- **[PyPi](https://pypi.org/project/keras)** (📥 2.1M / month · 📦 14K · ⏱️ 17.09.2019):
+- **[PyPi](https://pypi.org/project/keras)** (📥 2.2M / month · 📦 14K · ⏱️ 17.09.2019):
 
 	```
 	pip install keras
@@ -163,7 +163,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/apache/incubator-mxnet
 	```
-- **[PyPi](https://pypi.org/project/mxnet)** (📥 280K / month · 📦 410 · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/mxnet)** (📥 280K / month · 📦 410 · ⏱️ 12.11.2019):
 
 	```
 	pip install mxnet
@@ -212,7 +212,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/fastai/fastai
 	```
-- **[PyPi](https://pypi.org/project/fastai)** (📥 38K / month · 📦 150 · ⏱️ 26.10.2019):
+- **[PyPi](https://pypi.org/project/fastai)** (📥 39K / month · 📦 150 · ⏱️ 26.10.2019):
 
 	```
 	pip install fastai
@@ -225,7 +225,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/chainer/chainer
 	```
-- **[PyPi](https://pypi.org/project/chainer)** (📥 29K / month · 📦 670 · ⏱️ 25.10.2019):
+- **[PyPi](https://pypi.org/project/chainer)** (📥 30K / month · 📦 670 · ⏱️ 25.10.2019):
 
 	```
 	pip install chainer
@@ -259,7 +259,7 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/catboost/catboost">Catboost</a></b> (🥈30 ·  ⭐ 4.6K) - A fast, scalable, high performance Gradient Boosting on Decision Trees.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/catboost/catboost)** (👨‍💻 480 · 🔀 660 · 📥 23K · 📋 940 - 19% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/catboost/catboost)** (👨‍💻 480 · 🔀 660 · 📥 23K · 📋 940 - 19% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/catboost/catboost
@@ -285,12 +285,12 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/PaddlePaddle/Paddle">PaddlePaddle</a></b> (🥈28 ·  ⭐ 10K) - PArallel Distributed Deep LEarning. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/PaddlePaddle/Paddle)** (👨‍💻 350 · 🔀 2.7K · 📥 15K · 📋 10K - 16% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/PaddlePaddle/Paddle)** (👨‍💻 350 · 🔀 2.7K · 📥 15K · 📋 10K - 16% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/PaddlePaddle/Paddle
 	```
-- **[PyPi](https://pypi.org/project/paddlepaddle)** (📥 4.4K / month · 📦 8 · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/paddlepaddle)** (📥 4.3K / month · 📦 8 · ⏱️ 04.11.2019):
 
 	```
 	pip install paddlepaddle
@@ -303,7 +303,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/tensorpack/tensorpack
 	```
-- **[PyPi](https://pypi.org/project/tensorpack)** (📥 7.8K / month · 📦 48 · ⏱️ 01.09.2019):
+- **[PyPi](https://pypi.org/project/tensorpack)** (📥 7.9K / month · 📦 48 · ⏱️ 01.09.2019):
 
 	```
 	pip install tensorpack
@@ -342,7 +342,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/deepmind/sonnet
 	```
-- **[PyPi](https://pypi.org/project/dm-sonnet)** (📥 15K / month · 📦 58 · ⏱️ 06.09.2019):
+- **[PyPi](https://pypi.org/project/dm-sonnet)** (📥 16K / month · 📦 58 · ⏱️ 06.09.2019):
 
 	```
 	pip install dm-sonnet
@@ -368,7 +368,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/clab/dynet
 	```
-- **[PyPi](https://pypi.org/project/dyNET)** (📥 4.4K / month · 📦 28 · ⏱️ 18.09.2018):
+- **[PyPi](https://pypi.org/project/dyNET)** (📥 4.7K / month · 📦 28 · ⏱️ 18.09.2018):
 
 	```
 	pip install dyNET
@@ -381,7 +381,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/skorch-dev/skorch
 	```
-- **[PyPi](https://pypi.org/project/skorch)** (📥 4.6K / month · 📦 8 · ⏱️ 17.12.2018):
+- **[PyPi](https://pypi.org/project/skorch)** (📥 4.7K / month · 📦 8 · ⏱️ 17.12.2018):
 
 	```
 	pip install skorch
@@ -394,7 +394,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/aksnzhy/xlearn
 	```
-- **[PyPi](https://pypi.org/project/xlearn)** (📥 9.5K / month · ⏱️ 04.12.2018):
+- **[PyPi](https://pypi.org/project/xlearn)** (📥 9.9K / month · ⏱️ 04.12.2018):
 
 	```
 	pip install xlearn
@@ -407,7 +407,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/sony/nnabla
 	```
-- **[PyPi](https://pypi.org/project/nnabla)** (📥 1.7K / month · 📦 32 · ⏱️ 22.10.2019):
+- **[PyPi](https://pypi.org/project/nnabla)** (📥 1.8K / month · 📦 32 · ⏱️ 22.10.2019):
 
 	```
 	pip install nnabla
@@ -472,7 +472,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/itdxer/neupy
 	```
-- **[PyPi](https://pypi.org/project/neupy)** (📥 680 / month · 📦 10 · ⏱️ 04.04.2019):
+- **[PyPi](https://pypi.org/project/neupy)** (📥 710 / month · 📦 10 · ⏱️ 04.04.2019):
 
 	```
 	pip install neupy
@@ -485,7 +485,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/pytorchbearer/torchbearer
 	```
-- **[PyPi](https://pypi.org/project/torchbearer)** (📥 620 / month · 📦 3 · ⏱️ 17.09.2019):
+- **[PyPi](https://pypi.org/project/torchbearer)** (📥 640 / month · 📦 3 · ⏱️ 17.09.2019):
 
 	```
 	pip install torchbearer
@@ -498,7 +498,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/Xtra-Computing/thundersvm
 	```
-- **[PyPi](https://pypi.org/project/thundersvm)** (📥 280 / month · ⏱️ 06.05.2019):
+- **[PyPi](https://pypi.org/project/thundersvm)** (📥 290 / month · ⏱️ 06.05.2019):
 
 	```
 	pip install thundersvm
@@ -546,7 +546,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/amaiya/ktrain
 	```
-- **[PyPi](https://pypi.org/project/ktrain)** (📥 2K / month · ⏱️ 01.10.2019):
+- **[PyPi](https://pypi.org/project/ktrain)** (📥 2.1K / month · ⏱️ 01.10.2019):
 
 	```
 	pip install ktrain
@@ -568,7 +568,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/bokeh/bokeh
 	```
-- **[PyPi](https://pypi.org/project/bokeh)** (📥 620K / month · 📦 5.4K · ⏱️ 07.08.2019):
+- **[PyPi](https://pypi.org/project/bokeh)** (📥 630K / month · 📦 5.4K · ⏱️ 07.08.2019):
 
 	```
 	pip install bokeh
@@ -589,7 +589,7 @@ _General-purpose and task-specific data visualization libraries._
 </details>
 <details><summary><b><a href="https://github.com/plotly/plotly.py">Plotly</a></b> (🥇32 ·  ⭐ 5.7K) - An open-source, interactive graphing library for Python (includes Plotly Express). <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/plotly/plotly.py)** (👨‍💻 100 · 🔀 1.2K · 📦 2 · 📋 1.1K - 29% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/plotly/plotly.py)** (👨‍💻 100 · 🔀 1.2K · 📦 2 · 📋 1.1K - 29% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/plotly/plotly.py
@@ -599,7 +599,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	pip install plotly
 	```
-- **[NPM](https://www.npmjs.com/package/plotlywidget)** (📥 5.6K / month · 📦 2 · ⏱️ 03.09.2019):
+- **[NPM](https://www.npmjs.com/package/plotlywidget)** (📥 5.8K / month · 📦 2 · ⏱️ 03.09.2019):
 
 	```
 	npm install plotlywidget
@@ -631,6 +631,19 @@ _General-purpose and task-specific data visualization libraries._
 	pip install wordcloud
 	```
 </details>
+<details><summary><b><a href="https://github.com/santosjorge/cufflinks">Cufflinks</a></b> (🥈29 ·  ⭐ 1.3K) - Productivity Tools for Plotly + Pandas. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+
+- **[GitHub](https://github.com/santosjorge/cufflinks)** (👨‍💻 33 · 🔀 340 · 📦 760 · 📋 160 - 30% open · ⏱️ 29.10.2019):
+
+	```
+	git clone https://github.com/santosjorge/cufflinks
+	```
+- **[PyPi](https://pypi.org/project/cufflinks)** (📥 140K / month · 📦 100 · ⏱️ 23.10.2019):
+
+	```
+	pip install cufflinks
+	```
+</details>
 <details><summary><b><a href="https://github.com/pandas-profiling/pandas-profiling">pandas-profiling</a></b> (🥈28 ·  ⭐ 3.7K) - Create HTML profiling reports from pandas DataFrame objects. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/pandas-profiling/pandas-profiling)** (👨‍💻 36 · 🔀 510 · 📦 600 · 📋 200 - 26% open · ⏱️ 13.08.2019):
@@ -638,7 +651,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/pandas-profiling/pandas-profiling
 	```
-- **[PyPi](https://pypi.org/project/pandas-profiling)** (📥 66K / month · 📦 41 · ⏱️ 27.07.2019):
+- **[PyPi](https://pypi.org/project/pandas-profiling)** (📥 68K / month · 📦 41 · ⏱️ 27.07.2019):
 
 	```
 	pip install pandas-profiling
@@ -661,7 +674,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	pip install vispy
 	```
-- **[NPM](https://www.npmjs.com/package/vispy)** (📥 83 / month · ⏱️ 27.07.2019):
+- **[NPM](https://www.npmjs.com/package/vispy)** (📥 76 / month · ⏱️ 27.07.2019):
 
 	```
 	npm install vispy
@@ -674,7 +687,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/pyviz/datashader
 	```
-- **[PyPi](https://pypi.org/project/datashader)** (📥 9.2K / month · 📦 26 · ⏱️ 03.04.2019):
+- **[PyPi](https://pypi.org/project/datashader)** (📥 9.3K / month · 📦 26 · ⏱️ 03.04.2019):
 
 	```
 	pip install datashader
@@ -687,28 +700,15 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/pyviz/holoviews
 	```
-- **[PyPi](https://pypi.org/project/holoviews)** (📥 33K / month · 📦 130 · ⏱️ 08.10.2019):
+- **[PyPi](https://pypi.org/project/holoviews)** (📥 34K / month · 📦 130 · ⏱️ 08.10.2019):
 
 	```
 	pip install holoviews
 	```
-- **[NPM](https://www.npmjs.com/package/@pyviz/jupyterlab_pyviz)** (📥 2.2K / month · ⏱️ 01.07.2019):
+- **[NPM](https://www.npmjs.com/package/@pyviz/jupyterlab_pyviz)** (📥 2.3K / month · ⏱️ 01.07.2019):
 
 	```
 	npm install @pyviz/jupyterlab_pyviz
-	```
-</details>
-<details><summary><b><a href="https://github.com/santosjorge/cufflinks">Cufflinks</a></b> (🥈28 ·  ⭐ 1.3K) - Productivity Tools for Plotly + Pandas. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
-
-- **[GitHub](https://github.com/santosjorge/cufflinks)** (👨‍💻 33 · 🔀 340 · 📦 750 · 📋 160 - 30% open · ⏱️ 29.10.2019):
-
-	```
-	git clone https://github.com/santosjorge/cufflinks
-	```
-- **[PyPi](https://pypi.org/project/cufflinks)** (📥 140K / month · 📦 100 · ⏱️ 23.10.2019):
-
-	```
-	pip install cufflinks
 	```
 </details>
 <details><summary><b><a href="https://github.com/bloomberg/bqplot">bqplot</a></b> (🥈27 ·  ⭐ 2.6K) - Plotting library for IPython/Jupyter Notebooks. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
@@ -723,7 +723,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	pip install bqplot
 	```
-- **[NPM](https://www.npmjs.com/package/bqplot)** (📥 3.1K / month · 📦 10 · ⏱️ 29.10.2019):
+- **[NPM](https://www.npmjs.com/package/bqplot)** (📥 3.2K / month · 📦 10 · ⏱️ 29.10.2019):
 
 	```
 	npm install bqplot
@@ -736,7 +736,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/ResidentMario/missingno
 	```
-- **[PyPi](https://pypi.org/project/missingno)** (📥 64K / month · 📦 29 · ⏱️ 29.06.2018):
+- **[PyPi](https://pypi.org/project/missingno)** (📥 65K / month · 📦 29 · ⏱️ 29.06.2018):
 
 	```
 	pip install missingno
@@ -757,20 +757,38 @@ _General-purpose and task-specific data visualization libraries._
 </details>
 <details><summary><b><a href="https://github.com/finos/perspective">Perspective</a></b> (🥉24 ·  ⭐ 2.1K) - Streaming pivot visualization via WebAssembly. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/finos/perspective)** (👨‍💻 43 · 🔀 160 · 📦 26 · 📋 170 - 15% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/finos/perspective)** (👨‍💻 43 · 🔀 160 · 📦 26 · 📋 170 - 14% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/finos/perspective
 	```
-- **[PyPi](https://pypi.org/project/perspective-python)** (📥 480 / month · 📦 5 · ⏱️ 30.07.2019):
+- **[PyPi](https://pypi.org/project/perspective-python)** (📥 500 / month · 📦 5 · ⏱️ 30.07.2019):
 
 	```
 	pip install perspective-python
 	```
-- **[NPM](https://www.npmjs.com/package/@finos/perspective-jupyterlab)** (📥 420 / month · ⏱️ 06.11.2019):
+- **[NPM](https://www.npmjs.com/package/@finos/perspective-jupyterlab)** (📥 430 / month · ⏱️ 06.11.2019):
 
 	```
 	npm install @finos/perspective-jupyterlab
+	```
+</details>
+<details><summary><b><a href="https://github.com/jupyter-widgets/pythreejs">pythreejs</a></b> (🥉24 ·  ⭐ 560) - A Jupyter - Three.js bridge. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+
+- **[GitHub](https://github.com/jupyter-widgets/pythreejs)** (👨‍💻 21 · 🔀 110 · 📦 9 · 📋 160 - 25% open · ⏱️ 18.10.2019):
+
+	```
+	git clone https://github.com/jupyter-widgets/pythreejs
+	```
+- **[PyPi](https://pypi.org/project/pythreejs)** (📥 6.4K / month · 📦 11 · ⏱️ 04.07.2019):
+
+	```
+	pip install pythreejs
+	```
+- **[NPM](https://www.npmjs.com/package/jupyter-threejs)** (📥 1.7K / month · 📦 8 · ⏱️ 04.07.2019):
+
+	```
+	npm install jupyter-threejs
 	```
 </details>
 <details><summary><b><a href="https://github.com/vega/ipyvega">vega</a></b> (🥉24 ·  ⭐ 240) - IPython/Jupyter notebook module for Vega and Vega-Lite. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
@@ -791,38 +809,7 @@ _General-purpose and task-specific data visualization libraries._
 	conda install -c conda-forge vega
 	```
 </details>
-<details><summary><b><a href="https://github.com/jupyter-widgets/pythreejs">pythreejs</a></b> (🥉23 ·  ⭐ 560) - A Jupyter - Three.js bridge. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
-
-- **[GitHub](https://github.com/jupyter-widgets/pythreejs)** (👨‍💻 21 · 🔀 110 · 📦 9 · 📋 160 - 25% open · ⏱️ 18.10.2019):
-
-	```
-	git clone https://github.com/jupyter-widgets/pythreejs
-	```
-- **[PyPi](https://pypi.org/project/pythreejs)** (📥 6.3K / month · 📦 11 · ⏱️ 04.07.2019):
-
-	```
-	pip install pythreejs
-	```
-- **[NPM](https://www.npmjs.com/package/jupyter-threejs)** (📥 1.6K / month · 📦 8 · ⏱️ 04.07.2019):
-
-	```
-	npm install jupyter-threejs
-	```
-</details>
-<details><summary><b><a href="https://github.com/pyvista/pyvista">PyVista</a></b> (🥉23 ·  ⭐ 260) - 3D plotting and mesh analysis through a streamlined interface for the Visualization.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
-
-- **[GitHub](https://github.com/pyvista/pyvista)** (👨‍💻 18 · 🔀 52 · 📦 38 · 📋 190 - 32% open · ⏱️ 11.11.2019):
-
-	```
-	git clone https://github.com/pyvista/pyvista
-	```
-- **[PyPi](https://pypi.org/project/pyvista)** (📥 2.3K / month · 📦 10 · ⏱️ 20.09.2019):
-
-	```
-	pip install pyvista
-	```
-</details>
-<details><summary><b><a href="https://github.com/PAIR-code/facets">facets-overview</a></b> (🥉22 ·  ⭐ 5.9K) - Visualizations for machine learning datasets. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/PAIR-code/facets">facets-overview</a></b> (🥉23 ·  ⭐ 5.9K) - Visualizations for machine learning datasets. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/PAIR-code/facets)** (👨‍💻 23 · 🔀 710 · 📦 6 · 📋 120 - 47% open · ⏱️ 04.11.2019):
 
@@ -835,6 +822,19 @@ _General-purpose and task-specific data visualization libraries._
 	pip install facets-overview
 	```
 </details>
+<details><summary><b><a href="https://github.com/pyvista/pyvista">PyVista</a></b> (🥉23 ·  ⭐ 260) - 3D plotting and mesh analysis through a streamlined interface for the.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+
+- **[GitHub](https://github.com/pyvista/pyvista)** (👨‍💻 18 · 🔀 52 · 📦 38 · 📋 190 - 32% open · ⏱️ 11.11.2019):
+
+	```
+	git clone https://github.com/pyvista/pyvista
+	```
+- **[PyPi](https://pypi.org/project/pyvista)** (📥 2.3K / month · 📦 10 · ⏱️ 20.09.2019):
+
+	```
+	pip install pyvista
+	```
+</details>
 <details><summary><b><a href="https://github.com/spotify/chartify">Chartify</a></b> (🥉22 ·  ⭐ 2.3K) - Python library that makes it easy for data scientists to create charts. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/spotify/chartify)** (👨‍💻 9 · 🔀 180 · 📦 35 · 📋 62 - 62% open · ⏱️ 15.08.2019):
@@ -842,7 +842,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/spotify/chartify
 	```
-- **[PyPi](https://pypi.org/project/chartify)** (📥 6.7K / month · 📦 3 · ⏱️ 15.08.2019):
+- **[PyPi](https://pypi.org/project/chartify)** (📥 6.8K / month · 📦 3 · ⏱️ 15.08.2019):
 
 	```
 	pip install chartify
@@ -855,7 +855,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/pyviz/hvplot
 	```
-- **[PyPi](https://pypi.org/project/hvplot)** (📥 5.1K / month · 📦 6 · ⏱️ 10.10.2019):
+- **[PyPi](https://pypi.org/project/hvplot)** (📥 5.2K / month · 📦 6 · ⏱️ 10.10.2019):
 
 	```
 	pip install hvplot
@@ -868,7 +868,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/pavlin-policar/openTSNE
 	```
-- **[PyPi](https://pypi.org/project/opentsne)** (📥 3.4K / month · 📦 2 · ⏱️ 04.09.2019):
+- **[PyPi](https://pypi.org/project/opentsne)** (📥 3.5K / month · 📦 2 · ⏱️ 04.09.2019):
 
 	```
 	pip install opentsne
@@ -899,7 +899,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/ContextLab/hypertools
 	```
-- **[PyPi](https://pypi.org/project/hypertools)** (📥 420 / month · 📦 5 · ⏱️ 02.08.2018):
+- **[PyPi](https://pypi.org/project/hypertools)** (📥 430 / month · 📦 5 · ⏱️ 02.08.2018):
 
 	```
 	pip install hypertools
@@ -938,7 +938,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/altair-viz/pdvega
 	```
-- **[PyPi](https://pypi.org/project/pdvega)** (📥 240 / month · 📦 2 · ⏱️ 01.02.2018):
+- **[PyPi](https://pypi.org/project/pdvega)** (📥 250 / month · 📦 2 · ⏱️ 01.02.2018):
 
 	```
 	pip install pdvega
@@ -952,7 +952,7 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/matplotlib/matplotlib
 	```
-- **[PyPi](https://pypi.org/project/matplotlib)** (📥 6.9M / month · 📦 73K · ⏱️ 25.10.2019):
+- **[PyPi](https://pypi.org/project/matplotlib)** (📥 7M / month · 📦 73K · ⏱️ 25.10.2019):
 
 	```
 	pip install matplotlib
@@ -965,13 +965,13 @@ _General-purpose and task-specific data visualization libraries._
 	```
 	git clone https://github.com/ellisonbg/altair
 	```
-- **[PyPi](https://pypi.org/project/altair)** (📥 62K / month · 📦 220 · ⏱️ 06.08.2019):
+- **[PyPi](https://pypi.org/project/altair)** (📥 64K / month · 📦 220 · ⏱️ 06.08.2019):
 
 	```
 	pip install altair
 	```
 </details>
-<details><summary><b><a href="https://github.com/Zsailer/nx_altair">nx-altair</a></b> (🥉13 ·  ⭐ 110) - Draw NetworkX graphs with Altair. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/Zsailer/nx_altair">nx-altair</a></b> (🥉14 ·  ⭐ 110) - Draw NetworkX graphs with Altair. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://jupyter.org/"><code><img src="https://jupyter.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/Zsailer/nx_altair)** (👨‍💻 3 · 🔀 12 · 📋 6 - 66% open · ⏱️ 16.09.2019):
 
@@ -984,14 +984,14 @@ _General-purpose and task-specific data visualization libraries._
 	pip install nx-altair
 	```
 </details>
-<details><summary><b><a href="https://github.com/biovault/nptsne">nptsne</a></b> (🥉11 ·  ⭐ 15 · 🐣) - nptsne is a numpy compatible python binary package that offers a number of.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/biovault/nptsne">nptsne</a></b> (🥉11 ·  ⭐ 16 · 🐣) - nptsne is a numpy compatible python binary package that offers a number of.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/biovault/nptsne)** (👨‍💻 3 · 🔀 1 · ⏱️ 07.11.2019):
 
 	```
 	git clone https://github.com/biovault/nptsne
 	```
-- **[PyPi](https://pypi.org/project/nptsne)** (📥 51 / month · ⏱️ 07.11.2019):
+- **[PyPi](https://pypi.org/project/nptsne)** (📥 65 / month · ⏱️ 07.11.2019):
 
 	```
 	pip install nptsne
@@ -1013,7 +1013,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/explosion/spaCy
 	```
-- **[PyPi](https://pypi.org/project/spacy)** (📥 790K / month · 📦 2.7K · ⏱️ 31.10.2019):
+- **[PyPi](https://pypi.org/project/spacy)** (📥 810K / month · 📦 2.7K · ⏱️ 31.10.2019):
 
 	```
 	pip install spacy
@@ -1026,7 +1026,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/nltk/nltk
 	```
-- **[PyPi](https://pypi.org/project/nltk)** (📥 2.5M / month · 📦 18K · ⏱️ 20.08.2019):
+- **[PyPi](https://pypi.org/project/nltk)** (📥 2.6M / month · 📦 18K · ⏱️ 20.08.2019):
 
 	```
 	pip install nltk
@@ -1039,7 +1039,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/RasaHQ/rasa
 	```
-- **[PyPi](https://pypi.org/project/rasa)** (📥 17K / month · 📦 21 · ⏱️ 29.10.2019):
+- **[PyPi](https://pypi.org/project/rasa)** (📥 18K / month · 📦 21 · ⏱️ 29.10.2019):
 
 	```
 	pip install rasa
@@ -1052,7 +1052,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/facebookresearch/fastText
 	```
-- **[PyPi](https://pypi.org/project/fasttext)** (📥 180K / month · 📦 58 · ⏱️ 27.06.2019):
+- **[PyPi](https://pypi.org/project/fasttext)** (📥 190K / month · 📦 58 · ⏱️ 27.06.2019):
 
 	```
 	pip install fasttext
@@ -1065,7 +1065,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/huggingface/transformers
 	```
-- **[PyPi](https://pypi.org/project/transformers)** (📥 54K / month · 📦 33 · ⏱️ 09.10.2019):
+- **[PyPi](https://pypi.org/project/transformers)** (📥 55K / month · 📦 33 · ⏱️ 09.10.2019):
 
 	```
 	pip install transformers
@@ -1078,7 +1078,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/allenai/allennlp
 	```
-- **[PyPi](https://pypi.org/project/allennlp)** (📥 14K / month · 📦 76 · ⏱️ 25.09.2019):
+- **[PyPi](https://pypi.org/project/allennlp)** (📥 15K / month · 📦 76 · ⏱️ 25.09.2019):
 
 	```
 	pip install allennlp
@@ -1104,7 +1104,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/zalandoresearch/flair
 	```
-- **[PyPi](https://pypi.org/project/flair)** (📥 19K / month · 📦 17 · ⏱️ 30.05.2019):
+- **[PyPi](https://pypi.org/project/flair)** (📥 20K / month · 📦 17 · ⏱️ 30.05.2019):
 
 	```
 	pip install flair
@@ -1130,7 +1130,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/pytorch/text
 	```
-- **[PyPi](https://pypi.org/project/torchtext)** (📥 34K / month · 📦 260 · ⏱️ 11.10.2018):
+- **[PyPi](https://pypi.org/project/torchtext)** (📥 35K / month · 📦 260 · ⏱️ 11.10.2018):
 
 	```
 	pip install torchtext
@@ -1151,12 +1151,12 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 </details>
 <details><summary><b><a href="https://github.com/pytorch/fairseq">fairseq</a></b> (🥈27 ·  ⭐ 6.1K) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/pytorch/fairseq)** (👨‍💻 150 · 🔀 1.4K · 📦 37 · 📋 930 - 20% open · ⏱️ 10.11.2019):
+- **[GitHub](https://github.com/pytorch/fairseq)** (👨‍💻 150 · 🔀 1.4K · 📦 37 · 📋 930 - 20% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/pytorch/fairseq
 	```
-- **[PyPi](https://pypi.org/project/fairseq)** (📥 6.3K / month · 📦 12 · ⏱️ 14.08.2019):
+- **[PyPi](https://pypi.org/project/fairseq)** (📥 6.4K / month · 📦 12 · ⏱️ 14.08.2019):
 
 	```
 	pip install fairseq
@@ -1169,7 +1169,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/dedupeio/dedupe
 	```
-- **[PyPi](https://pypi.org/project/dedupe)** (📥 32K / month · 📦 76 · ⏱️ 27.07.2019):
+- **[PyPi](https://pypi.org/project/dedupe)** (📥 34K / month · 📦 76 · ⏱️ 27.07.2019):
 
 	```
 	pip install dedupe
@@ -1182,7 +1182,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/daviddrysdale/python-phonenumbers
 	```
-- **[PyPi](https://pypi.org/project/phonenumbers)** (📥 740K / month · 📦 2.1K · ⏱️ 31.10.2019):
+- **[PyPi](https://pypi.org/project/phonenumbers)** (📥 760K / month · 📦 2.1K · ⏱️ 31.10.2019):
 
 	```
 	pip install phonenumbers
@@ -1195,7 +1195,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/jazzband/inflect
 	```
-- **[PyPi](https://pypi.org/project/inflect)** (📥 550K / month · 📦 1.3K · ⏱️ 27.10.2019):
+- **[PyPi](https://pypi.org/project/inflect)** (📥 560K / month · 📦 1.3K · ⏱️ 27.10.2019):
 
 	```
 	pip install inflect
@@ -1221,7 +1221,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/OpenNMT/OpenNMT-py
 	```
-- **[PyPi](https://pypi.org/project/OpenNMT-py)** (📥 2.6K / month · ⏱️ 02.10.2019):
+- **[PyPi](https://pypi.org/project/OpenNMT-py)** (📥 2.7K / month · ⏱️ 02.10.2019):
 
 	```
 	pip install OpenNMT-py
@@ -1286,7 +1286,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/cltk/cltk
 	```
-- **[PyPi](https://pypi.org/project/cltk)** (📥 1.6K / month · 📦 64 · ⏱️ 19.07.2019):
+- **[PyPi](https://pypi.org/project/cltk)** (📥 1.5K / month · 📦 64 · ⏱️ 19.07.2019):
 
 	```
 	pip install cltk
@@ -1299,7 +1299,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/stanfordnlp/stanfordnlp
 	```
-- **[PyPi](https://pypi.org/project/stanfordnlp)** (📥 8.5K / month · 📦 8 · ⏱️ 16.05.2019):
+- **[PyPi](https://pypi.org/project/stanfordnlp)** (📥 8.8K / month · 📦 8 · ⏱️ 16.05.2019):
 
 	```
 	pip install stanfordnlp
@@ -1312,7 +1312,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/PetrochukM/PyTorch-NLP
 	```
-- **[PyPi](https://pypi.org/project/pytorch-nlp)** (📥 4.7K / month · 📦 5 · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/pytorch-nlp)** (📥 4.8K / month · 📦 5 · ⏱️ 04.11.2019):
 
 	```
 	pip install pytorch-nlp
@@ -1338,7 +1338,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/facebookresearch/pytext
 	```
-- **[PyPi](https://pypi.org/project/pytext-nlp)** (📥 970 / month · ⏱️ 14.08.2019):
+- **[PyPi](https://pypi.org/project/pytext-nlp)** (📥 990 / month · ⏱️ 14.08.2019):
 
 	```
 	pip install pytext-nlp
@@ -1364,20 +1364,20 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/NTMC-Community/MatchZoo
 	```
-- **[PyPi](https://pypi.org/project/matchzoo)** (📥 560 / month · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/matchzoo)** (📥 580 / month · ⏱️ 24.10.2019):
 
 	```
 	pip install matchzoo
 	```
 </details>
-<details><summary><b><a href="https://github.com/asyml/texar">Texar</a></b> (🥉23 ·  ⭐ 1.7K) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation,.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/asyml/texar">Texar</a></b> (🥉23 ·  ⭐ 1.7K) - Toolkit for Machine Learning, Natural Language Processing, and Text.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/asyml/texar)** (👨‍💻 37 · 🔀 260 · 📦 3 · 📋 130 - 14% open · ⏱️ 08.11.2019):
 
 	```
 	git clone https://github.com/asyml/texar
 	```
-- **[PyPi](https://pypi.org/project/texar)** (📥 240 / month · ⏱️ 26.09.2019):
+- **[PyPi](https://pypi.org/project/texar)** (📥 250 / month · ⏱️ 26.09.2019):
 
 	```
 	pip install texar
@@ -1396,14 +1396,14 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	pip install pyahocorasick
 	```
 </details>
-<details><summary><b><a href="https://github.com/Hironsan/anago">anaGo</a></b> (🥉22 ·  ⭐ 1.2K) - Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://keras.io"><code><img src="https://keras.io/img/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/Hironsan/anago">anaGo</a></b> (🥉22 ·  ⭐ 1.2K) - Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://keras.io"><code><img src="https://keras.io/img/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/Hironsan/anago)** (👨‍💻 11 · 🔀 320 · 📦 18 · 📋 100 - 31% open · ⏱️ 23.10.2019):
 
 	```
 	git clone https://github.com/Hironsan/anago
 	```
-- **[PyPi](https://pypi.org/project/anago)** (📥 3.4K / month · ⏱️ 17.07.2018):
+- **[PyPi](https://pypi.org/project/anago)** (📥 3.6K / month · ⏱️ 17.07.2018):
 
 	```
 	pip install anago
@@ -1416,7 +1416,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/vi3k6i5/flashtext
 	```
-- **[PyPi](https://pypi.org/project/flashtext)** (📥 37K / month · 📦 26 · ⏱️ 16.02.2018):
+- **[PyPi](https://pypi.org/project/flashtext)** (📥 38K / month · 📦 26 · ⏱️ 16.02.2018):
 
 	```
 	pip install flashtext
@@ -1429,7 +1429,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/NervanaSystems/nlp-architect
 	```
-- **[PyPi](https://pypi.org/project/nlp-architect)** (📥 660 / month · ⏱️ 09.09.2019):
+- **[PyPi](https://pypi.org/project/nlp-architect)** (📥 750 / month · ⏱️ 09.09.2019):
 
 	```
 	pip install nlp-architect
@@ -1442,7 +1442,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/BrikerMan/Kashgari
 	```
-- **[PyPi](https://pypi.org/project/kashgari-tf)** (📥 740 / month · 📦 1 · ⏱️ 26.06.2019):
+- **[PyPi](https://pypi.org/project/kashgari-tf)** (📥 720 / month · 📦 1 · ⏱️ 26.06.2019):
 
 	```
 	pip install kashgari-tf
@@ -1455,7 +1455,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/JasonKessler/scattertext
 	```
-- **[PyPi](https://pypi.org/project/scattertext)** (📥 2.3K / month · 📦 6 · ⏱️ 26.04.2019):
+- **[PyPi](https://pypi.org/project/scattertext)** (📥 2.4K / month · 📦 6 · ⏱️ 26.04.2019):
 
 	```
 	pip install scattertext
@@ -1468,20 +1468,20 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/DerwenAI/pytextrank
 	```
-- **[PyPi](https://pypi.org/project/pytextrank)** (📥 3.3K / month · 📦 4 · ⏱️ 05.11.2019):
+- **[PyPi](https://pypi.org/project/pytextrank)** (📥 3.4K / month · 📦 4 · ⏱️ 05.11.2019):
 
 	```
 	pip install pytextrank
 	```
 </details>
-<details><summary><b><a href="https://github.com/didi/delta">DELTA</a></b> (🥉20 ·  ⭐ 1K · 🐣) - DELTA is a deep learning based natural language and speech processing platform. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/didi/delta">DELTA</a></b> (🥉20 ·  ⭐ 1K · 🐣) - DELTA is a deep learning based natural language and speech processing.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/didi/delta)** (👨‍💻 31 · 🔀 200 · 📋 53 - 32% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/didi/delta
 	```
-- **[Dockerhub](https://hub.docker.com/r/zh794390558/delta)** (📥 6.7K · ⏱️ 11.11.2019):
+- **[Dockerhub](https://hub.docker.com/r/zh794390558/delta)** (📥 6.8K · ⏱️ 12.11.2019):
 
 	```
 	docker pull zh794390558/delta
@@ -1494,7 +1494,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/awslabs/sockeye
 	```
-- **[PyPi](https://pypi.org/project/sockeye)** (📥 720 / month · 📦 2 · ⏱️ 07.05.2019):
+- **[PyPi](https://pypi.org/project/sockeye)** (📥 710 / month · 📦 2 · ⏱️ 07.05.2019):
 
 	```
 	pip install sockeye
@@ -1507,7 +1507,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/IndicoDataSolutions/finetune
 	```
-- **[PyPi](https://pypi.org/project/finetune)** (📥 540 / month · 📦 1 · ⏱️ 07.11.2019):
+- **[PyPi](https://pypi.org/project/finetune)** (📥 560 / month · 📦 1 · ⏱️ 07.11.2019):
 
 	```
 	pip install finetune
@@ -1528,12 +1528,12 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/text">TensorFlow Text</a></b> (🥉19 ·  ⭐ 480 · 🐣) - Making text a first-class citizen in TensorFlow. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/tensorflow/text)** (👨‍💻 15 · 🔀 39 · 📦 6 · 📋 33 - 39% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/tensorflow/text)** (👨‍💻 15 · 🔀 39 · 📦 8 · 📋 33 - 39% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/tensorflow/text
 	```
-- **[PyPi](https://pypi.org/project/tensorflow-text)** (📥 3.6K / month · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/tensorflow-text)** (📥 3.8K / month · ⏱️ 08.11.2019):
 
 	```
 	pip install tensorflow-text
@@ -1546,7 +1546,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/Franck-Dernoncourt/NeuroNER
 	```
-- **[PyPi](https://pypi.org/project/pyneuroner)** (📥 170 / month · ⏱️ 02.10.2019):
+- **[PyPi](https://pypi.org/project/pyneuroner)** (📥 160 / month · ⏱️ 02.10.2019):
 
 	```
 	pip install pyneuroner
@@ -1559,7 +1559,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/kaushaltrivedi/fast-bert
 	```
-- **[PyPi](https://pypi.org/project/fast-bert)** (📥 1.9K / month · 📦 1 · ⏱️ 09.10.2019):
+- **[PyPi](https://pypi.org/project/fast-bert)** (📥 2K / month · 📦 1 · ⏱️ 09.10.2019):
 
 	```
 	pip install fast-bert
@@ -1588,12 +1588,12 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 </details>
 <details><summary><b><a href="https://github.com/NVIDIA/NeMo">NeMo</a></b> (🥉17 ·  ⭐ 810 · 🐣) - Neural Modules: a toolkit for conversational AI. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/NVIDIA/NeMo)** (👨‍💻 19 · 🔀 78 · 📋 22 - 40% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/NVIDIA/NeMo)** (👨‍💻 19 · 🔀 78 · 📋 22 - 40% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/NVIDIA/NeMo
 	```
-- **[PyPi](https://pypi.org/project/nemo-toolkit)** (📥 200 / month · 📦 2 · ⏱️ 05.11.2019):
+- **[PyPi](https://pypi.org/project/nemo-toolkit)** (📥 210 / month · 📦 2 · ⏱️ 05.11.2019):
 
 	```
 	pip install nemo-toolkit
@@ -1606,7 +1606,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/deepset-ai/FARM
 	```
-- **[PyPi](https://pypi.org/project/farm)** (📥 250 / month · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/farm)** (📥 270 / month · ⏱️ 04.11.2019):
 
 	```
 	pip install farm
@@ -1619,7 +1619,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/feedly/transfer-nlp
 	```
-- **[PyPi](https://pypi.org/project/transfer-nlp)** (📥 31 / month · ⏱️ 25.06.2019):
+- **[PyPi](https://pypi.org/project/transfer-nlp)** (📥 33 / month · ⏱️ 25.06.2019):
 
 	```
 	pip install transfer-nlp
@@ -1632,7 +1632,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/as-ideas/headliner
 	```
-- **[PyPi](https://pypi.org/project/headliner)** (📥 830 / month · ⏱️ 05.11.2019):
+- **[PyPi](https://pypi.org/project/headliner)** (📥 850 / month · ⏱️ 05.11.2019):
 
 	```
 	pip install headliner
@@ -1654,7 +1654,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 <details><summary>Show 8 hidden projects...</summary>
 <br><details><summary><b><a href="https://github.com/RaRe-Technologies/gensim">gensim</a></b> (🥇34 ·  ⭐ 10K) - Topic Modelling for Humans. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-- **[GitHub](https://github.com/RaRe-Technologies/gensim)** (👨‍💻 360 · 🔀 3.6K · 📥 1.6K · 📦 10K · 📋 1.4K - 19% open · ⏱️ 03.11.2019):
+- **[GitHub](https://github.com/RaRe-Technologies/gensim)** (👨‍💻 360 · 🔀 3.6K · 📥 1.6K · 📦 10K · 📋 1.4K - 19% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/RaRe-Technologies/gensim
@@ -1698,7 +1698,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/aboSamoor/polyglot
 	```
-- **[PyPi](https://pypi.org/project/polyglot)** (📥 31K / month · 📦 57 · ⏱️ 03.07.2016):
+- **[PyPi](https://pypi.org/project/polyglot)** (📥 32K / month · 📦 57 · ⏱️ 03.07.2016):
 
 	```
 	pip install polyglot
@@ -1711,7 +1711,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/Alir3z4/python-stop-words
 	```
-- **[PyPi](https://pypi.org/project/stop-words)** (📥 72K / month · 📦 200 · ⏱️ 23.07.2018):
+- **[PyPi](https://pypi.org/project/stop-words)** (📥 73K / month · 📦 200 · ⏱️ 23.07.2018):
 
 	```
 	pip install stop-words
@@ -1737,13 +1737,13 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	```
 	git clone https://github.com/textpipe/textpipe
 	```
-- **[PyPi](https://pypi.org/project/textpipe)** (📥 260 / month · 📦 1 · ⏱️ 18.07.2019):
+- **[PyPi](https://pypi.org/project/textpipe)** (📥 270 / month · 📦 1 · ⏱️ 18.07.2019):
 
 	```
 	pip install textpipe
 	```
 </details>
-<details><summary><b><a href="https://github.com/nipunsadvilkar/pySBD">pySBD</a></b> (🥉16 ·  ⭐ 81) - pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/nipunsadvilkar/pySBD">pySBD</a></b> (🥉17 ·  ⭐ 81) - pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/nipunsadvilkar/pySBD)** (👨‍💻 2 · 🔀 9 · 📦 1 · 📋 31 - 9% open · ⏱️ 01.11.2019):
 
@@ -1785,7 +1785,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/pytorch/vision
 	```
-- **[PyPi](https://pypi.org/project/torchvision)** (📥 380K / month · 📦 3.8K · ⏱️ 07.11.2019):
+- **[PyPi](https://pypi.org/project/torchvision)** (📥 390K / month · 📦 3.8K · ⏱️ 07.11.2019):
 
 	```
 	pip install torchvision
@@ -1798,13 +1798,13 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/aleju/imgaug
 	```
-- **[PyPi](https://pypi.org/project/imgaug)** (📥 75K / month · 📦 180 · ⏱️ 24.09.2019):
+- **[PyPi](https://pypi.org/project/imgaug)** (📥 76K / month · 📦 180 · ⏱️ 24.09.2019):
 
 	```
 	pip install imgaug
 	```
 </details>
-<details><summary><b><a href="https://github.com/ageitgey/face_recognition">Face Recognition</a></b> (🥈29 ·  ⭐ 30K) - The world's simplest facial recognition api for Python and the command line. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/ageitgey/face_recognition">Face Recognition</a></b> (🥈29 ·  ⭐ 30K) - The world's simplest facial recognition api for Python and the command.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/ageitgey/face_recognition)** (👨‍💻 30 · 🔀 8.1K · 📥 400 · 📋 860 - 46% open · ⏱️ 09.10.2019):
 
@@ -1889,7 +1889,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/dmlc/gluon-cv
 	```
-- **[PyPi](https://pypi.org/project/gluoncv)** (📥 29K / month · 📦 11 · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/gluoncv)** (📥 30K / month · 📦 11 · ⏱️ 11.11.2019):
 
 	```
 	pip install gluoncv
@@ -1915,7 +1915,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/JohannesBuchner/imagehash
 	```
-- **[PyPi](https://pypi.org/project/ImageHash)** (📥 92K / month · 📦 440 · ⏱️ 07.12.2017):
+- **[PyPi](https://pypi.org/project/ImageHash)** (📥 94K / month · 📦 440 · ⏱️ 07.12.2017):
 
 	```
 	pip install ImageHash
@@ -1941,7 +1941,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/tensorflow/graphics
 	```
-- **[PyPi](https://pypi.org/project/tensorflow-graphics)** (📥 40K / month · 📦 1 · ⏱️ 09.05.2019):
+- **[PyPi](https://pypi.org/project/tensorflow-graphics)** (📥 41K / month · 📦 1 · ⏱️ 09.05.2019):
 
 	```
 	pip install tensorflow-graphics
@@ -1954,7 +1954,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/deepinsight/insightface
 	```
-- **[PyPi](https://pypi.org/project/insightface)** (📥 510 / month · ⏱️ 07.09.2019):
+- **[PyPi](https://pypi.org/project/insightface)** (📥 530 / month · ⏱️ 07.09.2019):
 
 	```
 	pip install insightface
@@ -2035,7 +2035,7 @@ _Libraries and tools for computer vision and image manipulation._
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/detectron2">detectron2</a></b> (🥉14 ·  ⭐ 5.4K · 🐣) - Detectron2 is FAIR's next-generation research platform for object.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/facebookresearch/detectron2)** (👨‍💻 33 · 🔀 710 · 📋 250 - 14% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/facebookresearch/detectron2)** (👨‍💻 33 · 🔀 720 · 📋 250 - 14% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/facebookresearch/detectron2
@@ -2049,7 +2049,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/python-pillow/Pillow
 	```
-- **[PyPi](https://pypi.org/project/Pillow)** (📥 9M / month · 📦 100K · ⏱️ 21.10.2019):
+- **[PyPi](https://pypi.org/project/Pillow)** (📥 9.2M / month · 📦 100K · ⏱️ 21.10.2019):
 
 	```
 	pip install Pillow
@@ -2075,15 +2075,15 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/uploadcare/pillow-simd
 	```
-- **[PyPi](https://pypi.org/project/pillow-simd)** (📥 22K / month · 📦 42 · ⏱️ 29.06.2019):
+- **[PyPi](https://pypi.org/project/pillow-simd)** (📥 23K / month · 📦 42 · ⏱️ 29.06.2019):
 
 	```
 	pip install pillow-simd
 	```
 </details>
-<details><summary><b><a href="https://github.com/facebookresearch/SlowFast">PySlowFast</a></b> (🥉8 ·  ⭐ 580 · 🐣) - PySlowFast: video understanding codebase from FAIR for reproducing.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/facebookresearch/SlowFast">PySlowFast</a></b> (🥉8 ·  ⭐ 590 · 🐣) - PySlowFast: video understanding codebase from FAIR for reproducing.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/facebookresearch/SlowFast)** (👨‍💻 1 · 🔀 71 · 📋 27 - 7% open · ⏱️ 01.11.2019):
+- **[GitHub](https://github.com/facebookresearch/SlowFast)** (👨‍💻 1 · 🔀 72 · 📋 27 - 7% open · ⏱️ 01.11.2019):
 
 	```
 	git clone https://github.com/facebookresearch/SlowFast
@@ -2111,7 +2111,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/networkx/networkx
 	```
-- **[PyPi](https://pypi.org/project/networkx)** (📥 3.5M / month · 📦 19K · ⏱️ 17.10.2019):
+- **[PyPi](https://pypi.org/project/networkx)** (📥 3.6M / month · 📦 19K · ⏱️ 17.10.2019):
 
 	```
 	pip install networkx
@@ -2119,25 +2119,25 @@ _Libraries and tools for computer vision and image manipulation._
 </details>
 <details><summary><b><a href="https://github.com/rusty1s/pytorch_geometric">PyTorch Geometric</a></b> (🥇24 ·  ⭐ 5.7K) - Geometric Deep Learning Extension Library for PyTorch. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/rusty1s/pytorch_geometric)** (👨‍💻 62 · 🔀 850 · 📋 670 - 26% open · ⏱️ 08.11.2019):
+- **[GitHub](https://github.com/rusty1s/pytorch_geometric)** (👨‍💻 62 · 🔀 860 · 📋 670 - 26% open · ⏱️ 08.11.2019):
 
 	```
 	git clone https://github.com/rusty1s/pytorch_geometric
 	```
-- **[PyPi](https://pypi.org/project/torch-geometric)** (📥 5.7K / month · 📦 3 · ⏱️ 29.08.2019):
+- **[PyPi](https://pypi.org/project/torch-geometric)** (📥 5.8K / month · 📦 3 · ⏱️ 29.08.2019):
 
 	```
 	pip install torch-geometric
 	```
 </details>
-<details><summary><b><a href="https://github.com/dmlc/dgl">dgl</a></b> (🥇24 ·  ⭐ 3.2K) - Python package built to ease deep learning on graph, on top of existing DL.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dmlc/dgl">dgl</a></b> (🥇24 ·  ⭐ 3.3K) - Python package built to ease deep learning on graph, on top of existing DL.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/dmlc/dgl)** (👨‍💻 42 · 🔀 500 · 📋 330 - 23% open · ⏱️ 08.11.2019):
 
 	```
 	git clone https://github.com/dmlc/dgl
 	```
-- **[PyPi](https://pypi.org/project/dgl)** (📥 3.1K / month · 📦 12 · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/dgl)** (📥 3.3K / month · 📦 12 · ⏱️ 11.11.2019):
 
 	```
 	pip install dgl
@@ -2150,7 +2150,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/stellargraph/stellargraph
 	```
-- **[PyPi](https://pypi.org/project/stellargraph)** (📥 4.5K / month · 📦 1 · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/stellargraph)** (📥 4.6K / month · 📦 1 · ⏱️ 08.11.2019):
 
 	```
 	pip install stellargraph
@@ -2189,7 +2189,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/rusty1s/pytorch_cluster
 	```
-- **[PyPi](https://pypi.org/project/torch-cluster)** (📥 7.2K / month · 📦 4 · ⏱️ 11.08.2019):
+- **[PyPi](https://pypi.org/project/torch-cluster)** (📥 7.3K / month · 📦 4 · ⏱️ 11.08.2019):
 
 	```
 	pip install torch-cluster
@@ -2202,7 +2202,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/facebookresearch/PyTorch-BigGraph
 	```
-- **[PyPi](https://pypi.org/project/torchbiggraph)** (📥 740 / month · ⏱️ 01.05.2019):
+- **[PyPi](https://pypi.org/project/torchbiggraph)** (📥 750 / month · ⏱️ 01.05.2019):
 
 	```
 	pip install torchbiggraph
@@ -2228,7 +2228,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/alibaba/euler
 	```
-- **[PyPi](https://pypi.org/project/euler-gl)** (📥 94 / month · ⏱️ 10.04.2019):
+- **[PyPi](https://pypi.org/project/euler-gl)** (📥 96 / month · ⏱️ 10.04.2019):
 
 	```
 	pip install euler-gl
@@ -2241,7 +2241,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/danielegrattarola/spektral
 	```
-- **[PyPi](https://pypi.org/project/spektral)** (📥 490 / month · ⏱️ 12.08.2019):
+- **[PyPi](https://pypi.org/project/spektral)** (📥 520 / month · ⏱️ 12.08.2019):
 
 	```
 	pip install spektral
@@ -2297,15 +2297,15 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 	git clone https://github.com/igraph/python-igraph
 	```
-- **[PyPi](https://pypi.org/project/python-igraph)** (📥 15K / month · 📦 360 · ⏱️ 05.06.2015):
+- **[PyPi](https://pypi.org/project/python-igraph)** (📥 16K / month · 📦 360 · ⏱️ 05.06.2015):
 
 	```
 	pip install python-igraph
 	```
 </details>
-<details><summary><b><a href="https://github.com/phanein/deepwalk">DeepWalk</a></b> (🥉19 ·  ⭐ 1.6K · 💤) - DeepWalk - Deep Learning for Graphs. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/phanein/deepwalk">DeepWalk</a></b> (🥉19 ·  ⭐ 1.6K) - DeepWalk - Deep Learning for Graphs. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
 
-- **[GitHub](https://github.com/phanein/deepwalk)** (👨‍💻 7 · 🔀 620 · 📦 18 · 📋 88 - 18% open · ⏱️ 09.04.2019):
+- **[GitHub](https://github.com/phanein/deepwalk)** (👨‍💻 8 · 🔀 620 · 📦 18 · 📋 88 - 18% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/phanein/deepwalk
@@ -2413,12 +2413,12 @@ _Speech Recognition, ..._
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/magenta">Magenta</a></b> (🥈27 ·  ⭐ 14K) - Magenta: Music and Art Generation with Machine Intelligence. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/tensorflow/magenta)** (👨‍💻 120 · 🔀 2.9K · 📋 630 - 34% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/tensorflow/magenta)** (👨‍💻 120 · 🔀 2.9K · 📋 630 - 34% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/tensorflow/magenta
 	```
-- **[PyPi](https://pypi.org/project/magenta)** (📥 3.6K / month · 📦 25 · ⏱️ 28.08.2019):
+- **[PyPi](https://pypi.org/project/magenta)** (📥 3.7K / month · 📦 25 · ⏱️ 28.08.2019):
 
 	```
 	pip install magenta
@@ -2439,12 +2439,12 @@ _Speech Recognition, ..._
 </details>
 <details><summary><b><a href="https://github.com/pytorch/audio">torchaudio</a></b> (🥉23 ·  ⭐ 680) - Data manipulation and transformation for audio signal processing, powered by.. <code><a href="https://tldrlegal.com/license/bsd-2-clause-license-(freebsd)">BSD-2</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/pytorch/audio)** (👨‍💻 33 · 🔀 130 · 📦 57 · 📋 130 - 39% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/pytorch/audio)** (👨‍💻 33 · 🔀 130 · 📦 58 · 📋 130 - 39% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/pytorch/audio
 	```
-- **[PyPi](https://pypi.org/project/torchaudio)** (📥 2.9K / month · 📦 4 · ⏱️ 08.08.2019):
+- **[PyPi](https://pypi.org/project/torchaudio)** (📥 3K / month · 📦 4 · ⏱️ 08.08.2019):
 
 	```
 	pip install torchaudio
@@ -2457,7 +2457,7 @@ _Speech Recognition, ..._
 	```
 	git clone https://github.com/Picovoice/Porcupine
 	```
-- **[PyPi](https://pypi.org/project/pvporcupine)** (📥 440 / month · ⏱️ 01.11.2019):
+- **[PyPi](https://pypi.org/project/pvporcupine)** (📥 430 / month · ⏱️ 01.11.2019):
 
 	```
 	pip install pvporcupine
@@ -2470,7 +2470,7 @@ _Speech Recognition, ..._
 	```
 	git clone https://github.com/deezer/spleeter
 	```
-- **[PyPi](https://pypi.org/project/spleeter)** (📥 10K / month · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/spleeter)** (📥 11K / month · ⏱️ 06.11.2019):
 
 	```
 	pip install spleeter
@@ -2483,20 +2483,20 @@ _Speech Recognition, ..._
 	```
 	git clone https://github.com/CPJKU/madmom
 	```
-- **[PyPi](https://pypi.org/project/madmom)** (📥 780 / month · 📦 8 · ⏱️ 14.11.2018):
+- **[PyPi](https://pypi.org/project/madmom)** (📥 800 / month · 📦 8 · ⏱️ 14.11.2018):
 
 	```
 	pip install madmom
 	```
 </details>
-<details><summary><b><a href="https://github.com/worldveil/dejavu">Dejavu</a></b> (🥉19 ·  ⭐ 4.7K) - Audio fingerprinting and recognition in Python. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/worldveil/dejavu">Dejavu</a></b> (🥉20 ·  ⭐ 4.7K) - Audio fingerprinting and recognition in Python. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/worldveil/dejavu)** (👨‍💻 20 · 🔀 1K · 📦 13 · 📋 170 - 51% open · ⏱️ 27.05.2019):
 
 	```
 	git clone https://github.com/worldveil/dejavu
 	```
-- **[PyPi](https://pypi.org/project/PyDejavu)** (📥 140 / month · 📦 1 · ⏱️ 19.04.2015):
+- **[PyPi](https://pypi.org/project/PyDejavu)** (📥 150 / month · 📦 1 · ⏱️ 19.04.2015):
 
 	```
 	pip install PyDejavu
@@ -2553,7 +2553,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/python-visualization/folium
 	```
-- **[PyPi](https://pypi.org/project/folium)** (📥 280K / month · 📦 790 · ⏱️ 24.07.2019):
+- **[PyPi](https://pypi.org/project/folium)** (📥 290K / month · 📦 790 · ⏱️ 24.07.2019):
 
 	```
 	pip install folium
@@ -2579,7 +2579,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/mapbox/rasterio
 	```
-- **[PyPi](https://pypi.org/project/rasterio)** (📥 71K / month · 📦 690 · ⏱️ 07.08.2019):
+- **[PyPi](https://pypi.org/project/rasterio)** (📥 73K / month · 📦 690 · ⏱️ 07.08.2019):
 
 	```
 	pip install rasterio
@@ -2592,7 +2592,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/geopandas/geopandas
 	```
-- **[PyPi](https://pypi.org/project/geopandas)** (📥 420K / month · 📦 920 · ⏱️ 13.08.2019):
+- **[PyPi](https://pypi.org/project/geopandas)** (📥 430K / month · 📦 920 · ⏱️ 13.08.2019):
 
 	```
 	pip install geopandas
@@ -2605,7 +2605,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/jazzband/geojson
 	```
-- **[PyPi](https://pypi.org/project/geojson)** (📥 530K / month · 📦 1.6K · ⏱️ 09.08.2019):
+- **[PyPi](https://pypi.org/project/geojson)** (📥 540K / month · 📦 1.6K · ⏱️ 09.08.2019):
 
 	```
 	pip install geojson
@@ -2618,7 +2618,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/pyproj4/pyproj
 	```
-- **[PyPi](https://pypi.org/project/pyproj)** (📥 980K / month · 📦 2.3K · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/pyproj)** (📥 990K / month · 📦 2.3K · ⏱️ 06.11.2019):
 
 	```
 	pip install pyproj
@@ -2626,12 +2626,12 @@ _Spatial Analysis, Geometry_
 </details>
 <details><summary><b><a href="https://github.com/Toblerity/Fiona">Fiona</a></b> (🥈28 ·  ⭐ 630) - Fiona reads and writes geographic data files. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
 
-- **[GitHub](https://github.com/Toblerity/Fiona)** (👨‍💻 58 · 🔀 140 · 📦 2K · 📋 540 - 9% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/Toblerity/Fiona)** (👨‍💻 59 · 🔀 140 · 📦 2K · 📋 540 - 9% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/Toblerity/Fiona
 	```
-- **[PyPi](https://pypi.org/project/fiona)** (📥 520K / month · 📦 1.1K · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/fiona)** (📥 530K / month · 📦 1.1K · ⏱️ 08.11.2019):
 
 	```
 	pip install fiona
@@ -2644,12 +2644,12 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/jupyter-widgets/ipyleaflet
 	```
-- **[PyPi](https://pypi.org/project/ipyleaflet)** (📥 7.8K / month · 📦 74 · ⏱️ 02.07.2019):
+- **[PyPi](https://pypi.org/project/ipyleaflet)** (📥 8K / month · 📦 74 · ⏱️ 02.07.2019):
 
 	```
 	pip install ipyleaflet
 	```
-- **[NPM](https://www.npmjs.com/package/jupyter-leaflet)** (📥 6.6K / month · 📦 1 · ⏱️ 07.10.2019):
+- **[NPM](https://www.npmjs.com/package/jupyter-leaflet)** (📥 6.8K / month · 📦 1 · ⏱️ 07.10.2019):
 
 	```
 	npm install jupyter-leaflet
@@ -2662,7 +2662,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/pysal/pysal
 	```
-- **[PyPi](https://pypi.org/project/pysal)** (📥 48K / month · 📦 11 · ⏱️ 30.01.2019):
+- **[PyPi](https://pypi.org/project/pysal)** (📥 46K / month · 📦 11 · ⏱️ 30.01.2019):
 
 	```
 	pip install pysal
@@ -2693,7 +2693,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/pbugnion/gmaps
 	```
-- **[PyPi](https://pypi.org/project/gmaps)** (📥 8.6K / month · 📦 18 · ⏱️ 20.07.2019):
+- **[PyPi](https://pypi.org/project/gmaps)** (📥 8.9K / month · 📦 18 · ⏱️ 20.07.2019):
 
 	```
 	pip install gmaps
@@ -2711,7 +2711,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/mapbox/mapboxgl-jupyter
 	```
-- **[PyPi](https://pypi.org/project/mapboxgl)** (📥 5.7K / month · 📦 16 · ⏱️ 02.06.2019):
+- **[PyPi](https://pypi.org/project/mapboxgl)** (📥 5.8K / month · 📦 16 · ⏱️ 02.06.2019):
 
 	```
 	pip install mapboxgl
@@ -2724,7 +2724,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/andrea-cuttone/geoplotlib
 	```
-- **[PyPi](https://pypi.org/project/geoplotlib)** (📥 700 / month · 📦 9 · ⏱️ 27.07.2016):
+- **[PyPi](https://pypi.org/project/geoplotlib)** (📥 720 / month · 📦 9 · ⏱️ 27.07.2016):
 
 	```
 	pip install geoplotlib
@@ -2764,10 +2764,28 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/pytroll/satpy
 	```
-- **[PyPi](https://pypi.org/project/satpy)** (📥 830 / month · 📦 2 · ⏱️ 07.11.2019):
+- **[PyPi](https://pypi.org/project/satpy)** (📥 850 / month · 📦 2 · ⏱️ 07.11.2019):
 
 	```
 	pip install satpy
+	```
+</details>
+<details><summary><b><a href="https://github.com/earthlab/earthpy">EarthPy</a></b> (🥉21 ·  ⭐ 93) - A package built to support working with spatial data using open source python. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
+
+- **[GitHub](https://github.com/earthlab/earthpy)** (👨‍💻 33 · 🔀 49 · 📦 19 · 📋 190 - 9% open · ⏱️ 12.11.2019):
+
+	```
+	git clone https://github.com/earthlab/earthpy
+	```
+- **[PyPi](https://pypi.org/project/earthpy)** (📥 1.1K / month · 📦 1 · ⏱️ 28.10.2019):
+
+	```
+	pip install earthpy
+	```
+- **[Conda](https://anaconda.org/conda-forge/earthpy)**:
+
+	```
+	conda install -c conda-forge earthpy
 	```
 </details>
 <details><summary><b><a href="https://github.com/sentinelsat/sentinelsat">Sentinelsat</a></b> (🥉20 ·  ⭐ 360) - Search and download Copernicus Sentinel satellite images. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
@@ -2777,7 +2795,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/sentinelsat/sentinelsat
 	```
-- **[PyPi](https://pypi.org/project/sentinelsat)** (📥 3.1K / month · 📦 21 · ⏱️ 05.04.2019):
+- **[PyPi](https://pypi.org/project/sentinelsat)** (📥 3.2K / month · 📦 21 · ⏱️ 05.04.2019):
 
 	```
 	pip install sentinelsat
@@ -2794,24 +2812,6 @@ _Spatial Analysis, Geometry_
 
 	```
 	pip install pymap3d
-	```
-</details>
-<details><summary><b><a href="https://github.com/earthlab/earthpy">EarthPy</a></b> (🥉20 ·  ⭐ 93) - A package built to support working with spatial data using open source python. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
-
-- **[GitHub](https://github.com/earthlab/earthpy)** (👨‍💻 33 · 🔀 49 · 📦 19 · 📋 190 - 9% open · ⏱️ 07.11.2019):
-
-	```
-	git clone https://github.com/earthlab/earthpy
-	```
-- **[PyPi](https://pypi.org/project/earthpy)** (📥 1.1K / month · 📦 1 · ⏱️ 28.10.2019):
-
-	```
-	pip install earthpy
-	```
-- **[Conda](https://anaconda.org/conda-forge/earthpy)**:
-
-	```
-	conda install -c conda-forge earthpy
 	```
 </details>
 </details>
@@ -2854,7 +2854,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/quantopian/empyrical
 	```
-- **[PyPi](https://pypi.org/project/empyrical)** (📥 9.7K / month · 📦 190 · ⏱️ 15.08.2019):
+- **[PyPi](https://pypi.org/project/empyrical)** (📥 9.9K / month · 📦 190 · ⏱️ 15.08.2019):
 
 	```
 	pip install empyrical
@@ -2867,7 +2867,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/enigmampc/catalyst
 	```
-- **[PyPi](https://pypi.org/project/enigma-catalyst)** (📥 580 / month · ⏱️ 11.11.2018):
+- **[PyPi](https://pypi.org/project/enigma-catalyst)** (📥 570 / month · ⏱️ 11.11.2018):
 
 	```
 	pip install enigma-catalyst
@@ -2893,7 +2893,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/erdewit/ib_insync
 	```
-- **[PyPi](https://pypi.org/project/ib_insync)** (📥 2.6K / month · 📦 12 · ⏱️ 10.11.2019):
+- **[PyPi](https://pypi.org/project/ib_insync)** (📥 2.8K / month · 📦 12 · ⏱️ 10.11.2019):
 
 	```
 	pip install ib_insync
@@ -2906,7 +2906,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/pmorissette/bt
 	```
-- **[PyPi](https://pypi.org/project/bt)** (📥 1.7K / month · 📦 20 · ⏱️ 28.05.2018):
+- **[PyPi](https://pypi.org/project/bt)** (📥 1.8K / month · 📦 20 · ⏱️ 28.05.2018):
 
 	```
 	pip install bt
@@ -2919,7 +2919,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/pmorissette/ffn
 	```
-- **[PyPi](https://pypi.org/project/ffn)** (📥 3.1K / month · 📦 16 · ⏱️ 28.05.2018):
+- **[PyPi](https://pypi.org/project/ffn)** (📥 3.2K / month · 📦 16 · ⏱️ 28.05.2018):
 
 	```
 	pip install ffn
@@ -2972,7 +2972,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/gbeced/pyalgotrade
 	```
-- **[PyPi](https://pypi.org/project/pyalgotrade)** (📥 730 / month · 📦 20 · ⏱️ 21.08.2018):
+- **[PyPi](https://pypi.org/project/pyalgotrade)** (📥 700 / month · 📦 20 · ⏱️ 21.08.2018):
 
 	```
 	pip install pyalgotrade
@@ -2985,7 +2985,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/bashtage/arch
 	```
-- **[PyPi](https://pypi.org/project/arch)** (📥 8.6K / month · 📦 19 · ⏱️ 31.08.2019):
+- **[PyPi](https://pypi.org/project/arch)** (📥 8.8K / month · 📦 19 · ⏱️ 31.08.2019):
 
 	```
 	pip install arch
@@ -3011,7 +3011,7 @@ _Spatial Analysis, Geometry_
 	```
 	git clone https://github.com/kernc/backtesting.py
 	```
-- **[PyPi](https://pypi.org/project/backtesting)** (📥 700 / month · ⏱️ 22.07.2017):
+- **[PyPi](https://pypi.org/project/backtesting)** (📥 710 / month · ⏱️ 22.07.2017):
 
 	```
 	pip install backtesting
@@ -3033,7 +3033,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/facebook/prophet
 	```
-- **[PyPi](https://pypi.org/project/fbprophet)** (📥 410K / month · 📦 61 · ⏱️ 15.05.2019):
+- **[PyPi](https://pypi.org/project/fbprophet)** (📥 420K / month · 📦 61 · ⏱️ 15.05.2019):
 
 	```
 	pip install fbprophet
@@ -3046,7 +3046,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/blue-yonder/tsfresh
 	```
-- **[PyPi](https://pypi.org/project/tsfresh)** (📥 56K / month · 📦 18 · ⏱️ 09.07.2019):
+- **[PyPi](https://pypi.org/project/tsfresh)** (📥 57K / month · 📦 18 · ⏱️ 09.07.2019):
 
 	```
 	pip install tsfresh
@@ -3059,7 +3059,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/rtavenar/tslearn
 	```
-- **[PyPi](https://pypi.org/project/tslearn)** (📥 17K / month · 📦 6 · ⏱️ 02.09.2019):
+- **[PyPi](https://pypi.org/project/tslearn)** (📥 18K / month · 📦 6 · ⏱️ 02.09.2019):
 
 	```
 	pip install tslearn
@@ -3072,7 +3072,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/python-streamz/streamz
 	```
-- **[PyPi](https://pypi.org/project/streamz)** (📥 3.6K / month · 📦 7 · ⏱️ 14.08.2019):
+- **[PyPi](https://pypi.org/project/streamz)** (📥 3.8K / month · 📦 7 · ⏱️ 14.08.2019):
 
 	```
 	pip install streamz
@@ -3085,7 +3085,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/RJT1990/pyflux
 	```
-- **[PyPi](https://pypi.org/project/pyflux)** (📥 9.4K / month · 📦 8 · ⏱️ 21.11.2017):
+- **[PyPi](https://pypi.org/project/pyflux)** (📥 9.6K / month · 📦 8 · ⏱️ 21.11.2017):
 
 	```
 	pip install pyflux
@@ -3098,7 +3098,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/awslabs/gluon-ts
 	```
-- **[PyPi](https://pypi.org/project/gluonts)** (📥 1.7K / month · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/gluonts)** (📥 1.8K / month · ⏱️ 08.11.2019):
 
 	```
 	pip install gluonts
@@ -3111,7 +3111,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/alan-turing-institute/sktime
 	```
-- **[PyPi](https://pypi.org/project/sktime)** (📥 450 / month · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/sktime)** (📥 460 / month · ⏱️ 24.10.2019):
 
 	```
 	pip install sktime
@@ -3124,7 +3124,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/dmbee/seglearn
 	```
-- **[PyPi](https://pypi.org/project/seglearn)** (📥 520 / month · 📦 1 · ⏱️ 10.11.2019):
+- **[PyPi](https://pypi.org/project/seglearn)** (📥 530 / month · 📦 1 · ⏱️ 10.11.2019):
 
 	```
 	pip install seglearn
@@ -3137,7 +3137,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/X-DataInitiative/tick
 	```
-- **[PyPi](https://pypi.org/project/tick)** (📥 370 / month · ⏱️ 11.09.2019):
+- **[PyPi](https://pypi.org/project/tick)** (📥 380 / month · ⏱️ 11.09.2019):
 
 	```
 	pip install tick
@@ -3150,7 +3150,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/TDAmeritrade/stumpy
 	```
-- **[PyPi](https://pypi.org/project/stumpy)** (📥 780 / month · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/stumpy)** (📥 800 / month · ⏱️ 06.11.2019):
 
 	```
 	pip install stumpy
@@ -3164,7 +3164,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/linkedin/luminol
 	```
-- **[PyPi](https://pypi.org/project/luminol)** (📥 200K / month · 📦 12 · ⏱️ 11.12.2017):
+- **[PyPi](https://pypi.org/project/luminol)** (📥 210K / month · 📦 12 · ⏱️ 11.12.2017):
 
 	```
 	pip install luminol
@@ -3197,7 +3197,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/CamDavidsonPilon/lifelines
 	```
-- **[PyPi](https://pypi.org/project/lifelines)** (📥 70K / month · 📦 110 · ⏱️ 30.10.2019):
+- **[PyPi](https://pypi.org/project/lifelines)** (📥 72K / month · 📦 110 · ⏱️ 30.10.2019):
 
 	```
 	pip install lifelines
@@ -3210,7 +3210,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/nipy/nibabel
 	```
-- **[PyPi](https://pypi.org/project/nibabel)** (📥 66K / month · 📦 1.1K · ⏱️ 23.09.2019):
+- **[PyPi](https://pypi.org/project/nibabel)** (📥 68K / month · 📦 1.1K · ⏱️ 23.09.2019):
 
 	```
 	pip install nibabel
@@ -3218,12 +3218,12 @@ _Sequential Data..._
 </details>
 <details><summary><b><a href="https://github.com/nipy/nipype">NIPYPE</a></b> (🥈28 ·  ⭐ 470) - Workflows and interfaces for neuroimaging packages. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/nipy/nipype)** (👨‍💻 200 · 🔀 390 · 📦 260 · 📋 1.1K - 24% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/nipy/nipype)** (👨‍💻 200 · 🔀 390 · 📦 260 · 📋 1.1K - 24% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/nipy/nipype
 	```
-- **[PyPi](https://pypi.org/project/nipype)** (📥 7.9K / month · 📦 150 · ⏱️ 08.10.2019):
+- **[PyPi](https://pypi.org/project/nipype)** (📥 8K / month · 📦 150 · ⏱️ 08.10.2019):
 
 	```
 	pip install nipype
@@ -3249,7 +3249,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/NifTK/NiftyNet
 	```
-- **[PyPi](https://pypi.org/project/niftynet)** (📥 610 / month · ⏱️ 10.10.2019):
+- **[PyPi](https://pypi.org/project/niftynet)** (📥 600 / month · ⏱️ 10.10.2019):
 
 	```
 	pip install niftynet
@@ -3325,7 +3325,7 @@ _Sequential Data..._
 	pip install medicaltorch
 	```
 </details>
-<details><summary><b><a href="https://github.com/Tencent/MedicalNet">MedicalNet</a></b> (🥉11 ·  ⭐ 670 · 🐣) - Many studies have shown that the performance on deep learning is significantly.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Tencent/MedicalNet">MedicalNet</a></b> (🥉11 ·  ⭐ 680 · 🐣) - Many studies have shown that the performance on deep learning is significantly.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/Tencent/MedicalNet)** (👨‍💻 1 · 🔀 170 · 📋 36 - 66% open · ⏱️ 31.10.2019):
 
@@ -3349,7 +3349,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/nipy/nipy
 	```
-- **[PyPi](https://pypi.org/project/nipy)** (📥 2.1K / month · 📦 29 · ⏱️ 19.02.2018):
+- **[PyPi](https://pypi.org/project/nipy)** (📥 2.3K / month · 📦 29 · ⏱️ 19.02.2018):
 
 	```
 	pip install nipy
@@ -3362,7 +3362,7 @@ _Sequential Data..._
 	```
 	git clone https://github.com/loli/medpy
 	```
-- **[PyPi](https://pypi.org/project/MedPy)** (📥 2.7K / month · 📦 7 · ⏱️ 14.02.2019):
+- **[PyPi](https://pypi.org/project/MedPy)** (📥 2.8K / month · 📦 7 · ⏱️ 14.02.2019):
 
 	```
 	pip install MedPy
@@ -3383,7 +3383,7 @@ _Sequential Data..._
 </details>
 <details><summary><b><a href="https://github.com/projectglow/glow">Glow</a></b> (🥉13 ·  ⭐ 49 · 🐣) - An open-source toolkit for large-scale genomic analysis. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/projectglow/glow)** (👨‍💻 6 · 🔀 16 · 📋 13 - 53% open · ⏱️ 08.11.2019):
+- **[GitHub](https://github.com/projectglow/glow)** (👨‍💻 6 · 🔀 16 · 📋 13 - 53% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/projectglow/glow
@@ -3428,7 +3428,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/numpy/numpy
 	```
-- **[PyPi](https://pypi.org/project/numpy)** (📥 32M / month · 📦 160K · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/numpy)** (📥 33M / month · 📦 160K · ⏱️ 11.11.2019):
 
 	```
 	pip install numpy
@@ -3446,7 +3446,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/h5py/h5py
 	```
-- **[PyPi](https://pypi.org/project/h5py)** (📥 5.8M / month · 📦 18K · ⏱️ 06.09.2019):
+- **[PyPi](https://pypi.org/project/h5py)** (📥 5.9M / month · 📦 18K · ⏱️ 06.09.2019):
 
 	```
 	pip install h5py
@@ -3465,7 +3465,7 @@ _Data containers and libraries & tools for data loading._
 	pip install pyarrow
 	```
 </details>
-<details><summary><b><a href="https://github.com/python-excel/xlrd">xlrd</a></b> (🥈31 ·  ⭐ 1.7K) - Please use openpyxl where you can... <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/python-excel/xlrd">xlrd</a></b> (🥈32 ·  ⭐ 1.7K) - Please use openpyxl where you can... <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
 
 - **[GitHub](https://github.com/python-excel/xlrd)** (👨‍💻 49 · 🔀 350 · 📦 29K · ⏱️ 10.09.2019):
 
@@ -3511,7 +3511,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/msiemens/tinydb
 	```
-- **[PyPi](https://pypi.org/project/tinydb)** (📥 84K / month · 📦 1K · ⏱️ 26.10.2019):
+- **[PyPi](https://pypi.org/project/tinydb)** (📥 85K / month · 📦 1K · ⏱️ 26.10.2019):
 
 	```
 	pip install tinydb
@@ -3524,7 +3524,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/blaze/blaze
 	```
-- **[PyPi](https://pypi.org/project/blaze)** (📥 55K / month · 📦 490 · ⏱️ 06.05.2016):
+- **[PyPi](https://pypi.org/project/blaze)** (📥 56K / month · 📦 490 · ⏱️ 06.05.2016):
 
 	```
 	pip install blaze
@@ -3550,7 +3550,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/PyTables/PyTables
 	```
-- **[PyPi](https://pypi.org/project/tables)** (📥 220K / month · 📦 3.2K · ⏱️ 16.10.2019):
+- **[PyPi](https://pypi.org/project/tables)** (📥 230K / month · 📦 3.2K · ⏱️ 16.10.2019):
 
 	```
 	pip install tables
@@ -3563,7 +3563,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/wireservice/csvkit
 	```
-- **[PyPi](https://pypi.org/project/csvkit)** (📥 53K / month · 📦 640 · ⏱️ 16.03.2019):
+- **[PyPi](https://pypi.org/project/csvkit)** (📥 54K / month · 📦 640 · ⏱️ 16.03.2019):
 
 	```
 	pip install csvkit
@@ -3576,7 +3576,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/pydata/bottleneck
 	```
-- **[PyPi](https://pypi.org/project/Bottleneck)** (📥 130K / month · 📦 2.7K · ⏱️ 03.11.2019):
+- **[PyPi](https://pypi.org/project/Bottleneck)** (📥 140K / month · 📦 2.7K · ⏱️ 03.11.2019):
 
 	```
 	pip install Bottleneck
@@ -3589,7 +3589,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/databricks/koalas
 	```
-- **[PyPi](https://pypi.org/project/koalas)** (📥 280K / month · 📦 1 · ⏱️ 31.10.2019):
+- **[PyPi](https://pypi.org/project/koalas)** (📥 290K / month · 📦 1 · ⏱️ 31.10.2019):
 
 	```
 	pip install koalas
@@ -3615,7 +3615,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/scikit-learn-contrib/categorical-encoding
 	```
-- **[PyPi](https://pypi.org/project/category_encoders)** (📥 66K / month · 📦 11 · ⏱️ 14.10.2018):
+- **[PyPi](https://pypi.org/project/category_encoders)** (📥 67K / month · 📦 11 · ⏱️ 14.10.2018):
 
 	```
 	pip install category_encoders
@@ -3641,7 +3641,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/ironmussa/Optimus
 	```
-- **[PyPi](https://pypi.org/project/optimuspyspark)** (📥 4.3K / month · ⏱️ 30.05.2019):
+- **[PyPi](https://pypi.org/project/optimuspyspark)** (📥 4.5K / month · ⏱️ 30.05.2019):
 
 	```
 	pip install optimuspyspark
@@ -3649,12 +3649,12 @@ _Data containers and libraries & tools for data loading._
 </details>
 <details><summary><b><a href="https://github.com/h2oai/datatable">datatable</a></b> (🥉22 ·  ⭐ 700) - data.table for Python. <code><a href="https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2)">MPL-2.0</a></code></summary>
 
-- **[GitHub](https://github.com/h2oai/datatable)** (👨‍💻 20 · 🔀 59 · 📥 140 · 📦 17 · 📋 990 - 11% open · ⏱️ 09.11.2019):
+- **[GitHub](https://github.com/h2oai/datatable)** (👨‍💻 20 · 🔀 59 · 📥 140 · 📦 17 · 📋 990 - 11% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/h2oai/datatable
 	```
-- **[PyPi](https://pypi.org/project/datatable)** (📥 2.6K / month · 📦 1 · ⏱️ 26.07.2019):
+- **[PyPi](https://pypi.org/project/datatable)** (📥 2.7K / month · 📦 1 · ⏱️ 26.07.2019):
 
 	```
 	pip install datatable
@@ -3667,7 +3667,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/jmcarpenter2/swifter
 	```
-- **[PyPi](https://pypi.org/project/swifter)** (📥 21K / month · 📦 9 · ⏱️ 12.09.2019):
+- **[PyPi](https://pypi.org/project/swifter)** (📥 22K / month · 📦 9 · ⏱️ 12.09.2019):
 
 	```
 	pip install swifter
@@ -3707,7 +3707,7 @@ _Data containers and libraries & tools for data loading._
 	```
 	git clone https://github.com/yhat/pandasql
 	```
-- **[PyPi](https://pypi.org/project/pandasql)** (📥 77K / month · 📦 35 · ⏱️ 20.04.2016):
+- **[PyPi](https://pypi.org/project/pandasql)** (📥 79K / month · 📦 35 · ⏱️ 20.04.2016):
 
 	```
 	pip install pandasql
@@ -3729,7 +3729,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/scrapy/scrapy
 	```
-- **[PyPi](https://pypi.org/project/scrapy)** (📥 580K / month · 📦 7.9K · ⏱️ 29.10.2019):
+- **[PyPi](https://pypi.org/project/scrapy)** (📥 570K / month · 📦 7.9K · ⏱️ 29.10.2019):
 
 	```
 	pip install scrapy
@@ -3742,7 +3742,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/martinblech/xmltodict
 	```
-- **[PyPi](https://pypi.org/project/xmltodict)** (📥 3M / month · 📦 7.9K · ⏱️ 11.02.2019):
+- **[PyPi](https://pypi.org/project/xmltodict)** (📥 3.1M / month · 📦 7.9K · ⏱️ 11.02.2019):
 
 	```
 	pip install xmltodict
@@ -3755,7 +3755,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/pydata/pandas-datareader
 	```
-- **[PyPi](https://pypi.org/project/pandas-datareader)** (📥 62K / month · 📦 1.3K · ⏱️ 25.09.2019):
+- **[PyPi](https://pypi.org/project/pandas-datareader)** (📥 63K / month · 📦 1.3K · ⏱️ 25.09.2019):
 
 	```
 	pip install pandas-datareader
@@ -3768,7 +3768,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/psf/requests-html
 	```
-- **[PyPi](https://pypi.org/project/requests-html)** (📥 70K / month · 📦 240 · ⏱️ 17.02.2019):
+- **[PyPi](https://pypi.org/project/requests-html)** (📥 72K / month · 📦 240 · ⏱️ 17.02.2019):
 
 	```
 	pip install requests-html
@@ -3794,7 +3794,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/tensorflow/datasets
 	```
-- **[PyPi](https://pypi.org/project/tensorflow-datasets)** (📥 160K / month · 📦 68 · ⏱️ 21.10.2019):
+- **[PyPi](https://pypi.org/project/tensorflow-datasets)** (📥 170K / month · 📦 68 · ⏱️ 21.10.2019):
 
 	```
 	pip install tensorflow-datasets
@@ -3815,12 +3815,12 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/snorkel-team/snorkel">snorkel</a></b> (🥉26 ·  ⭐ 3.5K) - A system for quickly generating training data with weak supervision. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/snorkel-team/snorkel)** (👨‍💻 57 · 🔀 620 · 📥 300 · 📦 16 · 📋 850 - 3% open · ⏱️ 30.10.2019):
+- **[GitHub](https://github.com/snorkel-team/snorkel)** (👨‍💻 57 · 🔀 630 · 📥 300 · 📦 16 · 📋 850 - 3% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/snorkel-team/snorkel
 	```
-- **[PyPi](https://pypi.org/project/snorkel)** (📥 8.1K / month · 📦 2 · ⏱️ 23.10.2019):
+- **[PyPi](https://pypi.org/project/snorkel)** (📥 8.3K / month · 📦 3 · ⏱️ 12.11.2019):
 
 	```
 	pip install snorkel
@@ -3833,7 +3833,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/deanmalmgren/textract
 	```
-- **[PyPi](https://pypi.org/project/textract)** (📥 15K / month · 📦 150 · ⏱️ 26.08.2019):
+- **[PyPi](https://pypi.org/project/textract)** (📥 14K / month · 📦 150 · ⏱️ 26.08.2019):
 
 	```
 	pip install textract
@@ -3846,7 +3846,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/hardikvasa/google-images-download
 	```
-- **[PyPi](https://pypi.org/project/google_images_download)** (📥 18K / month · 📦 38 · ⏱️ 14.05.2019):
+- **[PyPi](https://pypi.org/project/google_images_download)** (📥 19K / month · 📦 38 · ⏱️ 14.05.2019):
 
 	```
 	pip install google_images_download
@@ -3859,7 +3859,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/coleifer/micawber
 	```
-- **[PyPi](https://pypi.org/project/micawber)** (📥 5.5K / month · 📦 360 · ⏱️ 30.06.2019):
+- **[PyPi](https://pypi.org/project/micawber)** (📥 5.6K / month · 📦 360 · ⏱️ 30.06.2019):
 
 	```
 	pip install micawber
@@ -3872,7 +3872,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/atlanhq/camelot
 	```
-- **[PyPi](https://pypi.org/project/camelot-py)** (📥 15K / month · 📦 1 · ⏱️ 07.07.2019):
+- **[PyPi](https://pypi.org/project/camelot-py)** (📥 16K / month · 📦 1 · ⏱️ 07.07.2019):
 
 	```
 	pip install camelot-py
@@ -3907,7 +3907,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/facelessuser/soupsieve
 	```
-- **[PyPi](https://pypi.org/project/soupsieve)** (📥 5.2M / month · 📦 2.6K · ⏱️ 02.11.2019):
+- **[PyPi](https://pypi.org/project/soupsieve)** (📥 5.3M / month · 📦 2.6K · ⏱️ 02.11.2019):
 
 	```
 	pip install soupsieve
@@ -3920,7 +3920,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/singer-io/getting-started
 	```
-- **[PyPi](https://pypi.org/project/singer-python)** (📥 130K / month · 📦 270 · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/singer-python)** (📥 120K / month · 📦 270 · ⏱️ 04.11.2019):
 
 	```
 	pip install singer-python
@@ -3928,7 +3928,7 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="http://www.crummy.com/software/BeautifulSoup/bs4/">beautifulsoup4</a></b> (🥉21) - Screen-scraping library. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[PyPi](https://pypi.org/project/beautifulsoup4)** (📥 6.2M / month · 📦 55K · ⏱️ 06.10.2019):
+- **[PyPi](https://pypi.org/project/beautifulsoup4)** (📥 6.3M / month · 📦 55K · ⏱️ 06.10.2019):
 
 	```
 	pip install beautifulsoup4
@@ -4018,7 +4018,7 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/apache/beam">Beam</a></b> (🥈32 ·  ⭐ 3.5K) - Unified programming model to define and execute data processing pipelines,.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/apache/beam)** (👨‍💻 700 · 🔀 2.1K · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/apache/beam)** (👨‍💻 700 · 🔀 2.1K · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/apache/beam
@@ -4062,7 +4062,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/EntilZha/PyFunctional
 	```
-- **[PyPi](https://pypi.org/project/pyfunctional)** (📥 12K / month · 📦 66 · ⏱️ 26.10.2019):
+- **[PyPi](https://pypi.org/project/pyfunctional)** (📥 13K / month · 📦 66 · ⏱️ 26.10.2019):
 
 	```
 	pip install pyfunctional
@@ -4075,7 +4075,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/fishtown-analytics/dbt
 	```
-- **[PyPi](https://pypi.org/project/dbt)** (📥 35K / month · 📦 8 · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/dbt)** (📥 37K / month · 📦 8 · ⏱️ 08.11.2019):
 
 	```
 	pip install dbt
@@ -4088,7 +4088,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/quantumblacklabs/kedro
 	```
-- **[PyPi](https://pypi.org/project/kedro)** (📥 18K / month · 📦 9 · ⏱️ 30.10.2019):
+- **[PyPi](https://pypi.org/project/kedro)** (📥 19K / month · 📦 9 · ⏱️ 30.10.2019):
 
 	```
 	pip install kedro
@@ -4096,12 +4096,12 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/tfx">TFX</a></b> (🥈25 ·  ⭐ 740) - TFX is an end-to-end platform for deploying production ML pipelines. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/tensorflow/tfx)** (👨‍💻 38 · 🔀 180 · 📦 25 · 📋 160 - 27% open · ⏱️ 09.11.2019):
+- **[GitHub](https://github.com/tensorflow/tfx)** (👨‍💻 38 · 🔀 180 · 📦 25 · 📋 160 - 27% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/tensorflow/tfx
 	```
-- **[PyPi](https://pypi.org/project/tfx)** (📥 210K / month · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/tfx)** (📥 220K / month · ⏱️ 24.10.2019):
 
 	```
 	pip install tfx
@@ -4109,12 +4109,12 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/PrefectHQ/prefect">Prefect</a></b> (🥉24 ·  ⭐ 1.4K) - The Prefect Core workflow engine. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/PrefectHQ/prefect)** (👨‍💻 39 · 🔀 110 · 📦 18 · 📋 630 - 11% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/PrefectHQ/prefect)** (👨‍💻 39 · 🔀 110 · 📦 18 · 📋 630 - 10% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/PrefectHQ/prefect
 	```
-- **[PyPi](https://pypi.org/project/prefect)** (📥 5.1K / month · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/prefect)** (📥 5.2K / month · ⏱️ 06.11.2019):
 
 	```
 	pip install prefect
@@ -4132,7 +4132,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/petl-developers/petl
 	```
-- **[PyPi](https://pypi.org/project/petl)** (📥 19K / month · 📦 100 · ⏱️ 25.07.2018):
+- **[PyPi](https://pypi.org/project/petl)** (📥 20K / month · 📦 100 · ⏱️ 25.07.2018):
 
 	```
 	pip install petl
@@ -4145,7 +4145,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/Parsely/streamparse
 	```
-- **[PyPi](https://pypi.org/project/streamparse)** (📥 2.5K / month · 📦 24 · ⏱️ 08.04.2019):
+- **[PyPi](https://pypi.org/project/streamparse)** (📥 2.6K / month · 📦 24 · ⏱️ 08.04.2019):
 
 	```
 	pip install streamparse
@@ -4158,7 +4158,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/python-bonobo/bonobo
 	```
-- **[PyPi](https://pypi.org/project/bonobo)** (📥 6K / month · 📦 24 · ⏱️ 20.07.2019):
+- **[PyPi](https://pypi.org/project/bonobo)** (📥 6.2K / month · 📦 24 · ⏱️ 20.07.2019):
 
 	```
 	pip install bonobo
@@ -4166,7 +4166,7 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/dagster-io/dagster">Dagster</a></b> (🥉23 ·  ⭐ 980) - A Python library for building data applications: ETL, ML, Data Pipelines, and.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/dagster-io/dagster)** (👨‍💻 38 · 🔀 73 · 📦 34 · 📋 970 - 23% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/dagster-io/dagster)** (👨‍💻 39 · 🔀 74 · 📦 34 · 📋 970 - 23% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/dagster-io/dagster
@@ -4177,7 +4177,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	pip install dagster
 	```
 </details>
-<details><summary><b><a href="https://github.com/great-expectations/great_expectations">Great Expectations</a></b> (🥉22 ·  ⭐ 830) - Always know what to expect from your data. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/great-expectations/great_expectations">Great Expectations</a></b> (🥉22 ·  ⭐ 840) - Always know what to expect from your data. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/great-expectations/great_expectations)** (👨‍💻 42 · 🔀 89 · 📋 350 - 26% open · ⏱️ 09.11.2019):
 
@@ -4197,7 +4197,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/svenkreiss/pysparkling
 	```
-- **[PyPi](https://pypi.org/project/pysparkling)** (📥 10K / month · 📦 5 · ⏱️ 13.07.2019):
+- **[PyPi](https://pypi.org/project/pysparkling)** (📥 9.9K / month · 📦 5 · ⏱️ 13.07.2019):
 
 	```
 	pip install pysparkling
@@ -4236,7 +4236,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/mara/data-integration
 	```
-- **[PyPi](https://pypi.org/project/data-integration)** (📥 80 / month · ⏱️ 07.07.2019):
+- **[PyPi](https://pypi.org/project/data-integration)** (📥 85 / month · ⏱️ 07.07.2019):
 
 	```
 	pip install data-integration
@@ -4244,12 +4244,12 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/d6t/d6tflow">Databolt Flow</a></b> (🥉18 ·  ⭐ 810) - Python library for building highly effective data science workflows. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/d6t/d6tflow)** (👨‍💻 5 · 🔀 46 · 📦 5 · 📋 12 - 41% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/d6t/d6tflow)** (👨‍💻 5 · 🔀 47 · 📦 5 · 📋 15 - 46% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/d6t/d6tflow
 	```
-- **[PyPi](https://pypi.org/project/d6tflow)** (📥 190 / month · ⏱️ 23.08.2019):
+- **[PyPi](https://pypi.org/project/d6tflow)** (📥 240 / month · ⏱️ 11.11.2019):
 
 	```
 	pip install d6tflow
@@ -4317,12 +4317,12 @@ _Data collection & extraction and web crawling libraries and tools._
 </details>
 <details><summary><b><a href="https://github.com/ray-project/ray">Ray</a></b> (🥇31 ·  ⭐ 9.2K) - A fast and simple framework for building and running distributed applications. Ray.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/ray-project/ray)** (👨‍💻 220 · 🔀 1.3K · 📦 350 · 📋 2.7K - 31% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/ray-project/ray)** (👨‍💻 220 · 🔀 1.3K · 📦 350 · 📋 2.7K - 31% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/ray-project/ray
 	```
-- **[PyPi](https://pypi.org/project/ray)** (📥 310K / month · 📦 59 · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/ray)** (📥 320K / month · 📦 59 · ⏱️ 24.10.2019):
 
 	```
 	pip install ray
@@ -4361,7 +4361,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/yahoo/TensorFlowOnSpark
 	```
-- **[PyPi](https://pypi.org/project/tensorflowonspark)** (📥 68K / month · 📦 4 · ⏱️ 30.09.2019):
+- **[PyPi](https://pypi.org/project/tensorflowonspark)** (📥 69K / month · 📦 4 · ⏱️ 30.09.2019):
 
 	```
 	pip install tensorflowonspark
@@ -4374,7 +4374,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/modin-project/modin
 	```
-- **[PyPi](https://pypi.org/project/modin)** (📥 5.4K / month · 📦 6 · ⏱️ 21.09.2019):
+- **[PyPi](https://pypi.org/project/modin)** (📥 5.7K / month · 📦 6 · ⏱️ 21.09.2019):
 
 	```
 	pip install modin
@@ -4387,7 +4387,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/intel-analytics/BigDL
 	```
-- **[PyPi](https://pypi.org/project/bigdl)** (📥 3K / month · 📦 2 · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/bigdl)** (📥 3.1K / month · 📦 2 · ⏱️ 04.11.2019):
 
 	```
 	pip install bigdl
@@ -4409,7 +4409,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/mpi4py/mpi4py
 	```
-- **[PyPi](https://pypi.org/project/mpi4py)** (📥 94K / month · 📦 700 · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/mpi4py)** (📥 96K / month · 📦 700 · ⏱️ 04.11.2019):
 
 	```
 	pip install mpi4py
@@ -4422,7 +4422,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/maxpumperla/elephas
 	```
-- **[PyPi](https://pypi.org/project/elephas)** (📥 12K / month · 📦 2 · ⏱️ 20.03.2019):
+- **[PyPi](https://pypi.org/project/elephas)** (📥 13K / month · 📦 2 · ⏱️ 20.03.2019):
 
 	```
 	pip install elephas
@@ -4461,7 +4461,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/databricks/tensorframes
 	```
-- **[PyPi](https://pypi.org/project/tensorframes)** (📥 10K / month · ⏱️ 16.05.2018):
+- **[PyPi](https://pypi.org/project/tensorframes)** (📥 11K / month · ⏱️ 16.05.2018):
 
 	```
 	pip install tensorframes
@@ -4522,12 +4522,12 @@ _Data collection & extraction and web crawling libraries and tools._
 <details><summary>Show 2 hidden projects...</summary>
 <br><details><summary><b><a href="https://github.com/DEAP/deap">DEAP</a></b> (🥈27 ·  ⭐ 3.2K) - Distributed Evolutionary Algorithms in Python. <code><a href="https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3)">❗️LGPL-3.0</a></code></summary>
 
-- **[GitHub](https://github.com/DEAP/deap)** (👨‍💻 60 · 🔀 700 · 📦 770 · 📋 320 - 42% open · ⏱️ 09.11.2019):
+- **[GitHub](https://github.com/DEAP/deap)** (👨‍💻 60 · 🔀 700 · 📦 780 · 📋 320 - 42% open · ⏱️ 09.11.2019):
 
 	```
 	git clone https://github.com/deap/deap
 	```
-- **[PyPi](https://pypi.org/project/deap)** (📥 48K / month · 📦 160 · ⏱️ 12.11.2017):
+- **[PyPi](https://pypi.org/project/deap)** (📥 50K / month · 📦 160 · ⏱️ 12.11.2017):
 
 	```
 	pip install deap
@@ -4540,7 +4540,7 @@ _Data collection & extraction and web crawling libraries and tools._
 	```
 	git clone https://github.com/ml-tooling/lazycluster
 	```
-- **[PyPi](https://pypi.org/project/lazycluster)** (📥 51 / month · ⏱️ 09.08.2019):
+- **[PyPi](https://pypi.org/project/lazycluster)** (📥 55 / month · ⏱️ 09.08.2019):
 
 	```
 	pip install lazycluster
@@ -4562,7 +4562,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/hyperopt/hyperopt
 	```
-- **[PyPi](https://pypi.org/project/hyperopt)** (📥 510K / month · 📦 430 · ⏱️ 17.10.2019):
+- **[PyPi](https://pypi.org/project/hyperopt)** (📥 520K / month · 📦 430 · ⏱️ 17.10.2019):
 
 	```
 	pip install hyperopt
@@ -4575,7 +4575,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/FeatureLabs/featuretools
 	```
-- **[PyPi](https://pypi.org/project/featuretools)** (📥 32K / month · 📦 56 · ⏱️ 31.10.2019):
+- **[PyPi](https://pypi.org/project/featuretools)** (📥 34K / month · 📦 56 · ⏱️ 31.10.2019):
 
 	```
 	pip install featuretools
@@ -4606,7 +4606,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/pfnet/optuna
 	```
-- **[PyPi](https://pypi.org/project/optuna)** (📥 9.5K / month · 📦 46 · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/optuna)** (📥 9.7K / month · 📦 46 · ⏱️ 08.11.2019):
 
 	```
 	pip install optuna
@@ -4645,7 +4645,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/automl/auto-sklearn
 	```
-- **[PyPi](https://pypi.org/project/auto-sklearn)** (📥 4.7K / month · 📦 14 · ⏱️ 11.05.2019):
+- **[PyPi](https://pypi.org/project/auto-sklearn)** (📥 4.8K / month · 📦 14 · ⏱️ 11.05.2019):
 
 	```
 	pip install auto-sklearn
@@ -4697,7 +4697,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/microsoft/nni
 	```
-- **[PyPi](https://pypi.org/project/nni)** (📥 2.3K / month · 📦 7 · ⏱️ 23.10.2019):
+- **[PyPi](https://pypi.org/project/nni)** (📥 2.5K / month · 📦 7 · ⏱️ 23.10.2019):
 
 	```
 	pip install nni
@@ -4736,7 +4736,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/SheffieldML/GPyOpt
 	```
-- **[PyPi](https://pypi.org/project/gpyopt)** (📥 5.5K / month · 📦 9 · ⏱️ 22.05.2018):
+- **[PyPi](https://pypi.org/project/gpyopt)** (📥 5.6K / month · 📦 9 · ⏱️ 22.05.2018):
 
 	```
 	pip install gpyopt
@@ -4749,7 +4749,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/automl/SMAC3
 	```
-- **[PyPi](https://pypi.org/project/smac)** (📥 5.2K / month · 📦 27 · ⏱️ 20.09.2019):
+- **[PyPi](https://pypi.org/project/smac)** (📥 5.3K / month · 📦 27 · ⏱️ 20.09.2019):
 
 	```
 	pip install smac
@@ -4757,12 +4757,12 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 </details>
 <details><summary><b><a href="https://github.com/facebook/Ax">Ax</a></b> (🥉22 ·  ⭐ 920) - Adaptive Experimentation Platform. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/facebook/Ax)** (👨‍💻 46 · 🔀 72 · 📦 14 · 📋 62 - 19% open · ⏱️ 09.11.2019):
+- **[GitHub](https://github.com/facebook/Ax)** (👨‍💻 46 · 🔀 72 · 📦 14 · 📋 62 - 19% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/facebook/Ax
 	```
-- **[PyPi](https://pypi.org/project/ax-platform)** (📥 1.4K / month · 📦 2 · ⏱️ 27.08.2019):
+- **[PyPi](https://pypi.org/project/ax-platform)** (📥 1.5K / month · 📦 2 · ⏱️ 27.08.2019):
 
 	```
 	pip install ax-platform
@@ -4814,7 +4814,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/Epistimio/orion
 	```
-- **[PyPi](https://pypi.org/project/orion)** (📥 630 / month · 📦 1 · ⏱️ 09.10.2019):
+- **[PyPi](https://pypi.org/project/orion)** (📥 660 / month · 📦 1 · ⏱️ 09.10.2019):
 
 	```
 	pip install orion
@@ -4827,7 +4827,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/HunterMcGushion/hyperparameter_hunter
 	```
-- **[PyPi](https://pypi.org/project/hyperparameter-hunter)** (📥 250 / month · 📦 1 · ⏱️ 06.08.2019):
+- **[PyPi](https://pypi.org/project/hyperparameter-hunter)** (📥 280 / month · 📦 1 · ⏱️ 06.08.2019):
 
 	```
 	pip install hyperparameter-hunter
@@ -4840,7 +4840,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/HDI-Project/ATM
 	```
-- **[PyPi](https://pypi.org/project/atm)** (📥 370 / month · ⏱️ 24.06.2019):
+- **[PyPi](https://pypi.org/project/atm)** (📥 380 / month · ⏱️ 24.06.2019):
 
 	```
 	pip install atm
@@ -4853,7 +4853,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/dragonfly/dragonfly
 	```
-- **[PyPi](https://pypi.org/project/dragonfly-opt)** (📥 170 / month · 📦 1 · ⏱️ 29.08.2019):
+- **[PyPi](https://pypi.org/project/dragonfly-opt)** (📥 180 / month · 📦 1 · ⏱️ 29.08.2019):
 
 	```
 	pip install dragonfly-opt
@@ -4879,7 +4879,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/ScottfreeLLC/AlphaPy
 	```
-- **[PyPi](https://pypi.org/project/alphapy)** (📥 240 / month · ⏱️ 17.03.2019):
+- **[PyPi](https://pypi.org/project/alphapy)** (📥 250 / month · ⏱️ 17.03.2019):
 
 	```
 	pip install alphapy
@@ -4922,7 +4922,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/ClimbsRocks/auto_ml
 	```
-- **[PyPi](https://pypi.org/project/auto_ml)** (📥 5.5K / month · 📦 1 · ⏱️ 22.02.2018):
+- **[PyPi](https://pypi.org/project/auto_ml)** (📥 5.7K / month · 📦 1 · ⏱️ 22.02.2018):
 
 	```
 	pip install auto_ml
@@ -4935,7 +4935,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/AxeldeRomblay/MLBox
 	```
-- **[PyPi](https://pypi.org/project/mlbox)** (📥 440 / month · ⏱️ 27.06.2019):
+- **[PyPi](https://pypi.org/project/mlbox)** (📥 470 / month · ⏱️ 27.06.2019):
 
 	```
 	pip install mlbox
@@ -4948,7 +4948,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/sherpa-ai/sherpa
 	```
-- **[PyPi](https://pypi.org/project/parameter-sherpa)** (📥 320 / month · 📦 1 · ⏱️ 23.10.2019):
+- **[PyPi](https://pypi.org/project/parameter-sherpa)** (📥 330 / month · 📦 1 · ⏱️ 23.10.2019):
 
 	```
 	pip install parameter-sherpa
@@ -4974,7 +4974,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/jmcarpenter2/parfit
 	```
-- **[PyPi](https://pypi.org/project/parfit)** (📥 8.9K / month · ⏱️ 11.10.2018):
+- **[PyPi](https://pypi.org/project/parfit)** (📥 9.6K / month · ⏱️ 11.10.2018):
 
 	```
 	pip install parfit
@@ -5007,7 +5007,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/openai/gym
 	```
-- **[PyPi](https://pypi.org/project/gym)** (📥 250K / month · 📦 3.2K · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/gym)** (📥 260K / month · 📦 3.2K · ⏱️ 08.11.2019):
 
 	```
 	pip install gym
@@ -5020,7 +5020,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/tensorlayer/tensorlayer
 	```
-- **[PyPi](https://pypi.org/project/tensorlayer)** (📥 4.5K / month · 📦 58 · ⏱️ 17.05.2019):
+- **[PyPi](https://pypi.org/project/tensorlayer)** (📥 4.6K / month · 📦 58 · ⏱️ 17.05.2019):
 
 	```
 	pip install tensorlayer
@@ -5033,7 +5033,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/keras-rl/keras-rl
 	```
-- **[PyPi](https://pypi.org/project/keras-rl)** (📥 4.1K / month · 📦 47 · ⏱️ 01.06.2018):
+- **[PyPi](https://pypi.org/project/keras-rl)** (📥 4K / month · 📦 47 · ⏱️ 01.06.2018):
 
 	```
 	pip install keras-rl
@@ -5072,7 +5072,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/hill-a/stable-baselines
 	```
-- **[PyPi](https://pypi.org/project/stable-baselines)** (📥 6.9K / month · 📦 20 · ⏱️ 29.09.2019):
+- **[PyPi](https://pypi.org/project/stable-baselines)** (📥 7K / month · 📦 20 · ⏱️ 29.09.2019):
 
 	```
 	pip install stable-baselines
@@ -5085,7 +5085,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/mwydmuch/ViZDoom
 	```
-- **[PyPi](https://pypi.org/project/vizdoom)** (📥 760 / month · 📦 7 · ⏱️ 15.01.2019):
+- **[PyPi](https://pypi.org/project/vizdoom)** (📥 790 / month · 📦 7 · ⏱️ 15.01.2019):
 
 	```
 	pip install vizdoom
@@ -5098,7 +5098,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/google/dopamine
 	```
-- **[PyPi](https://pypi.org/project/dopamine-rl)** (📥 16K / month · 📦 7 · ⏱️ 16.04.2019):
+- **[PyPi](https://pypi.org/project/dopamine-rl)** (📥 17K / month · 📦 7 · ⏱️ 16.04.2019):
 
 	```
 	pip install dopamine-rl
@@ -5111,7 +5111,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/NervanaSystems/coach
 	```
-- **[PyPi](https://pypi.org/project/rl_coach)** (📥 270 / month · ⏱️ 10.10.2019):
+- **[PyPi](https://pypi.org/project/rl_coach)** (📥 260 / month · ⏱️ 10.10.2019):
 
 	```
 	pip install rl_coach
@@ -5137,7 +5137,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/rlworkgroup/garage
 	```
-- **[PyPi](https://pypi.org/project/garage)** (📥 270 / month · ⏱️ 13.09.2019):
+- **[PyPi](https://pypi.org/project/garage)** (📥 290 / month · ⏱️ 13.09.2019):
 
 	```
 	pip install garage
@@ -5184,7 +5184,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/PaddlePaddle/PARL
 	```
-- **[PyPi](https://pypi.org/project/parl)** (📥 230 / month · ⏱️ 22.10.2019):
+- **[PyPi](https://pypi.org/project/parl)** (📥 240 / month · ⏱️ 22.10.2019):
 
 	```
 	pip install parl
@@ -5213,7 +5213,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/NicolasHug/Surprise
 	```
-- **[PyPi](https://pypi.org/project/scikit-surprise)** (📥 31K / month · 📦 16 · ⏱️ 13.09.2019):
+- **[PyPi](https://pypi.org/project/scikit-surprise)** (📥 32K / month · 📦 16 · ⏱️ 13.09.2019):
 
 	```
 	pip install scikit-surprise
@@ -5232,14 +5232,14 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	pip install implicit
 	```
 </details>
-<details><summary><b><a href="https://github.com/lyst/lightfm">lightfm</a></b> (🥈23 ·  ⭐ 2.8K) - A Python implementation of LightFM, a hybrid recommendation algorithm. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/lyst/lightfm">lightfm</a></b> (🥈24 ·  ⭐ 2.8K) - A Python implementation of LightFM, a hybrid recommendation algorithm. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/lyst/lightfm)** (👨‍💻 33 · 🔀 460 · 📦 170 · 📋 330 - 25% open · ⏱️ 14.06.2019):
 
 	```
 	git clone https://github.com/lyst/lightfm
 	```
-- **[PyPi](https://pypi.org/project/lightfm)** (📥 59K / month · 📦 14 · ⏱️ 26.05.2018):
+- **[PyPi](https://pypi.org/project/lightfm)** (📥 60K / month · 📦 14 · ⏱️ 26.05.2018):
 
 	```
 	pip install lightfm
@@ -5247,12 +5247,12 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/ranking">TensorFlow Ranking</a></b> (🥈21 ·  ⭐ 1.4K) - Learning to Rank in TensorFlow. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/tensorflow/ranking)** (👨‍💻 14 · 🔀 240 · 📋 120 - 6% open · ⏱️ 29.10.2019):
+- **[GitHub](https://github.com/tensorflow/ranking)** (👨‍💻 14 · 🔀 240 · 📋 120 - 7% open · ⏱️ 29.10.2019):
 
 	```
 	git clone https://github.com/tensorflow/ranking
 	```
-- **[PyPi](https://pypi.org/project/tensorflow_ranking)** (📥 27K / month · ⏱️ 22.10.2019):
+- **[PyPi](https://pypi.org/project/tensorflow_ranking)** (📥 31K / month · ⏱️ 22.10.2019):
 
 	```
 	pip install tensorflow_ranking
@@ -5265,7 +5265,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/jfkirk/tensorrec
 	```
-- **[PyPi](https://pypi.org/project/tensorrec)** (📥 600 / month · 📦 1 · ⏱️ 02.04.2019):
+- **[PyPi](https://pypi.org/project/tensorrec)** (📥 620 / month · 📦 1 · ⏱️ 02.04.2019):
 
 	```
 	pip install tensorrec
@@ -5299,7 +5299,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/caserec/CaseRecommender
 	```
-- **[PyPi](https://pypi.org/project/caserecommender)** (📥 460 / month · ⏱️ 20.08.2019):
+- **[PyPi](https://pypi.org/project/caserecommender)** (📥 410 / month · ⏱️ 20.08.2019):
 
 	```
 	pip install caserecommender
@@ -5312,7 +5312,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/ylongqi/openrec
 	```
-- **[PyPi](https://pypi.org/project/openrec)** (📥 62 / month · 📦 1 · ⏱️ 13.11.2018):
+- **[PyPi](https://pypi.org/project/openrec)** (📥 63 / month · 📦 1 · ⏱️ 13.11.2018):
 
 	```
 	pip install openrec
@@ -5326,7 +5326,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/statisticianinstilettos/recmetrics
 	```
-- **[PyPi](https://pypi.org/project/recmetrics)** (📥 1.1K / month · ⏱️ 10.02.2019):
+- **[PyPi](https://pypi.org/project/recmetrics)** (📥 1.2K / month · ⏱️ 10.02.2019):
 
 	```
 	pip install recmetrics
@@ -5346,7 +5346,7 @@ _Hyperparameter optimization, AutoML and Neural Architecture Search libraries an
 	```
 	git clone https://github.com/OpenMined/PySyft
 	```
-- **[PyPi](https://pypi.org/project/syft)** (📥 1.5K / month · 📦 1 · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/syft)** (📥 1.6K / month · 📦 1 · ⏱️ 24.10.2019):
 
 	```
 	pip install syft
@@ -5401,7 +5401,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/tensorflow/tensorboard
 	```
-- **[PyPi](https://pypi.org/project/tensorboard)** (📥 4.5M / month · 📦 2.8K · ⏱️ 29.10.2019):
+- **[PyPi](https://pypi.org/project/tensorboard)** (📥 4.6M / month · 📦 2.8K · ⏱️ 29.10.2019):
 
 	```
 	pip install tensorboard
@@ -5409,12 +5409,12 @@ _Organize, track, and visualize machine learning experiments._
 </details>
 <details><summary><b><a href="https://github.com/mlflow/mlflow">mlflow</a></b> (🥇30 ·  ⭐ 5.1K) - Open source platform for the machine learning lifecycle. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/mlflow/mlflow)** (👨‍💻 150 · 🔀 1.1K · 📦 290 · 📋 860 - 55% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/mlflow/mlflow)** (👨‍💻 150 · 🔀 1.1K · 📦 290 · 📋 860 - 55% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/mlflow/mlflow
 	```
-- **[PyPi](https://pypi.org/project/mlflow)** (📥 820K / month · 📦 70 · ⏱️ 31.10.2019):
+- **[PyPi](https://pypi.org/project/mlflow)** (📥 830K / month · 📦 70 · ⏱️ 31.10.2019):
 
 	```
 	pip install mlflow
@@ -5427,7 +5427,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/lanpa/tensorboardX
 	```
-- **[PyPi](https://pypi.org/project/tensorboardX)** (📥 210K / month · 📦 1K · ⏱️ 04.07.2019):
+- **[PyPi](https://pypi.org/project/tensorboardX)** (📥 220K / month · 📦 1K · ⏱️ 04.07.2019):
 
 	```
 	pip install tensorboardX
@@ -5492,7 +5492,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/catalyst-team/catalyst
 	```
-- **[PyPi](https://pypi.org/project/catalyst)** (📥 7.5K / month · 📦 13 · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/catalyst)** (📥 7.6K / month · 📦 13 · ⏱️ 11.11.2019):
 
 	```
 	pip install catalyst
@@ -5505,7 +5505,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/microsoft/tensorwatch
 	```
-- **[PyPi](https://pypi.org/project/tensorwatch)** (📥 740 / month · 📦 1 · ⏱️ 31.05.2019):
+- **[PyPi](https://pypi.org/project/tensorwatch)** (📥 780 / month · 📦 1 · ⏱️ 31.05.2019):
 
 	```
 	pip install tensorwatch
@@ -5549,7 +5549,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/guildai/guildai
 	```
-- **[PyPi](https://pypi.org/project/guildai)** (📥 2.5K / month · ⏱️ 05.11.2019):
+- **[PyPi](https://pypi.org/project/guildai)** (📥 2.9K / month · ⏱️ 05.11.2019):
 
 	```
 	pip install guildai
@@ -5575,7 +5575,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/TeamHG-Memex/tensorboard_logger
 	```
-- **[PyPi](https://pypi.org/project/tensorboard_logger)** (📥 3.2K / month · 📦 42 · ⏱️ 08.02.2018):
+- **[PyPi](https://pypi.org/project/tensorboard_logger)** (📥 3.3K / month · 📦 42 · ⏱️ 08.02.2018):
 
 	```
 	pip install tensorboard_logger
@@ -5588,7 +5588,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/awslabs/mxboard
 	```
-- **[PyPi](https://pypi.org/project/mxboard)** (📥 10K / month · 📦 1 · ⏱️ 22.05.2018):
+- **[PyPi](https://pypi.org/project/mxboard)** (📥 9.6K / month · 📦 1 · ⏱️ 22.05.2018):
 
 	```
 	pip install mxboard
@@ -5601,7 +5601,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/PaddlePaddle/VisualDL
 	```
-- **[PyPi](https://pypi.org/project/visualdl)** (📥 430 / month · 📦 1 · ⏱️ 23.02.2019):
+- **[PyPi](https://pypi.org/project/visualdl)** (📥 450 / month · 📦 1 · ⏱️ 23.02.2019):
 
 	```
 	pip install visualdl
@@ -5641,7 +5641,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/EducationalTestingService/skll
 	```
-- **[PyPi](https://pypi.org/project/skll)** (📥 980 / month · 📦 17 · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/skll)** (📥 1K / month · 📦 17 · ⏱️ 24.10.2019):
 
 	```
 	pip install skll
@@ -5667,7 +5667,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/ModelChimp/modelchimp
 	```
-- **[PyPi](https://pypi.org/project/modelchimp)** (📥 120 / month · ⏱️ 09.04.2019):
+- **[PyPi](https://pypi.org/project/modelchimp)** (📥 130 / month · ⏱️ 09.04.2019):
 
 	```
 	pip install modelchimp
@@ -5692,7 +5692,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/onnx/onnx
 	```
-- **[PyPi](https://pypi.org/project/onnx)** (📥 230K / month · 📦 100 · ⏱️ 28.09.2019):
+- **[PyPi](https://pypi.org/project/onnx)** (📥 220K / month · 📦 100 · ⏱️ 28.09.2019):
 
 	```
 	pip install onnx
@@ -5705,7 +5705,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/apple/coremltools
 	```
-- **[PyPi](https://pypi.org/project/coremltools)** (📥 54K / month · 📦 120 · ⏱️ 01.11.2019):
+- **[PyPi](https://pypi.org/project/coremltools)** (📥 55K / month · 📦 120 · ⏱️ 01.11.2019):
 
 	```
 	pip install coremltools
@@ -5726,12 +5726,12 @@ _Organize, track, and visualize machine learning experiments._
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/model-optimization">model-optimization</a></b> (🥉20 ·  ⭐ 510) - A suite of tools that users, both novice and advanced, can use to.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/tensorflow/model-optimization)** (👨‍💻 16 · 🔀 79 · 📦 12 · 📋 39 - 64% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/tensorflow/model-optimization)** (👨‍💻 16 · 🔀 79 · 📦 13 · 📋 39 - 64% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/tensorflow/model-optimization
 	```
-- **[PyPi](https://pypi.org/project/tensorflow-model-optimization)** (📥 3.3K / month · ⏱️ 23.08.2019):
+- **[PyPi](https://pypi.org/project/tensorflow-model-optimization)** (📥 3.4K / month · ⏱️ 23.08.2019):
 
 	```
 	pip install tensorflow-model-optimization
@@ -5744,7 +5744,7 @@ _Organize, track, and visualize machine learning experiments._
 	```
 	git clone https://github.com/nerox8664/pytorch2keras
 	```
-- **[PyPi](https://pypi.org/project/pytorch2keras)** (📥 370 / month · 📦 1 · ⏱️ 27.06.2019):
+- **[PyPi](https://pypi.org/project/pytorch2keras)** (📥 360 / month · 📦 1 · ⏱️ 27.06.2019):
 
 	```
 	pip install pytorch2keras
@@ -5778,7 +5778,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/slundberg/shap
 	```
-- **[PyPi](https://pypi.org/project/shap)** (📥 380K / month · 📦 110 · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/shap)** (📥 390K / month · 📦 110 · ⏱️ 06.11.2019):
 
 	```
 	pip install shap
@@ -5804,13 +5804,13 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/marcotcr/lime
 	```
-- **[PyPi](https://pypi.org/project/lime)** (📥 100K / month · 📦 100 · ⏱️ 05.07.2019):
+- **[PyPi](https://pypi.org/project/lime)** (📥 110K / month · 📦 100 · ⏱️ 05.07.2019):
 
 	```
 	pip install lime
 	```
 </details>
-<details><summary><b><a href="https://github.com/DistrictDataLabs/yellowbrick">yellowbrick</a></b> (🥈25 ·  ⭐ 2.5K) - Visual analysis and diagnostic tools to facilitate machine learning model.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://scikit-learn.org"><code><img src="https://scikit-learn.org/stable/_static/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/DistrictDataLabs/yellowbrick">yellowbrick</a></b> (🥈25 ·  ⭐ 2.5K) - Visual analysis and diagnostic tools to facilitate machine learning.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://scikit-learn.org"><code><img src="https://scikit-learn.org/stable/_static/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/DistrictDataLabs/yellowbrick)** (👨‍💻 87 · 🔀 380 · 📋 530 - 18% open · ⏱️ 09.11.2019):
 
@@ -5830,7 +5830,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/bmabey/pyLDAvis
 	```
-- **[PyPi](https://pypi.org/project/pyldavis)** (📥 55K / month · 📦 75 · ⏱️ 05.06.2018):
+- **[PyPi](https://pypi.org/project/pyldavis)** (📥 57K / month · 📦 75 · ⏱️ 05.06.2018):
 
 	```
 	pip install pyldavis
@@ -5882,7 +5882,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/raghakot/keras-vis
 	```
-- **[PyPi](https://pypi.org/project/keras-vis)** (📥 1.9K / month · 📦 11 · ⏱️ 06.07.2017):
+- **[PyPi](https://pypi.org/project/keras-vis)** (📥 2.1K / month · 📦 11 · ⏱️ 06.07.2017):
 
 	```
 	pip install keras-vis
@@ -5908,7 +5908,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/philipperemy/keract
 	```
-- **[PyPi](https://pypi.org/project/keract)** (📥 970 / month · 📦 3 · ⏱️ 25.10.2019):
+- **[PyPi](https://pypi.org/project/keract)** (📥 980 / month · 📦 3 · ⏱️ 25.10.2019):
 
 	```
 	pip install keract
@@ -5921,7 +5921,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/SeldonIO/alibi
 	```
-- **[PyPi](https://pypi.org/project/alibi)** (📥 430 / month · 📦 5 · ⏱️ 01.10.2019):
+- **[PyPi](https://pypi.org/project/alibi)** (📥 440 / month · 📦 5 · ⏱️ 01.10.2019):
 
 	```
 	pip install alibi
@@ -5934,20 +5934,20 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/sicara/tf-explain
 	```
-- **[PyPi](https://pypi.org/project/tf-explain)** (📥 540 / month · ⏱️ 31.07.2019):
+- **[PyPi](https://pypi.org/project/tf-explain)** (📥 560 / month · ⏱️ 31.07.2019):
 
 	```
 	pip install tf-explain
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytorch/captum">Captum</a></b> (🥉17 ·  ⭐ 650 · 🐣) - Model interpretability and understanding for PyTorch. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/pytorch/captum">Captum</a></b> (🥉17 ·  ⭐ 660 · 🐣) - Model interpretability and understanding for PyTorch. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/pytorch/captum)** (👨‍💻 18 · 🔀 40 · 📦 2 · 📋 27 - 62% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/pytorch/captum)** (👨‍💻 18 · 🔀 40 · 📦 2 · 📋 29 - 58% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/pytorch/captum
 	```
-- **[PyPi](https://pypi.org/project/captum)** (📥 600 / month · ⏱️ 09.10.2019):
+- **[PyPi](https://pypi.org/project/captum)** (📥 610 / month · ⏱️ 09.10.2019):
 
 	```
 	pip install captum
@@ -5987,7 +5987,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/reiinakano/scikit-plot
 	```
-- **[PyPi](https://pypi.org/project/scikit-plot)** (📥 21K / month · 📦 5 · ⏱️ 19.08.2018):
+- **[PyPi](https://pypi.org/project/scikit-plot)** (📥 22K / month · 📦 5 · ⏱️ 19.08.2018):
 
 	```
 	pip install scikit-plot
@@ -6000,7 +6000,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/albermax/innvestigate
 	```
-- **[PyPi](https://pypi.org/project/innvestigate)** (📥 710 / month · ⏱️ 19.03.2019):
+- **[PyPi](https://pypi.org/project/innvestigate)** (📥 720 / month · ⏱️ 19.03.2019):
 
 	```
 	pip install innvestigate
@@ -6013,7 +6013,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/oracle/Skater
 	```
-- **[PyPi](https://pypi.org/project/skater)** (📥 920 / month · ⏱️ 21.09.2018):
+- **[PyPi](https://pypi.org/project/skater)** (📥 950 / month · ⏱️ 21.09.2018):
 
 	```
 	pip install skater
@@ -6026,7 +6026,7 @@ _Visualize, explain, debug, evaluate, and interpret machine learning models._
 	```
 	git clone https://github.com/aerdem4/lofo-importance
 	```
-- **[PyPi](https://pypi.org/project/lofo-importance)** (📥 320 / month · ⏱️ 15.09.2019):
+- **[PyPi](https://pypi.org/project/lofo-importance)** (📥 340 / month · ⏱️ 15.09.2019):
 
 	```
 	pip install lofo-importance
@@ -6074,7 +6074,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/facebookresearch/faiss
 	```
-- **[PyPi](https://pypi.org/project/faiss)** (📥 7.6K / month · 📦 14 · ⏱️ 16.04.2019):
+- **[PyPi](https://pypi.org/project/faiss)** (📥 7.9K / month · 📦 14 · ⏱️ 16.04.2019):
 
 	```
 	pip install faiss
@@ -6087,7 +6087,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/plasticityai/magnitude
 	```
-- **[PyPi](https://pypi.org/project/pymagnitude)** (📥 3.3K / month · 📦 2 · ⏱️ 28.11.2018):
+- **[PyPi](https://pypi.org/project/pymagnitude)** (📥 3.4K / month · 📦 2 · ⏱️ 28.11.2018):
 
 	```
 	pip install pymagnitude
@@ -6100,7 +6100,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/lmcinnes/pynndescent
 	```
-- **[PyPi](https://pypi.org/project/pynndescent)** (📥 3.7K / month · 📦 2 · ⏱️ 09.09.2019):
+- **[PyPi](https://pypi.org/project/pynndescent)** (📥 3.8K / month · 📦 2 · ⏱️ 09.09.2019):
 
 	```
 	pip install pynndescent
@@ -6113,7 +6113,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/nmslib/hnswlib
 	```
-- **[PyPi](https://pypi.org/project/hnswlib)** (📥 1.6K / month · 📦 2 · ⏱️ 23.08.2019):
+- **[PyPi](https://pypi.org/project/hnswlib)** (📥 1.7K / month · 📦 2 · ⏱️ 23.08.2019):
 
 	```
 	pip install hnswlib
@@ -6127,7 +6127,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/pixelogik/NearPy
 	```
-- **[PyPi](https://pypi.org/project/NearPy)** (📥 890 / month · 📦 15 · ⏱️ 27.09.2016):
+- **[PyPi](https://pypi.org/project/NearPy)** (📥 1K / month · 📦 15 · ⏱️ 27.09.2016):
 
 	```
 	pip install NearPy
@@ -6168,12 +6168,12 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 </details>
 <details><summary><b><a href="https://github.com/google/jax">jax</a></b> (🥇26 ·  ⭐ 5.6K) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/google/jax)** (👨‍💻 90 · 🔀 380 · 📦 85 · 📋 710 - 37% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/google/jax)** (👨‍💻 90 · 🔀 380 · 📦 85 · 📋 720 - 38% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/google/jax
 	```
-- **[PyPi](https://pypi.org/project/jax)** (📥 7.3K / month · 📦 14 · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/jax)** (📥 7.5K / month · 📦 30 · ⏱️ 06.11.2019):
 
 	```
 	pip install jax
@@ -6212,7 +6212,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/arrayfire/arrayfire
 	```
-- **[PyPi](https://pypi.org/project/arrayfire)** (📥 540 / month · 📦 2 · ⏱️ 18.10.2018):
+- **[PyPi](https://pypi.org/project/arrayfire)** (📥 550 / month · 📦 2 · ⏱️ 18.10.2018):
 
 	```
 	pip install arrayfire
@@ -6306,7 +6306,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 </details>
 <details><summary><b><a href="https://github.com/BlazingDB/pyBlazing">BlazingSQL</a></b> (🥉14 ·  ⭐ 1K) - BlazingSQL is a lightweight, GPU accelerated, SQL engine built on RAPIDS. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/BlazingDB/pyBlazing)** (👨‍💻 14 · 🔀 78 · 📋 36 - 52% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/BlazingDB/pyBlazing)** (👨‍💻 14 · 🔀 78 · 📋 37 - 45% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/BlazingDB/pyBlazing
@@ -6325,7 +6325,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/fbcotter/py3nvml
 	```
-- **[PyPi](https://pypi.org/project/py3nvml)** (📥 4.6K / month · 📦 5 · ⏱️ 04.03.2019):
+- **[PyPi](https://pypi.org/project/py3nvml)** (📥 4.7K / month · 📦 5 · ⏱️ 04.03.2019):
 
 	```
 	pip install py3nvml
@@ -6351,7 +6351,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/stas00/ipyexperiments
 	```
-- **[PyPi](https://pypi.org/project/ipyexperiments)** (📥 170 / month · ⏱️ 12.03.2019):
+- **[PyPi](https://pypi.org/project/ipyexperiments)** (📥 180 / month · ⏱️ 12.03.2019):
 
 	```
 	pip install ipyexperiments
@@ -6371,7 +6371,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/tensorflow/tensor2tensor
 	```
-- **[PyPi](https://pypi.org/project/tensor2tensor)** (📥 24K / month · 📦 49 · ⏱️ 08.05.2019):
+- **[PyPi](https://pypi.org/project/tensor2tensor)** (📥 25K / month · 📦 49 · ⏱️ 08.05.2019):
 
 	```
 	pip install tensor2tensor
@@ -6384,7 +6384,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/tensorflow/hub
 	```
-- **[PyPi](https://pypi.org/project/tensorflow-hub)** (📥 280K / month · 📦 260 · ⏱️ 31.10.2019):
+- **[PyPi](https://pypi.org/project/tensorflow-hub)** (📥 290K / month · 📦 260 · ⏱️ 31.10.2019):
 
 	```
 	pip install tensorflow-hub
@@ -6410,7 +6410,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/taehoonlee/tensornets
 	```
-- **[PyPi](https://pypi.org/project/tensornets)** (📥 610 / month · ⏱️ 02.03.2019):
+- **[PyPi](https://pypi.org/project/tensornets)** (📥 620 / month · ⏱️ 02.03.2019):
 
 	```
 	pip install tensornets
@@ -6423,7 +6423,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/tensorflow/neural-structured-learning
 	```
-- **[PyPi](https://pypi.org/project/neural-structured-learning)** (📥 600 / month · ⏱️ 18.09.2019):
+- **[PyPi](https://pypi.org/project/neural-structured-learning)** (📥 630 / month · ⏱️ 18.09.2019):
 
 	```
 	pip install neural-structured-learning
@@ -6474,7 +6474,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	pip install adabound
 	```
 </details>
-<details><summary><b><a href="https://github.com/tristandeleu/pytorch-meta">Torchmeta</a></b> (🥉18 ·  ⭐ 410) - A collection of extensions and data-loaders for few-shot learning & meta-learning.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/tristandeleu/pytorch-meta">Torchmeta</a></b> (🥉18 ·  ⭐ 410) - A collection of extensions and data-loaders for few-shot learning & meta-.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/tristandeleu/pytorch-meta)** (👨‍💻 3 · 🔀 32 · 📦 1 · 📋 7 - 42% open · ⏱️ 31.10.2019):
 
@@ -6489,12 +6489,12 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 </details>
 <details><summary><b><a href="https://github.com/rwightman/gen-efficientnet-pytorch">EfficientNets</a></b> (🥉17 ·  ⭐ 500 · 🐣) - Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1,.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://pytorch.org"><code><img src="https://pytorch.org/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/rwightman/gen-efficientnet-pytorch)** (👨‍💻 3 · 🔀 50 · ⏱️ 31.10.2019):
+- **[GitHub](https://github.com/rwightman/gen-efficientnet-pytorch)** (👨‍💻 3 · 🔀 51 · ⏱️ 31.10.2019):
 
 	```
 	git clone https://github.com/rwightman/gen-efficientnet-pytorch
 	```
-- **[PyPi](https://pypi.org/project/geffnet)** (📥 290 / month · ⏱️ 30.10.2019):
+- **[PyPi](https://pypi.org/project/geffnet)** (📥 320 / month · ⏱️ 30.10.2019):
 
 	```
 	pip install geffnet
@@ -6508,7 +6508,7 @@ _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarit
 	```
 	git clone https://github.com/rusty1s/pytorch_sparse
 	```
-- **[PyPi](https://pypi.org/project/torch-sparse)** (📥 8.1K / month · 📦 5 · ⏱️ 01.05.2019):
+- **[PyPi](https://pypi.org/project/torch-sparse)** (📥 8.3K / month · 📦 5 · ⏱️ 01.05.2019):
 
 	```
 	pip install torch-sparse
@@ -6533,12 +6533,12 @@ _bayesian-methods..._
 
 <details><summary><b><a href="https://github.com/tensorflow/probability">tensorflow-probability</a></b> (🥇30 ·  ⭐ 2.5K) - Probabilistic reasoning and statistical analysis in TensorFlow. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
-- **[GitHub](https://github.com/tensorflow/probability)** (👨‍💻 110 · 🔀 600 · 📦 760 · 📋 510 - 46% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/tensorflow/probability)** (👨‍💻 110 · 🔀 600 · 📦 760 · 📋 510 - 46% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/tensorflow/probability
 	```
-- **[PyPi](https://pypi.org/project/tensorflow-probability)** (📥 150K / month · 📦 180 · ⏱️ 01.10.2019):
+- **[PyPi](https://pypi.org/project/tensorflow-probability)** (📥 160K / month · 📦 180 · ⏱️ 01.10.2019):
 
 	```
 	pip install tensorflow-probability
@@ -6551,7 +6551,7 @@ _bayesian-methods..._
 	```
 	git clone https://github.com/pymc-devs/pymc3
 	```
-- **[PyPi](https://pypi.org/project/pymc3)** (📥 41K / month · 📦 120 · ⏱️ 29.05.2019):
+- **[PyPi](https://pypi.org/project/pymc3)** (📥 43K / month · 📦 120 · ⏱️ 29.05.2019):
 
 	```
 	pip install pymc3
@@ -6564,7 +6564,7 @@ _bayesian-methods..._
 	```
 	git clone https://github.com/pyro-ppl/pyro
 	```
-- **[PyPi](https://pypi.org/project/pyro-ppl)** (📥 9.9K / month · 📦 26 · ⏱️ 24.10.2019):
+- **[PyPi](https://pypi.org/project/pyro-ppl)** (📥 10K / month · 📦 26 · ⏱️ 24.10.2019):
 
 	```
 	pip install pyro-ppl
@@ -6621,7 +6621,7 @@ _bayesian-methods..._
 	```
 	git clone https://github.com/pgmpy/pgmpy
 	```
-- **[PyPi](https://pypi.org/project/pgmpy)** (📥 3.7K / month · 📦 6 · ⏱️ 09.11.2019):
+- **[PyPi](https://pypi.org/project/pgmpy)** (📥 3.9K / month · 📦 6 · ⏱️ 09.11.2019):
 
 	```
 	pip install pgmpy
@@ -6656,7 +6656,7 @@ _bayesian-methods..._
 	```
 	git clone https://github.com/stan-dev/pystan
 	```
-- **[PyPi](https://pypi.org/project/pystan)** (📥 580K / month · 📦 270 · ⏱️ 27.10.2019):
+- **[PyPi](https://pypi.org/project/pystan)** (📥 590K / month · 📦 270 · ⏱️ 27.10.2019):
 
 	```
 	pip install pystan
@@ -6669,7 +6669,7 @@ _bayesian-methods..._
 	```
 	git clone https://github.com/blei-lab/edward
 	```
-- **[PyPi](https://pypi.org/project/edward)** (📥 4K / month · 📦 37 · ⏱️ 22.01.2018):
+- **[PyPi](https://pypi.org/project/edward)** (📥 4.1K / month · 📦 37 · ⏱️ 22.01.2018):
 
 	```
 	pip install edward
@@ -6697,14 +6697,14 @@ _bayesian-methods..._
 
 _Security..._
 
-<details><summary><b><a href="https://github.com/tensorflow/cleverhans">CleverHans</a></b> (🥇25 ·  ⭐ 4.2K) - An adversarial example library for constructing attacks, building defenses, and.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/tensorflow/cleverhans">CleverHans</a></b> (🥇25 ·  ⭐ 4.2K) - An adversarial example library for constructing attacks, building defenses,.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code> <a href="https://www.tensorflow.org/"><code><img src="https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/tensorflow/cleverhans)** (👨‍💻 100 · 🔀 1K · 📦 81 · 📋 390 - 9% open · ⏱️ 31.10.2019):
 
 	```
 	git clone https://github.com/tensorflow/cleverhans
 	```
-- **[PyPi](https://pypi.org/project/cleverhans)** (📥 1.4K / month · 📦 3 · ⏱️ 27.11.2018):
+- **[PyPi](https://pypi.org/project/cleverhans)** (📥 1.5K / month · 📦 3 · ⏱️ 27.11.2018):
 
 	```
 	pip install cleverhans
@@ -6743,7 +6743,7 @@ _Security..._
 	```
 	git clone https://github.com/advboxes/AdvBox
 	```
-- **[PyPi](https://pypi.org/project/advbox)** (📥 71 / month · ⏱️ 05.12.2018):
+- **[PyPi](https://pypi.org/project/advbox)** (📥 79 / month · ⏱️ 05.12.2018):
 
 	```
 	pip install advbox
@@ -6787,7 +6787,7 @@ _Libraries for connecting and operating databases._
 
 <details><summary><b><a href="https://github.com/andymccurdy/redis-py">redis</a></b> (🥇37 ·  ⭐ 8K) - Redis Python Client. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/andymccurdy/redis-py)** (👨‍💻 220 · 🔀 1.7K · 📦 61K · 📋 800 - 25% open · ⏱️ 27.10.2019):
+- **[GitHub](https://github.com/andymccurdy/redis-py)** (👨‍💻 220 · 🔀 1.7K · 📦 61K · 📋 800 - 25% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/andymccurdy/redis-py
@@ -6798,22 +6798,9 @@ _Libraries for connecting and operating databases._
 	pip install redis
 	```
 </details>
-<details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">SQLAlchemy</a></b> (🥇37 ·  ⭐ 1.6K) - The Database Toolkit for Python. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
-
-- **[GitHub](https://github.com/sqlalchemy/sqlalchemy)** (👨‍💻 400 · 🔀 230 · 📦 130K · 📋 4.9K - 3% open · ⏱️ 11.11.2019):
-
-	```
-	git clone https://github.com/sqlalchemy/sqlalchemy
-	```
-- **[PyPi](https://pypi.org/project/SQLAlchemy)** (📥 7.4M / month · 📦 81K · ⏱️ 11.11.2019):
-
-	```
-	pip install SQLAlchemy
-	```
-</details>
 <details><summary><b><a href="https://github.com/mongodb/mongo-python-driver">pymongo</a></b> (🥇36 ·  ⭐ 2.9K) - PyMongo - the Python driver for MongoDB. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/mongodb/mongo-python-driver)** (👨‍💻 170 · 🔀 900 · 📦 47K · ⏱️ 08.11.2019):
+- **[GitHub](https://github.com/mongodb/mongo-python-driver)** (👨‍💻 170 · 🔀 900 · 📦 47K · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/mongodb/mongo-python-driver
@@ -6822,6 +6809,19 @@ _Libraries for connecting and operating databases._
 
 	```
 	pip install pymongo
+	```
+</details>
+<details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">SQLAlchemy</a></b> (🥇36 ·  ⭐ 1.6K) - The Database Toolkit for Python. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+
+- **[GitHub](https://github.com/sqlalchemy/sqlalchemy)** (👨‍💻 400 · 🔀 230 · 📦 130K · 📋 4.9K - 3% open · ⏱️ 11.11.2019):
+
+	```
+	git clone https://github.com/sqlalchemy/sqlalchemy
+	```
+- **[PyPi](https://pypi.org/project/SQLAlchemy)** (📥 7.5M / month · 📦 81K · ⏱️ 11.11.2019):
+
+	```
+	pip install SQLAlchemy
 	```
 </details>
 <details><summary><b><a href="https://github.com/boto/boto3">boto3</a></b> (🥇35 ·  ⭐ 5K) - AWS SDK for Python. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
@@ -6839,12 +6839,12 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/googleapis/google-cloud-python">google-cloud-storage</a></b> (🥇35 ·  ⭐ 2.9K) - Google Cloud Client Library for Python. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/googleapis/google-cloud-python)** (👨‍💻 300 · 🔀 1.2K · 📦 4.9K · 📋 3.3K - 6% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/googleapis/google-cloud-python)** (👨‍💻 300 · 🔀 1.2K · 📦 4.9K · 📋 3.3K - 5% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/googleapis/google-cloud-python
 	```
-- **[PyPi](https://pypi.org/project/google-cloud-storage)** (📥 7.7M / month · 📦 1.8K · ⏱️ 05.11.2019):
+- **[PyPi](https://pypi.org/project/google-cloud-storage)** (📥 7.8M / month · 📦 1.8K · ⏱️ 05.11.2019):
 
 	```
 	pip install google-cloud-storage
@@ -6857,7 +6857,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/PyMySQL/PyMySQL
 	```
-- **[PyPi](https://pypi.org/project/PyMySQL)** (📥 3.8M / month · 📦 16K · ⏱️ 18.12.2018):
+- **[PyPi](https://pypi.org/project/PyMySQL)** (📥 3.9M / month · 📦 16K · ⏱️ 18.12.2018):
 
 	```
 	pip install PyMySQL
@@ -6935,7 +6935,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/datastax/python-driver">Cassandra Driver</a></b> (🥈30 ·  ⭐ 1.1K) - DataStax Python Driver for Apache Cassandra. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/datastax/python-driver)** (👨‍💻 170 · 🔀 420 · 📦 1.4K · ⏱️ 06.11.2019):
+- **[GitHub](https://github.com/datastax/python-driver)** (👨‍💻 170 · 🔀 420 · 📦 1.4K · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/datastax/python-driver
@@ -6958,7 +6958,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/apache/libcloud
 	```
-- **[PyPi](https://pypi.org/project/apache-libcloud)** (📥 120K / month · 📦 1.5K · ⏱️ 28.08.2019):
+- **[PyPi](https://pypi.org/project/apache-libcloud)** (📥 130K / month · 📦 1.5K · ⏱️ 28.08.2019):
 
 	```
 	pip install apache-libcloud
@@ -6966,7 +6966,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/mongodb/motor">Motor</a></b> (🥉28 ·  ⭐ 1.3K) - Motor - the async Python driver for MongoDB and Tornado or asyncio. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/mongodb/motor)** (👨‍💻 26 · 🔀 120 · 📦 1.8K · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/mongodb/motor)** (👨‍💻 26 · 🔀 120 · 📦 1.8K · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/mongodb/motor
@@ -6984,7 +6984,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/pudo/dataset
 	```
-- **[PyPi](https://pypi.org/project/dataset)** (📥 56K / month · 📦 920 · ⏱️ 07.02.2019):
+- **[PyPi](https://pypi.org/project/dataset)** (📥 58K / month · 📦 920 · ⏱️ 07.02.2019):
 
 	```
 	pip install dataset
@@ -7015,7 +7015,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/oracle/python-cx_Oracle
 	```
-- **[PyPi](https://pypi.org/project/cx-Oracle)** (📥 540K / month · 📦 86 · ⏱️ 01.10.2019):
+- **[PyPi](https://pypi.org/project/cx-Oracle)** (📥 550K / month · 📦 86 · ⏱️ 01.10.2019):
 
 	```
 	pip install cx-Oracle
@@ -7023,12 +7023,12 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/minio/minio-py">minio</a></b> (🥉26 ·  ⭐ 250) - MinIO Client SDK for Python. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/minio/minio-py)** (👨‍💻 68 · 🔀 120 · 📦 480 · 📋 290 - 1% open · ⏱️ 09.11.2019):
+- **[GitHub](https://github.com/minio/minio-py)** (👨‍💻 68 · 🔀 130 · 📦 480 · 📋 290 - 2% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/minio/minio-py
 	```
-- **[PyPi](https://pypi.org/project/minio)** (📥 120K / month · 📦 290 · ⏱️ 29.10.2019):
+- **[PyPi](https://pypi.org/project/minio)** (📥 120K / month · 📦 310 · ⏱️ 12.11.2019):
 
 	```
 	pip install minio
@@ -7059,7 +7059,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/yougov/mongo-connector
 	```
-- **[PyPi](https://pypi.org/project/mongo-connector)** (📥 6.5K / month · 📦 29 · ⏱️ 05.12.2018):
+- **[PyPi](https://pypi.org/project/mongo-connector)** (📥 6.6K / month · 📦 29 · ⏱️ 05.12.2018):
 
 	```
 	pip install mongo-connector
@@ -7090,7 +7090,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/neo4j/neo4j-python-driver
 	```
-- **[PyPi](https://pypi.org/project/neo4j-driver)** (📥 30K / month · 📦 370 · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/neo4j-driver)** (📥 31K / month · 📦 370 · ⏱️ 11.11.2019):
 
 	```
 	pip install neo4j-driver
@@ -7103,7 +7103,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/awslabs/aws-data-wrangler
 	```
-- **[PyPi](https://pypi.org/project/awswrangler)** (📥 4K / month · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/awswrangler)** (📥 4.2K / month · ⏱️ 11.11.2019):
 
 	```
 	pip install awswrangler
@@ -7116,7 +7116,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/plasticityai/supersqlite
 	```
-- **[PyPi](https://pypi.org/project/supersqlite)** (📥 220 / month · ⏱️ 19.11.2018):
+- **[PyPi](https://pypi.org/project/supersqlite)** (📥 230 / month · ⏱️ 19.11.2018):
 
 	```
 	pip install supersqlite
@@ -7161,12 +7161,12 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/cloudant/python-cloudant">cloudant</a></b> (🥉24 ·  ⭐ 120) - A Python library for Cloudant and CouchDB. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/cloudant/python-cloudant)** (👨‍💻 24 · 🔀 37 · 📦 710 · 📋 230 - 14% open · ⏱️ 15.10.2019):
+- **[GitHub](https://github.com/cloudant/python-cloudant)** (👨‍💻 24 · 🔀 37 · 📦 720 · 📋 230 - 14% open · ⏱️ 15.10.2019):
 
 	```
 	git clone https://github.com/cloudant/python-cloudant
 	```
-- **[PyPi](https://pypi.org/project/cloudant)** (📥 45K / month · 📦 490 · ⏱️ 28.03.2019):
+- **[PyPi](https://pypi.org/project/cloudant)** (📥 46K / month · 📦 490 · ⏱️ 28.03.2019):
 
 	```
 	pip install cloudant
@@ -7192,7 +7192,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/amol-/depot
 	```
-- **[PyPi](https://pypi.org/project/filedepot)** (📥 5K / month · 📦 74 · ⏱️ 13.08.2019):
+- **[PyPi](https://pypi.org/project/filedepot)** (📥 5.2K / month · 📦 74 · ⏱️ 13.08.2019):
 
 	```
 	pip install filedepot
@@ -7205,7 +7205,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/yhat/db.py
 	```
-- **[PyPi](https://pypi.org/project/db.py)** (📥 870 / month · 📦 19 · ⏱️ 31.03.2017):
+- **[PyPi](https://pypi.org/project/db.py)** (📥 880 / month · 📦 19 · ⏱️ 31.03.2017):
 
 	```
 	pip install db.py
@@ -7238,7 +7238,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/plotly/dash
 	```
-- **[PyPi](https://pypi.org/project/dash)** (📥 160K / month · 📦 1.3K · ⏱️ 04.11.2019):
+- **[PyPi](https://pypi.org/project/dash)** (📥 170K / month · 📦 1.3K · ⏱️ 04.11.2019):
 
 	```
 	pip install dash
@@ -7246,7 +7246,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/streamlit/streamlit">Streamlit</a></b> (🥈25 ·  ⭐ 4.8K · 🐣) - Streamlit The fastest way to build custom ML tools. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/streamlit/streamlit)** (👨‍💻 33 · 🔀 390 · 📋 440 - 65% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/streamlit/streamlit)** (👨‍💻 33 · 🔀 390 · 📋 440 - 64% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/streamlit/streamlit
@@ -7277,7 +7277,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/pyviz/panel">Panel</a></b> (🥉24 ·  ⭐ 590) - A high-level app and dashboarding solution for Python. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
 
-- **[GitHub](https://github.com/pyviz/panel)** (👨‍💻 32 · 🔀 72 · 📦 110 · 📋 400 - 34% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/pyviz/panel)** (👨‍💻 32 · 🔀 72 · 📦 110 · 📋 400 - 34% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/pyviz/panel
@@ -7295,7 +7295,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/weaveworks/grafanalib
 	```
-- **[PyPi](https://pypi.org/project/grafanalib)** (📥 800 / month · 📦 3 · ⏱️ 19.07.2018):
+- **[PyPi](https://pypi.org/project/grafanalib)** (📥 820 / month · 📦 3 · ⏱️ 19.07.2018):
 
 	```
 	pip install grafanalib
@@ -7322,6 +7322,8 @@ _Libraries for connecting and operating databases._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://i.ibb.co/2PS8bhR/up-arrow.png" alt="Back to top"></a>
 
+_Libraries to monitor, collect, and visualize system metrics (e.g., memory, CPU, GPU)._
+
 <details><summary><b><a href="https://github.com/giampaolo/psutil">psutil</a></b> (🥇34 ·  ⭐ 5.6K) - Cross-platform lib for process and system monitoring in Python. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
 
 - **[GitHub](https://github.com/giampaolo/psutil)** (👨‍💻 120 · 🔀 890 · 📦 33K · 📋 1.3K - 13% open · ⏱️ 06.11.2019):
@@ -7329,7 +7331,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/giampaolo/psutil
 	```
-- **[PyPi](https://pypi.org/project/psutil)** (📥 8.6M / month · 📦 23K · ⏱️ 06.11.2019):
+- **[PyPi](https://pypi.org/project/psutil)** (📥 8.7M / month · 📦 23K · ⏱️ 06.11.2019):
 
 	```
 	pip install psutil
@@ -7355,7 +7357,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/wookayin/gpustat">gpustat</a></b> (🥉23 ·  ⭐ 1.5K) - A simple command-line utility for querying and monitoring GPU status. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/wookayin/gpustat)** (👨‍💻 8 · 🔀 130 · 📦 140 · 📋 51 - 35% open · ⏱️ 21.10.2019):
+- **[GitHub](https://github.com/wookayin/gpustat)** (👨‍💻 8 · 🔀 130 · 📦 140 · 📋 50 - 36% open · ⏱️ 21.10.2019):
 
 	```
 	git clone https://github.com/wookayin/gpustat
@@ -7400,7 +7402,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/python-diamond/Diamond
 	```
-- **[PyPi](https://pypi.org/project/diamond)** (📥 73K / month · 📦 31 · ⏱️ 25.11.2016):
+- **[PyPi](https://pypi.org/project/diamond)** (📥 75K / month · 📦 31 · ⏱️ 25.11.2016):
 
 	```
 	pip install diamond
@@ -7428,12 +7430,12 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/sympy/sympy">SymPy</a></b> (🥇33 ·  ⭐ 6.4K) - A computer algebra system written in pure Python. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code></summary>
 
-- **[GitHub](https://github.com/sympy/sympy)** (👨‍💻 890 · 🔀 2.8K · 📥 360K · 📦 14K · 📋 9.8K - 36% open · ⏱️ 11.11.2019):
+- **[GitHub](https://github.com/sympy/sympy)** (👨‍💻 890 · 🔀 2.8K · 📥 360K · 📦 14K · 📋 9.8K - 36% open · ⏱️ 12.11.2019):
 
 	```
 	git clone https://github.com/sympy/sympy
 	```
-- **[PyPi](https://pypi.org/project/sympy)** (📥 300K / month · 📦 4.9K · ⏱️ 10.04.2019):
+- **[PyPi](https://pypi.org/project/sympy)** (📥 310K / month · 📦 4.9K · ⏱️ 10.04.2019):
 
 	```
 	pip install sympy
@@ -7451,7 +7453,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/pydata/numexpr
 	```
-- **[PyPi](https://pypi.org/project/numexpr)** (📥 540K / month · 📦 4.4K · ⏱️ 14.08.2019):
+- **[PyPi](https://pypi.org/project/numexpr)** (📥 560K / month · 📦 4.4K · ⏱️ 14.08.2019):
 
 	```
 	pip install numexpr
@@ -7483,14 +7485,14 @@ _Libraries for connecting and operating databases._
 	pip install autograd
 	```
 </details>
-<details><summary><b><a href="https://github.com/rasbt/mlxtend">Mlxtend</a></b> (🥈27 ·  ⭐ 2.6K) - A library of extension and helper modules for Python's data analysis and machine.. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://scikit-learn.org"><code><img src="https://scikit-learn.org/stable/_static/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
+<details><summary><b><a href="https://github.com/rasbt/mlxtend">Mlxtend</a></b> (🥈27 ·  ⭐ 2.6K) - A library of extension and helper modules for Python's data analysis and.. <code><a href="https://tldrlegal.com/license/bsd-3-clause-license-(revised)">BSD-3</a></code> <a href="https://scikit-learn.org"><code><img src="https://scikit-learn.org/stable/_static/favicon.ico" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - **[GitHub](https://github.com/rasbt/mlxtend)** (👨‍💻 66 · 🔀 560 · 📦 610 · 📋 280 - 25% open · ⏱️ 06.11.2019):
 
 	```
 	git clone https://github.com/rasbt/mlxtend
 	```
-- **[PyPi](https://pypi.org/project/mlxtend)** (📥 54K / month · 📦 81 · ⏱️ 19.07.2019):
+- **[PyPi](https://pypi.org/project/mlxtend)** (📥 56K / month · 📦 81 · ⏱️ 19.07.2019):
 
 	```
 	pip install mlxtend
@@ -7516,7 +7518,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/deepchem/deepchem
 	```
-- **[PyPi](https://pypi.org/project/deepchem)** (📥 920 / month · 📦 3 · ⏱️ 03.05.2019):
+- **[PyPi](https://pypi.org/project/deepchem)** (📥 950 / month · 📦 3 · ⏱️ 03.05.2019):
 
 	```
 	pip install deepchem
@@ -7529,7 +7531,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/scikit-learn-contrib/metric-learn
 	```
-- **[PyPi](https://pypi.org/project/metric-learn)** (📥 1.5K / month · 📦 9 · ⏱️ 18.07.2019):
+- **[PyPi](https://pypi.org/project/metric-learn)** (📥 1.6K / month · 📦 9 · ⏱️ 18.07.2019):
 
 	```
 	pip install metric-learn
@@ -7542,7 +7544,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/tensorly/tensorly
 	```
-- **[PyPi](https://pypi.org/project/tensorly)** (📥 1.6K / month · 📦 3 · ⏱️ 06.08.2019):
+- **[PyPi](https://pypi.org/project/tensorly)** (📥 1.7K / month · 📦 3 · ⏱️ 06.08.2019):
 
 	```
 	pip install tensorly
@@ -7555,7 +7557,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/nicodv/kmodes
 	```
-- **[PyPi](https://pypi.org/project/kmodes)** (📥 15K / month · 📦 10 · ⏱️ 23.04.2019):
+- **[PyPi](https://pypi.org/project/kmodes)** (📥 16K / month · 📦 10 · ⏱️ 23.04.2019):
 
 	```
 	pip install kmodes
@@ -7594,7 +7596,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/ericmjl/pyjanitor
 	```
-- **[PyPi](https://pypi.org/project/pyjanitor)** (📥 1.2K / month · 📦 2 · ⏱️ 10.11.2019):
+- **[PyPi](https://pypi.org/project/pyjanitor)** (📥 1.3K / month · 📦 2 · ⏱️ 10.11.2019):
 
 	```
 	pip install pyjanitor
@@ -7620,7 +7622,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/scikit-learn-contrib/lightning
 	```
-- **[PyPi](https://pypi.org/project/sklearn-contrib-lightning)** (📥 410 / month · 📦 2 · ⏱️ 04.11.2017):
+- **[PyPi](https://pypi.org/project/sklearn-contrib-lightning)** (📥 400 / month · 📦 2 · ⏱️ 04.11.2017):
 
 	```
 	pip install sklearn-contrib-lightning
@@ -7654,7 +7656,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/modAL-python/modAL
 	```
-- **[PyPi](https://pypi.org/project/modAL)** (📥 870 / month · 📦 3 · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/modAL)** (📥 980 / month · 📦 3 · ⏱️ 11.11.2019):
 
 	```
 	pip install modAL
@@ -7667,7 +7669,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/ljvmiranda921/pyswarms
 	```
-- **[PyPi](https://pypi.org/project/pyswarms)** (📥 4.1K / month · ⏱️ 18.02.2019):
+- **[PyPi](https://pypi.org/project/pyswarms)** (📥 4.6K / month · ⏱️ 18.02.2019):
 
 	```
 	pip install pyswarms
@@ -7680,7 +7682,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/vecxoz/vecstack
 	```
-- **[PyPi](https://pypi.org/project/vecstack)** (📥 2.9K / month · 📦 1 · ⏱️ 12.08.2019):
+- **[PyPi](https://pypi.org/project/vecstack)** (📥 3.1K / month · 📦 1 · ⏱️ 12.08.2019):
 
 	```
 	pip install vecstack
@@ -7693,7 +7695,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/RaRe-Technologies/bounter
 	```
-- **[PyPi](https://pypi.org/project/bounter)** (📥 840 / month · 📦 1 · ⏱️ 17.01.2019):
+- **[PyPi](https://pypi.org/project/bounter)** (📥 860 / month · 📦 1 · ⏱️ 17.01.2019):
 
 	```
 	pip install bounter
@@ -7706,7 +7708,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/creme-ml/creme
 	```
-- **[PyPi](https://pypi.org/project/creme)** (📥 590 / month · ⏱️ 11.11.2019):
+- **[PyPi](https://pypi.org/project/creme)** (📥 760 / month · ⏱️ 11.11.2019):
 
 	```
 	pip install creme
@@ -7719,7 +7721,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/cgnorthcutt/cleanlab
 	```
-- **[PyPi](https://pypi.org/project/cleanlab)** (📥 380 / month · ⏱️ 08.11.2019):
+- **[PyPi](https://pypi.org/project/cleanlab)** (📥 410 / month · ⏱️ 08.11.2019):
 
 	```
 	pip install cleanlab
@@ -7745,7 +7747,7 @@ _Libraries for connecting and operating databases._
 	```
 	git clone https://github.com/jmschrei/apricot
 	```
-- **[PyPi](https://pypi.org/project/apricot-select)** (📥 240 / month · ⏱️ 03.11.2019):
+- **[PyPi](https://pypi.org/project/apricot-select)** (📥 260 / month · ⏱️ 03.11.2019):
 
 	```
 	pip install apricot-select
