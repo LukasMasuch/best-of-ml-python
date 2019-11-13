@@ -1,13 +1,13 @@
 
 ---
 
-## Additional Resources
+## Related Resources
 
-- [Papers With Code](https://paperswithcode.com): Discover ML papers, code, and evaluation tables.
-- [Sotabench](https://sotabench.com): Discover & compare open-source ML models.
-- [Google Dataset Search](https://toolbox.google.com/datasetsearch): Dataset search engine by Google.
-- [Dataset List](https://www.datasetlist.com/): List of the biggest ML datasets from across the web.
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of open datasets.
+- [**Papers With Code**](https://paperswithcode.com): Discover ML papers, code, and evaluation tables.
+- [**Sotabench**](https://sotabench.com): Discover & compare open-source ML models.
+- [**Google Dataset Search**](https://toolbox.google.com/datasetsearch): Dataset search engine by Google.
+- [**Dataset List**](https://www.datasetlist.com/): List of the biggest ML datasets from across the web.
+- [**Awesome Public Datasets**](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of open datasets.
 
 ## Contribution
 
@@ -16,7 +16,7 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
