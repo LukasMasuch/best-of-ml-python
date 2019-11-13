@@ -1,7 +1,7 @@
 configuration:
   min_stars: 150
   require_github: True
-  allowed_licenses: [ "Apache-2.0", "MIT", "BSD-3-Clause", "BSD-2-Clause", "ISC", "MPL-2.0"]
+  allowed_licenses: [ "Unlicense", "Apache-2.0", "MIT", "BSD-3-Clause", "BSD-2-Clause", "ISC", "MPL-2.0"]
   markdown_header_file: "header.md"
   markdown_footer_file: "footer.md"
   projects_history_folder: "history"
@@ -2280,6 +2280,10 @@ projects:
 - name: Transistor
   github_id: bomquote/transistor
   pypi_id: transistor
+  category: web-scraping
+- name: pyspider
+  github_id: binux/pyspider
+  pypi_id: pyspider
   category: web-scraping
 # Data Loading & Extraction
 - name: Tablib
