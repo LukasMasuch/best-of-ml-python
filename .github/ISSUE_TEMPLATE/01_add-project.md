@@ -17,23 +17,24 @@ Please make sure that the project was not already added or suggested to this bes
 <!-- Please fill out as many of the following information as possible. -->
 
 - Project Name:
-- License:
 - Github URL:
+- Category:  <!-- Please choose one of the existing categories from the Readme or projects.yaml file -->
+- License:
 - Package Manager: <!-- Please add the IDs for all package manager that the project is available on. -->
-    [] npm:
-    [] PyPI:
-    [] Conda:
-    [] Gem:
-    [] CRAN:
-    [] Dockerhub:
-    [] Helmhub:
-    [] Maven:
-    [] Go:
-    [] Packagist:
-    [] NuGet:
-    [] Brew:
-    [] Apt:
-    [] ...
+    - [ ] npm:
+    - [ ] PyPI:
+    - [ ] Conda:
+    - [ ] Gem:
+    - [ ] CRAN:
+    - [ ] Dockerhub:
+    - [ ] Helmhub:
+    - [ ] Maven:
+    - [ ] Go:
+    - [ ] Packagist:
+    - [ ] NuGet:
+    - [ ] Brew:
+    - [ ] Apt:
+    - [ ] ...
 
 **Additional context:**
 
