@@ -866,6 +866,7 @@ projects:
 - name: Matplotlib
   pypi_id: matplotlib
   github_id: matplotlib/matplotlib
+  show: True
   category: data-viz
 - name: Altair
   pypi_id: altair
