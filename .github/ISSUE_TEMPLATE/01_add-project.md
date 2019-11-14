@@ -1,7 +1,7 @@
 ---
 name: "📦 Add a project"
 about: Do you like to suggest a project that hasn't been added yet to this best-of list?
-title: ''
+title: 'Add project: '
 labels: add-project
 assignees: ''
 
@@ -14,11 +14,13 @@ Before opening a new issue, please make sure that the project was not already ad
 -->
 
 **Project details:**
+<!-- Please fill out as many of the following information as possible. -->
 
 - Project Name:
 - License:
 - Github URL:
-- Package Manager: <!-- Please add the IDs for all package manager that the project is available on -->
+- Package Manager:
+<!-- Please add the IDs for all package manager that the project is available on. -->
     - npm:
     - PyPI:
     - Conda:
