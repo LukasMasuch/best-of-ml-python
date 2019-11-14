@@ -10,7 +10,7 @@ assignees: ''
 <!--
 Thanks for suggesting a new project 🙌 ❤️
 
-Before opening a new issue, please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the Readme, and the issue list.
+Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the Readme, and the issue list.
 -->
 
 **Project details:**
@@ -19,22 +19,21 @@ Before opening a new issue, please make sure that the project was not already ad
 - Project Name:
 - License:
 - Github URL:
-- Package Manager:
-<!-- Please add the IDs for all package manager that the project is available on. -->
-    - npm:
-    - PyPI:
-    - Conda:
-    - Gem:
-    - CRAN:
-    - Dockerhub:
-    - Helmhub:
-    - Maven:
-    - Go:
-    - Packagist:
-    - NuGet:
-    - Brew:
-    - Apt:
-    - ...
+- Package Manager: <!-- Please add the IDs for all package manager that the project is available on. -->
+    [] npm:
+    [] PyPI:
+    [] Conda:
+    [] Gem:
+    [] CRAN:
+    [] Dockerhub:
+    [] Helmhub:
+    [] Maven:
+    [] Go:
+    [] Packagist:
+    [] NuGet:
+    [] Brew:
+    [] Apt:
+    [] ...
 
 **Additional context:**
 
