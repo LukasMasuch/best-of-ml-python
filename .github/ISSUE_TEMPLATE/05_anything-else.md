@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4AC Anything else?"
-about: For questions or suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](#) repository.
+about: For questions or suggestions regarding the project metadata collection or markdown generation, please refer to the <a href="#">best-of-generator</a> repository.
 title: ''
 labels: ''
 assignees: ''
