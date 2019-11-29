@@ -17,7 +17,7 @@ TBD
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/ml-tooling/best-of-ml-python/issues/new/choose) and fill in the requested information.
+- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/LukasMasuch/best-of-ml-python/issues/new/choose) and fill in the requested information.
 - Edit the [projects.yaml](https://github.com/LukasMasuch/best-of-ml-python/edit/master/projects.yaml) file directly on Github and create a pull request with your additions or changes.
 - Fork this repository, clone it to your computer, modify the projects.yaml file, and submit a pull request.
 
