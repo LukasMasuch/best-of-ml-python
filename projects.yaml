@@ -329,6 +329,7 @@ projects:
 - name: nltk
   pypi_id: nltk
   github_id: nltk/nltk
+  description: "Suite of libraries and programs for symbolic and statistical natural language processing for English."
   category: nlp
 - name: torchtext
   pypi_id: torchtext
@@ -705,6 +706,11 @@ projects:
   github_id: ibis-project/ibis
   conda_id: conda-forge/ibis-framework
   category: db-clients # data containers or pipeline?
+- name: pandas-gbq
+  pypi_id: pandas-gbq
+  github_id: pydata/pandas-gbq
+  conda_id: conda-forge/pandas-gbq
+  category: db-clients
 # Image Processing
 - name: Face Alignment
   github_id: 1adrianb/face-alignment
@@ -838,6 +844,10 @@ projects:
   github_id: sirfz/tesserocr
   pypi_id: tesserocr
   conda_id: conda-forge/tesserocr
+  category: image
+- name: MoviePy
+  github_id: Zulko/moviepy
+  pypi_id: moviepy
   category: image
 # Data Visualization
 - name: Bokeh
@@ -1058,6 +1068,7 @@ projects:
 - name: iNNvestigate
   pypi_id: innvestigate
   github_id: albermax/innvestigate
+  license: BSD-2-Clause
   labels: ["keras"]
   category: interpretability
 - name: LOFO
@@ -1075,6 +1086,23 @@ projects:
 - name: keras-vis
   pypi_id: keras-vis
   github_id: raghakot/keras-vis
+  category: interpretability
+- name: Explainability 360
+  pypi_id: aix360
+  github_id: IBM/AIX360
+  category: interpretability
+- name: Anchor
+  pypi_id: anchor_exp
+  github_id: marcotcr/anchor
+  category: interpretability
+- name: Attribution Priors
+  pypi_id: attributionpriors
+  github_id: suinleelab/attributionpriors
+  labels: ["tensorflow", "pytorch"]
+  category: interpretability
+- name: Fairness 360
+  pypi_id: aif360
+  github_id: IBM/AIF360
   category: interpretability
 # Graph Processing
 - name: GraphVite
@@ -1477,6 +1505,14 @@ projects:
   pypi_id: hypermax
   github_id: electricbrainio/hypermax
   category: hyperopt
+- name: Hypertunity
+  pypi_id: hypertunity
+  github_id: gdikov/hypertunity
+  category: hyperopt
+- name: Auptimizer
+  pypi_id: auptimizer
+  github_id: LGE-ARC-AdvancedAI/auptimizer
+  category: hyperopt
 # ML Workflow Tools
 - name: DVC
   github_id: iterative/dvc
@@ -1753,6 +1789,11 @@ projects:
   pypi_id: fletcher
   github_id: xhochy/fletcher
   category: data-containers
+- name: zarr
+  pypi_id: zarr
+  github_id: zarr-developers/zarr-python
+  conda_id: zarr
+  category: data-containers
 # Medical Data
 - name: DLTK
   pypi_id: dltk
@@ -1830,6 +1871,11 @@ projects:
   github_id: hail-is/hail
   pypi_id: hail
   labels: ["spark"]
+  category: medical-data
+- name: DIPY
+  github_id: nipy/dipy
+  pypi_id: dipy
+  conda_id: conda-forge/dipy
   category: medical-data
 # Distributed Machine Learning
 - name: BigDL
@@ -1962,6 +2008,10 @@ projects:
 - name: seglearn
   pypi_id: seglearn
   github_id: dmbee/seglearn
+  category: time-series-data
+- name: ADTK
+  pypi_id: adtk
+  github_id: arundo/adtk
   category: time-series-data
 # Vector Similarity Search (ANN)
 - name: Annoy
@@ -2212,6 +2262,9 @@ projects:
 - name: BlazingSQL
   github_id: BlazingDB/pyBlazing
   conda_id: blazingsql/blazingsql-protocol
+  category: gpu-utilities
+- name: cuSignal
+  github_id: rapidsai/cusignal
   category: gpu-utilities
 # Web Scraping & Crawling
 - name: beautifulsoup4
@@ -2742,3 +2795,11 @@ projects:
 - name: Streamlit
   pypi_id: streamlit
   github_id: streamlit/streamlit
+- name: Cython BLIS
+  pypi_id: blis
+  github_id: explosion/cython-blis
+  conda_id: conda-forge/cython-blis
+- name: baikal
+  pypi_id: baikal
+  github_id: alegonz/baikal
+  conda_id: conda-forge/cython-blis
