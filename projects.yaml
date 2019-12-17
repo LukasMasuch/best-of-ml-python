@@ -100,7 +100,7 @@ categories:
 
 labels:
 - label: "tensorflow"
-  image: "https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png"
+  image: "https://www.gstatic.com/devrel-devsite/prod/vc8928e4803ba00823d2deb39c327db4919db629f1ecb648b587b35b95297bc3b/tensorflow/images/favicon.png"
   url: "https://www.tensorflow.org/"
   description: "Project is related to Tensorflow"
 - label: "sklearn"
@@ -308,6 +308,11 @@ projects:
   pypi_id: statsmodels
   conda_id: statsmodels
   github_id: statsmodels/statsmodels
+  category: ml-frameworks
+- name: Neural Tangents
+  pypi_id: neural-tangents
+  license: Apache-2.0
+  github_id: google/neural-tangents
   category: ml-frameworks
 # NLP 
 - name: spaCy
@@ -618,6 +623,10 @@ projects:
   pypi_id: kafka-python
   github_id: dpkp/kafka-python
   category: db-clients
+- name: confluent-kafka-python
+  pypi_id: confluent-kafka
+  github_id: confluentinc/confluent-kafka-python
+  category: db-clients
 - name: PyMySQL
   pypi_id: PyMySQL
   github_id: PyMySQL/PyMySQL
@@ -712,6 +721,11 @@ projects:
   conda_id: conda-forge/pandas-gbq
   category: db-clients
 # Image Processing
+- name: Classy Vision
+  github_id: facebookresearch/ClassyVision
+  pypi_id: classy_vision
+  labels: ["pytorch"]
+  category: image
 - name: Face Alignment
   github_id: 1adrianb/face-alignment
   pypi_id: face-alignment
@@ -777,7 +791,7 @@ projects:
   labels: ["tensorflow"]
   category: image
 - name: Kornia
-  github_id: arraiyopensource/kornia
+  github_id: kornia/kornia
   pypi_id: kornia
   labels: ["pytorch"]
   category: image
@@ -797,7 +811,7 @@ projects:
   # TODO: Add package manager
   category: image
 - name: Albumentations
-  github_id: albu/albumentations
+  github_id: albumentations-team/albumentations
   pypi_id: albumentations
   labels: ["pytorch"]
   category: image
@@ -861,7 +875,7 @@ projects:
   category: data-viz
 - name: HoloViews
   pypi_id: holoviews
-  github_id: pyviz/holoviews
+  github_id: holoviz/holoviews
   npm_id: "@pyviz/jupyterlab_pyviz"
   labels: ["jupyter"]
   category: data-viz
@@ -890,7 +904,7 @@ projects:
   category: data-viz
 - name: hvPlot
   pypi_id: hvplot
-  github_id: pyviz/hvplot
+  github_id: holoviz/hvplot
   category: data-viz
 - name: Cufflinks
   pypi_id: cufflinks
@@ -898,7 +912,8 @@ projects:
   category: data-viz
 - name: datashader
   pypi_id: datashader
-  github_id: pyviz/datashader
+  github_id: holoviz/datashader
+  conda_id: conda-forge/datashader
   category: data-viz
 - name: pdvega
   pypi_id: pdvega
@@ -1038,7 +1053,7 @@ projects:
   category: interpretability
 - name: InterpretML
   pypi_id: interpret
-  github_id: microsoft/interpret
+  github_id: interpretml/interpret
   category: interpretability
 - name: sklearn-evaluation
   pypi_id: sklearn-evaluation
@@ -1199,6 +1214,11 @@ projects:
   labels: ["tensorflow"]
   category: graph
 # Geospatial Data
+- name: GeoViews
+  pypi_id: geoviews
+  github_id: holoviz/geoviews
+  conda_id: conda-forge/geoviews
+  category: geospatial-data
 - name: Sentinelsat
   pypi_id: sentinelsat
   github_id: sentinelsat/sentinelsat
@@ -1373,7 +1393,7 @@ projects:
   category: hyperopt
 - name: Optuna
   pypi_id: optuna
-  github_id: pfnet/optuna
+  github_id: optuna/optuna
   category: hyperopt
 - name: HpBandSter
   pypi_id: hpbandster
@@ -1489,6 +1509,11 @@ projects:
   pypi_id: automl_gs
   github_id: minimaxir/automl-gs
   category: hyperopt
+- name: AutoGluon
+  pypi_id: autogluon
+  github_id: awslabs/autogluon
+  labels: ["mxnet"]
+  category: hyperopt
 - name: ENAS
   github_id: carpedm20/ENAS-pytorch
   # TODO: Add package manager
@@ -1542,6 +1567,10 @@ projects:
   pypi_id: mlflow
   github_id: mlflow/mlflow
   category: ml-experiments
+- name: Metaflow
+  pypi_id: metaflow
+  github_id: Netflix/metaflow
+  category: ml-experiments
 - name: knockknock
   pypi_id: knockknock
   github_id: huggingface/knockknock
@@ -1583,6 +1612,11 @@ projects:
   pypi_id: catalyst
   github_id: catalyst-team/catalyst
   labels: ["pytorch"]
+  category: ml-experiments
+- name: SageMaker SDK
+  pypi_id: sagemaker
+  github_id: aws/sagemaker-python-sdk
+  labels: ["mxnet", "tensorflow"]
   category: ml-experiments
 - name: TNT
   pypi_id: tnt
@@ -1942,7 +1976,7 @@ projects:
   category: distributed-ml
 - name: Apache Singa
   dockerhub_id: apache/singa
-  github_id: apache/incubator-singa
+  github_id: apache/singa
   conda_id:  nusdbsystem/singa
   category: distributed-ml
 - name: DEAP
@@ -2260,11 +2294,12 @@ projects:
   license: Apache-2.0
   category: gpu-utilities
 - name: BlazingSQL
-  github_id: BlazingDB/pyBlazing
+  github_id: BlazingDB/blazingsql
   conda_id: blazingsql/blazingsql-protocol
   category: gpu-utilities
 - name: cuSignal
   github_id: rapidsai/cusignal
+  description: "GPU accelerated signal processing."
   category: gpu-utilities
 # Web Scraping & Crawling
 - name: beautifulsoup4
