@@ -242,7 +242,7 @@ projects:
   category: ml-frameworks
 - name: pytorch-lightning
   pypi_id: pytorch-lightning
-  github_id: williamFalcon/pytorch-lightning
+  github_id: PyTorchLightning/pytorch-lightning
   labels: ["pytorch"]
   category: ml-frameworks
 - name: skorch
@@ -367,7 +367,7 @@ projects:
   category: nlp
 - name: flair
   pypi_id: flair
-  github_id: zalandoresearch/flair
+  github_id: flairNLP/flair
   labels: ["pytorch"]
   category: nlp
 - name: pyahocorasick
@@ -574,6 +574,14 @@ projects:
   pypi_id: headliner
   github_id: as-ideas/headliner
   category: nlp
+- name: Tokenizers
+  pypi_id: tokenizers
+  github_id: huggingface/tokenizers
+  category: nlp
+- name: DeepMatcher
+  pypi_id: deepmatcher
+  github_id: anhaidgroup/deepmatcher
+  category: nlp
 # Database Clients
 - name: mongo-connector
   pypi_id: mongo-connector
@@ -724,6 +732,7 @@ projects:
 - name: Classy Vision
   github_id: facebookresearch/ClassyVision
   pypi_id: classy_vision
+  conda_id: conda-forge/classy_vision
   labels: ["pytorch"]
   category: image
 - name: Face Alignment
@@ -825,6 +834,10 @@ projects:
   pypi_id: pytesseract
   conda_id: conda-forge/pytesseract
   description: "Python-tesseract is an optical character recognition (OCR) tool for python."
+  category: image
+- name: keras-ocr
+  github_id: faustomorales/keras-ocr
+  pypi_id: keras-ocr
   category: image
 - name: imutils
   github_id: jrosebr1/imutils
@@ -1120,6 +1133,10 @@ projects:
   github_id: IBM/AIF360
   category: interpretability
 # Graph Processing
+- name: Karate Club
+  github_id: benedekrozemberczki/karateclub
+  pypi_id: karateclub
+  category: graph
 - name: GraphVite
   github_id: DeepGraphLearning/graphvite
   conda_id: milagraph/graphvite
@@ -1336,7 +1353,7 @@ projects:
   category: financial-data
 - name: backtrader
   pypi_id: backtrader
-  github_id: backtrader/backtrader
+  github_id: mementum/backtrader
   category: financial-data
 - name: Crypto Signals
   github_id: CryptoSignal/crypto-signal
@@ -1538,6 +1555,11 @@ projects:
   pypi_id: auptimizer
   github_id: LGE-ARC-AdvancedAI/auptimizer
   category: hyperopt
+- name: Advisor
+  pypi_id: advisor
+  github_id: tobegit3hub/advisor
+  dockerhub_id: tobegit3hub/advisor
+  category: hyperopt
 # ML Workflow Tools
 - name: DVC
   github_id: iterative/dvc
@@ -1713,7 +1735,7 @@ projects:
   github_id: deepmind/lab
   category: reinforcement-learning
 - name: TensorTrade
-  github_id: notadamking/tensortrade
+  github_id: tensortrade-org/tensortrade
   pypi_id: tensortrade
   category: reinforcement-learning
 # Data Containers and Structures
@@ -1764,6 +1786,11 @@ projects:
 - name: datatable
   pypi_id: datatable
   github_id: h2oai/datatable
+  category: data-containers
+- name: Vaex
+  github_id: vaexio/vaex
+  conda_id: conda-forge/vaex
+  pypi_id: vaex
   category: data-containers
 - name: Koalas
   pypi_id: koalas
@@ -1907,7 +1934,7 @@ projects:
   labels: ["spark"]
   category: medical-data
 - name: DIPY
-  github_id: nipy/dipy
+  github_id: dipy/dipy
   pypi_id: dipy
   conda_id: conda-forge/dipy
   category: medical-data
@@ -2500,7 +2527,7 @@ projects:
   pypi_id: data-integration
   category: data-pipelines
 - name: pdpipe
-  github_id: shaypal5/pdpipe
+  github_id: pdpipe/pdpipe
   pypi_id: pdpipe
   category: data-pipelines
 - name: riko
@@ -2729,6 +2756,32 @@ projects:
   pypi_id: profiling
   github_id: what-studio/profiling
   category: system-monitoring
+- name: Glances
+  pypi_id: glances
+  github_id: nicolargo/glances
+  category: system-monitoring
+- name: py-spy
+  pypi_id: py-spy
+  github_id: benfred/py-spy
+  cargo_id: py-spy
+  category: system-monitoring
+- name: Scalene
+  pypi_id: scalene
+  github_id: emeryberger/scalene
+  cargo_id: py-spy
+  category: system-monitoring
+- name: pyinstrument
+  pypi_id: pyinstrument
+  github_id: joerick/pyinstrument
+  category: system-monitoring
+- name: Yappi
+  pypi_id: yappi
+  github_id: sumerc/yappi
+  category: system-monitoring
+- name: line_profiler
+  pypi_id: line_profiler
+  github_id: rkern/line_profiler
+  category: system-monitoring
 # Others
 - name: tensorly
   pypi_id: tensorly
@@ -2838,3 +2891,6 @@ projects:
   pypi_id: baikal
   github_id: alegonz/baikal
   conda_id: conda-forge/cython-blis
+- name: Trax
+  pypi_id: trax
+  github_id: google/trax
